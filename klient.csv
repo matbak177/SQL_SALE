@@ -1,0 +1,2657 @@
+Nr klienta;Region;Województwo;Miasto;Kod pocztowy;Klient
+K02238;pó³nocno-zachodni;wielkopolskie;Poznañ;61-625;Anna Bejnarowicz
+K02189;centralny;mazowieckie;Warszawa;00-324;£ukasz Strêciwilk
+K02882;pó³nocny;kujawsko-pomorskie;Toruñ;87-103;El¿bieta Szablewska
+K03011;po³udniowy;œl¹skie;Rybnik;44-207;Marcin Rowiñski
+K01106;wschodni;lubelskie;Lublin;20-240;Miros³aw Budynek
+K00117;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-183;Sergiusz Kar¿anowski
+K01733;po³udniowy;œl¹skie;Ruda Œl¹ska;41-717;Karol Lewkowicz
+K00640;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-222;Wojciech Remiszewski
+K01488;centralny;mazowieckie;Warszawa;00-696;Marek Kasierski
+K00553;po³udniowy;ma³opolskie;Kraków;31-012;Ryszard Marszewski
+K00607;centralny;mazowieckie;Warszawa;00-166;S³awomir Kossakowski
+K00949;po³udniowy;ma³opolskie;Kraków;31-532;Jan Szymañski
+K00491;centralny;mazowieckie;Warszawa;00-346;Antoni Bartos
+K02498;pó³nocny;kujawsko-pomorskie;Bydgoszcz;85-112;Marek Iwañczyk
+K00698;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-464;Adrian Szatkowski
+K01193;po³udniowy;œl¹skie;Ruda Œl¹ska;41-717;Henryk Nawój
+K00699;po³udniowy;ma³opolskie;Kraków;31-101;Sylwia Szarzyñska
+K03342;po³udniowy;œl¹skie;Ruda Œl¹ska;41-709;Monika Wojtowicz
+K02867;po³udniowy;œl¹skie;Ruda Œl¹ska;41-710;Wojciech Kadzikowski
+K00898;centralny;mazowieckie;Warszawa;00-680;Monika Szymañska
+K00021;centralny;mazowieckie;Warszawa;00-668;Emilia Kochaniewicz
+K01413;po³udniowy;œl¹skie;Rybnik;44-207;Henryk Gauza
+K02920;centralny;³ódzkie;£ódŸ;90-440;Kazimierz Kubik
+K01630;po³udniowo-zachodni;dolnoœl¹skie;Wroc³aw;51-664;Ma³gorzata Szczepanik
+K01129;po³udniowy;œl¹skie;Rybnik;44-251;Jan Bia³ek
+K01280;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-615;Ma³gorzata Dzwonnik
+K01959;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-330;Barbara Antkowiak
+K03121;centralny;mazowieckie;Warszawa;00-686;Dorota Zimna
+K02382;centralny;mazowieckie;Warszawa;00-446;Tomasz Kubiak
+K02842;po³udniowy;ma³opolskie;Kraków;31-510;Dariusz Hnatiuk
+K00272;pó³nocny;kujawsko-pomorskie;Toruñ;87-103;Maria Potyra³o
+K02571;centralny;mazowieckie;Warszawa;00-542;Julian Nowicki
+K00563;wschodni;lubelskie;Lublin;20-148;Kamil Macio³ek
+K00349;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-268;Tomasz Soroczyñski
+K01228;pó³nocno-zachodni;wielkopolskie;Poznañ;61-813;Ryszard Kaczmarek
+K01313;pó³nocno-zachodni;wielkopolskie;Poznañ;61-689;Marcin Ossowicz
+K02491;po³udniowy;ma³opolskie;Kraków;31-102;Piotr Caban
+K00102;po³udniowy;œl¹skie;Rybnik;44-217;Monika Królik
+K03289;po³udniowy;ma³opolskie;Kraków;31-020;Pawe³ Kolanek
+K01745;po³udniowo-zachodni;dolnoœl¹skie;Legnica;59-220;Wioleta Baran
+K03079;pó³nocno-zachodni;wielkopolskie;Poznañ;61-658;Henryk Hy¿y
+K00181;centralny;mazowieckie;Radom;26-617;Artur Ostaszewski
+K02670;po³udniowy;ma³opolskie;Kraków;31-477;Sylwia Waluszko
+K02403;centralny;³ódzkie;£ódŸ;90-147;Adam Cirin
+K02409;po³udniowo-zachodni;opolskie;Popielów;46-090;Bo¿ena Myœliwiec
+K02868;wschodni;podkarpackie;Kañczuga;37-220;Marek Dobrowolski
+K02067;pó³nocno-zachodni;wielkopolskie;Po³ajewo;64-710;Ma³gorzata Makaroyj
+K02065;po³udniowy;œl¹skie;Orzesze;43-180;Bronis³aw Bujniewicz
+K01798;po³udniowy;œl¹skie;Miasteczko Œl¹skie;42-610;Dariusz Kalinowski
+K02905;po³udniowy;ma³opolskie;Muszyna;33-370;Roman Mazierski
+K01999;po³udniowo-zachodni;dolnoœl¹skie;Wroc³aw;50-347;Miros³awa Zielony
+K03145;po³udniowy;œl¹skie;Szczyrk;43-370;Ireneusz Górski
+K00259;pó³nocny;pomorskie;Nowy Dwór Gdañski;82-100;Józef Seku³a
+K01737;pó³nocno-zachodni;wielkopolskie;L¹dek;62-406;Anna Stor
+K01496;centralny;mazowieckie;Gniewoszów;26-920;Helena Kowalska
+K01916;pó³nocno-zachodni;zachodniopomorskie;Œwinoujœcie;72-600;Leszek Lewkowicz
+K00810;po³udniowo-zachodni;dolnoœl¹skie;Wêgliniec;59-940;Anna Turska
+K02846;centralny;³ódzkie;Stryków;95-010;Helena Chodyniecka
+K01188;po³udniowy;ma³opolskie;£¹cko;33-390;Marek Szymkowiak
+K01187;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Micha³ Lewandowski
+K02280;wschodni;œwiêtokrzyskie;Radoszyce;26-230;Zbigniew Krasowski
+K00210;po³udniowy;ma³opolskie;Biecz;38-340;Marika Nowak
+K03337;po³udniowo-zachodni;opolskie;Praszka;46-320;Pawe³ Balicki
+K01820;po³udniowo-zachodni;opolskie;Paw³owiczki;47-280;Monika ¯uchowska
+K02138;po³udniowy;ma³opolskie;Trzciana;32-733;Marta Jastrzêbska
+K00450;po³udniowy;ma³opolskie;Tarnów;33-100;Józef Kirejczyk
+K02641;wschodni;lubelskie;Bi³goraj;23-400;Dariusz G³owacki
+K00317;centralny;mazowieckie;Rusinów;26-411;Anna £uksza
+K01847;po³udniowo-zachodni;dolnoœl¹skie;¯ukowice;67-210;Stanis³aw Kurek
+K02200;po³udniowo-zachodni;dolnoœl¹skie;¯arów;58-130;Mariusz Walaszczyk
+K02655;po³udniowo-zachodni;dolnoœl¹skie;Legnica;59-220;Dariusz Jarosz
+K01236;pó³nocno-zachodni;wielkopolskie;Miejska Górka;63-910;¯aneta Biñkowska
+K02968;po³udniowy;ma³opolskie;Bochnia;32-700;Dariusz Pyrcz
+K02077;centralny;mazowieckie;Stare Babice;05-082;Katarzyna Mróz
+K02078;wschodni;podkarpackie;Rakszawa;37-111;Monika Zab³ocka
+K02080;centralny;³ódzkie;Sokolniki;98-420;Joanna Zarzycka
+K03041;po³udniowy;ma³opolskie;Jab³onka;34-480;Marian Maliñski
+K02610;po³udniowo-zachodni;dolnoœl¹skie;Œroda Œl¹ska;55-300;Stanis³aw Krechowicz
+K01085;wschodni;œwiêtokrzyskie;Pacanów;28-133;Roksana Herman
+K03341;wschodni;lubelskie;Dorohusk;22-175;Barbara Falecka
+K00303;pó³nocny;kujawsko-pomorskie;Nowe;86-170;Hanna Brzeziñska
+K02915;po³udniowy;ma³opolskie;Wojnicz;32-830;Monika Rogowska
+K01403;centralny;mazowieckie;Baboszewo;09-130;Zenon Wrzesiñski
+K01404;po³udniowy;œl¹skie;£aziska Górne;43-170;Jan KaŸmierczak
+K00880;po³udniowy;œl¹skie;Zawiercie;42-400;Waldemar Suliñski
+K01295;wschodni;podlaskie;Ma³y P³ock;18-500;Urszula G³od
+K00815;wschodni;lubelskie;Borzechów;24-224;Miros³aw Jaskulski
+K02350;po³udniowy;œl¹skie;Goleszów;43-440;Pawe³ Hryciów
+K02351;pó³nocno-zachodni;wielkopolskie;Komorniki;62-052;S³awomir Ciborski
+K00964;po³udniowo-zachodni;opolskie;G³ubczyce;48-100;Damian £ukasik
+K01505;pó³nocno-zachodni;lubuskie;Kostrzyn nad Odr¹;66-470;El¿bieta Marciniszyn
+K02746;wschodni;œwiêtokrzyskie;Obrazów;27-641;Monika Dobrowolska
+K00555;wschodni;podkarpackie;Narol;37-610;Cezary Jaskólski
+K03038;po³udniowy;œl¹skie;K³obuck;42-100;Bogumi³a Miko³ajczyk
+K03295;wschodni;lubelskie;Drelów;21-570;Piotr Paszkiewicz
+K03094;po³udniowo-zachodni;opolskie;Prószków;46-061;Micha³ Zinowik
+K02803;wschodni;podlaskie;Milejczyce;17-330;Piotr Barañski
+K03274;centralny;mazowieckie;Zwoleñ;09-500;Adam Fedeñczak
+K00546;wschodni;podkarpackie;Boguchwa³a;36-040;S³awomira Kowalczuk
+K02206;pó³nocny;pomorskie;Cedry Wielkie;83-020;Jan Terelak
+K00899;pó³nocno-zachodni;lubuskie;Babimost;66-110;Piotr Chmielewski
+K00254;po³udniowo-zachodni;opolskie;Chrz¹stowice;46-053;Tomasz Szatkiewicz
+K00767;pó³nocno-zachodni;lubuskie;Nowe Miasteczko;67-124;Eugeniusz Saryczew
+K03330;po³udniowy;œl¹skie;Tarnowskie Góry;42-600;Ewa Rafa³ko
+K02899;wschodni;podkarpackie;Sieniawa;37-530;Andrzej Mazur
+K00262;centralny;³ódzkie;Piotrków Trybunalski;97-300;Bo¿ena Leœniewska
+K00591;centralny;mazowieckie;Wyszogród;09-450;Aldona Piaskowska
+K00592;po³udniowy;ma³opolskie;Wieprz;34-122;Barbara Kozio³
+K03105;centralny;mazowieckie;Czerwin;07-407;Ryszard Klimczak
+K01945;centralny;mazowieckie;Lubowidz;09-304;Kazimierz Grzywacz
+K01695;po³udniowo-zachodni;dolnoœl¹skie;Brzeg Dolny;56-120;Robert Szymañski
+K03010;centralny;mazowieckie;Nowy Duninów;09-505;Dorota Tarczyñska
+K00561;pó³nocno-zachodni;zachodniopomorskie;Œwidwin;78-300;Marek Syrnyk
+K03141;pó³nocny;warmiñsko-mazurskie;I³awa;14-200;Piotr B³aszczyk
+K02397;pó³nocno-zachodni;wielkopolskie;Ostrowite;62-235;Farhad Mohamad
+K00393;wschodni;lubelskie;¯ó³kiewka;22-335;Krzysztof Borkowski
+K01461;pó³nocno-zachodni;zachodniopomorskie;Trzebiatów;72-320;Wojciech Mac
+K01107;pó³nocno-zachodni;lubuskie;Sk¹pe;66-213;Krystyna Mazur
+K01074;po³udniowo-zachodni;dolnoœl¹skie;Zgorzelec;59-900;Przemys³aw Burtny
+K02954;pó³nocno-zachodni;wielkopolskie;Margonin;64-830;Agnieszka £êpicka
+K03118;wschodni;lubelskie;Susiec;22-672;Sebastian Rylowski
+K00608;po³udniowo-zachodni;dolnoœl¹skie;K¹ty Wroc³awskie;55-080;Waldemar Karaœkiewicz
+K03190;po³udniowy;œl¹skie;¯arki;42-310;Maciej Dziekanowski
+K02850;pó³nocny;kujawsko-pomorskie;Bukowiec;86-320;Marian Mazurkiewicz
+K00907;wschodni;œwiêtokrzyskie;Kluczewsko;29-120;Stanis³aw Bêben
+K02560;pó³nocno-zachodni;lubuskie;Zabór;66-003;Miros³awa Biernat
+K01486;po³udniowo-zachodni;dolnoœl¹skie;Prusice;55-110;Miros³aw Krajewski
+K03029;po³udniowy;ma³opolskie;Muszyna;33-370;Rafa³ Wandachowicz
+K02661;centralny;mazowieckie;Olszewo-Borki;07-415;Henryk B¹k
+K02662;po³udniowy;ma³opolskie;Lubieñ;32-433;Jan Olejnik
+K03165;wschodni;podlaskie;Filipów;16-424;Edyta Wencel
+K01906;po³udniowy;ma³opolskie;Nowy Wiœnicz;32-720;Jerzy Adamczyk
+K03224;wschodni;lubelskie;Rybczewice;21-065;Sylwia Szarek
+K02472;centralny;mazowieckie;M³awa;06-500;Piotr Winiecki
+K00119;centralny;³ódzkie;Bia³aczów;26-307;Przemys³aw Krzy¿anowski
+K02553;pó³nocno-zachodni;wielkopolskie;Pleszew;63-300;Krzysztof Sielicki
+K01257;pó³nocno-zachodni;wielkopolskie;Ostrów Wielkopolski;63-400;Sylwia Karwowska
+K01108;centralny;mazowieckie;Ró¿an;06-230;Pawe³ Chyt
+K02979;wschodni;lubelskie;Jeziorzany;21-146;Marek Bobrowski
+K00572;po³udniowo-zachodni;dolnoœl¹skie;Bardo;57-256;Robert Tobiasz
+K00945;wschodni;lubelskie;Spiczyn;21-077;Sebastian Chowañski
+K01138;pó³nocno-zachodni;wielkopolskie;Bojanowo;63-940;Weronika KuŸmiñska
+K02923;pó³nocno-zachodni;zachodniopomorskie;Chociwel;73-120;Ludwik Szczur
+K01840;pó³nocno-zachodni;lubuskie;Krzeszyce;66-435;Tomasz Hnat
+K02264;centralny;mazowieckie;£askarzew;08-450;Zbigniew Sikorski
+K00237;po³udniowy;œl¹skie;Knurów;44-190;Magdalena Borowik
+K02094;wschodni;podkarpackie;Ropczyce;39-100;Anna Banaœkiewicz
+K02677;centralny;mazowieckie;Sobienie-Jeziory;08-443;Szymon Piasecki
+K00759;centralny;³ódzkie;Bia³a Rawska;96-230;Maria ŒŒwiderska
+K01679;pó³nocno-zachodni;wielkopolskie;Stawiszyn;62-820;Robert Dudczak
+K02379;pó³nocno-zachodni;wielkopolskie;Kramsk;62-511;Marianna Lewusz
+K02380;wschodni;lubelskie;Œwidnik;21-040;Czes³aw Klimczak
+K03057;pó³nocno-zachodni;wielkopolskie;Rakoniewice;62-067;Janusz Stawicki
+K03055;pó³nocno-zachodni;lubuskie;Gubin;66-620;Stanis³aw Wolski
+K01591;pó³nocny;pomorskie;Sztutowo;82-110;Dagmara S³owiñska
+K02230;po³udniowy;œl¹skie;¯ory;44-240;Marek P³aza
+K01933;centralny;³ódzkie;Zgierz;95-100;Krzysztof Cysewski
+K00129;wschodni;lubelskie;Janowiec;24-123;Tomasz Bernacki
+K02247;po³udniowy;œl¹skie;Koszêcin;42-286;Ewa Wo³o¿yñska
+K01446;wschodni;œwiêtokrzyskie;Stopnica;28-130;Hieronim Michalak
+K00245;pó³nocno-zachodni;zachodniopomorskie;Moryñ;74-503;Bartosz Roman
+K01670;pó³nocny;pomorskie;Hel;84-150;Witold Kopera
+K01458;po³udniowo-zachodni;opolskie;Œwierczów;46-100;Jadwiga Róg
+K02417;centralny;mazowieckie;Œwiercze;06-150;Kamilla Sichau
+K01115;po³udniowo-zachodni;dolnoœl¹skie;Nowa Ruda;57-401;Piotr Klimczak
+K03131;pó³nocny;kujawsko-pomorskie;Radziejów;88-200;Micha³ Dudkowski
+K03174;po³udniowy;ma³opolskie;Zakliczyn;32-406;Marcin Wolny
+K03173;po³udniowy;œl¹skie;Lubliniec;42-700;Andrzej Wasiak
+K01525;pó³nocno-zachodni;wielkopolskie;Granowo;62-065;Andrzej Jarmuszka
+K00015;po³udniowo-zachodni;dolnoœl¹skie;Polkowice;59-101;Irena Ciesielska
+K01863;pó³nocny;pomorskie;Rzeczenica;77-304;Karol Banaœkiewicz
+K03112;po³udniowy;ma³opolskie;Kalwaria Zebrzydowska;34-130;Zdzis³aw P³a¿alski
+K00796;centralny;mazowieckie;Ciepielów;27-310;Joanna Kluska
+K02009;wschodni;lubelskie;Tereszpol;23-407;Józef Wilk
+K02010;pó³nocno-zachodni;wielkopolskie;Miêdzychód;64-400;Anna Kawalec
+K02495;centralny;mazowieckie;Korczew;08-108;Krzysztof Psyka³a
+K03153;po³udniowy;œl¹skie;Lyski;44-295;Jadwiga Gardziñska
+K01180;wschodni;œwiêtokrzyskie;Gnojno;28-114;Andrzej Fedorowicz
+K02896;wschodni;podlaskie;Micha³owo;16-050;Jacek Petryszyn
+K02017;centralny;mazowieckie;Jedlnia-Letnisko;26-630;Marek £ysko
+K02393;pó³nocny;pomorskie;Bytów;77-100;Dorota Sudnikowicz
+K01826;po³udniowo-zachodni;dolnoœl¹skie;Lubomierz;59-623;Jerzy Rusa
+K01574;wschodni;podkarpackie;Krosno;38-400;Ryszard Patkowski
+K01686;wschodni;œwiêtokrzyskie;Koñskie;26-200;Leokadia Szumczyk
+K02783;po³udniowy;ma³opolskie;Szczurowa;32-820;Danuta Pietrzela
+K03179;pó³nocny;kujawsko-pomorskie;£ubianka;87-152;Kazimierz Gawêcki
+K00777;pó³nocno-zachodni;wielkopolskie;Pogorzela;63-860;Arkadiusz Ewert
+K00778;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Janina Szupieñko
+K00779;pó³nocno-zachodni;lubuskie;Gozdnica;68-130;Wies³awa Szczêsna
+K01303;centralny;mazowieckie;Huszlew;08-206;Teresa Kwiatkowska
+K01124;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Piotr Janczura
+K01123;wschodni;œwiêtokrzyskie;Sandomierz;27-600;Joanna Lipik
+K00602;po³udniowy;ma³opolskie;S³omniki;32-090;Jacek Leœniak
+K03060;wschodni;lubelskie;Frampol;23-440;Henryk Mruk
+K02507;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Monika Wiœniewska
+K02522;wschodni;lubelskie;Tarnogród;23-420;Robert Piskorz
+K02506;wschodni;lubelskie;Rachanie;22-640;Karina Kochañska
+K02516;wschodni;œwiêtokrzyskie;Wodzis³aw;28-330;Stefan Dymañski
+K02520;pó³nocny;pomorskie;Malbork;82-200;Anna Sierecka
+K02998;centralny;³ódzkie;Dzia³oszyn;98-355;Henryk Bryæko
+K00304;po³udniowo-zachodni;dolnoœl¹skie;Dobroszyce;56-410;Dawid Stawski
+K02146;pó³nocny;pomorskie;Kosakowo;81-198;Miros³aw Pawlak
+K01471;pó³nocno-zachodni;wielkopolskie;K³ecko;62-270;Janusz Chmielewski
+K01414;po³udniowy;œl¹skie;Chybie;43-520;Grzegorz Ufniarz
+K03162;wschodni;podkarpackie;Miejsce Piastowe;38-430;Rafa³ Szpilkowski
+K00565;pó³nocny;warmiñsko-mazurskie;Susz;14-240;Agnieszka Szeremeta
+K01068;wschodni;œwiêtokrzyskie;Koprzywnica;27-660;Maria Dembowska
+K02032;wschodni;lubelskie;W¹wolnica;24-160;Maria Pokorska
+K02033;wschodni;podlaskie;Zab³udów;16-060;Piotr Zimny
+K00922;centralny;mazowieckie;Wo³omin;05-200;Sylwester Matusiak
+K02061;wschodni;lubelskie;Michów;21-140;Maciej Starnawski
+K02778;wschodni;podlaskie;Hajnówka;17-200;Monika Czajkowska
+K00090;pó³nocno-zachodni;zachodniopomorskie;Gryfice;72-300;Agnieszka Maœliñska
+K00091;pó³nocno-zachodni;zachodniopomorskie;Goleniów;72-100;Agnieszka Jakubik
+K02972;centralny;mazowieckie;Izabelin;05-126;Teresa Sadowska
+K01725;po³udniowy;œl¹skie;Krzy¿anowice;47-450;Barbara Kordas
+K02526;centralny;³ódzkie;Wieluñ;98-300;Miros³aw Ekiert
+K00250;po³udniowy;ma³opolskie;Czchów;32-860;Bo¿ena Tacher
+K01126;po³udniowy;œl¹skie;Wilamowice;43-330;Sylwia Zduñczyk
+K00220;wschodni;lubelskie;Krynice;22-610;Andrzej Myzik
+K00566;centralny;mazowieckie;Wyszogród;09-450;Maksymilian Perkowski
+K02052;po³udniowo-zachodni;opolskie;Opole;45-676;Joanna Sosnowska
+K02822;wschodni;lubelskie;Wojcieszków;21-411;Filip Marciñczak
+K01746;pó³nocno-zachodni;wielkopolskie;Z³otów;77-400;Ewelina Langner
+K03327;centralny;³ódzkie;Rusiec;97-438;Maria Janowicz
+K00335;centralny;mazowieckie;Szyd³owiec;26-500;Jadwiga Kamiñska
+K03126;wschodni;podlaskie;Rudka;17-120;Marek Jakutajæ
+K03248;po³udniowy;ma³opolskie;Koœcielisko;34-511;Dawid Jurczyk
+K01946;centralny;mazowieckie;Andrzejewo;07-305;Maciej Lewandowski
+K00095;centralny;³ódzkie;Dobroñ;95-082;Wojciech Staniszewski
+K02853;po³udniowy;ma³opolskie;Ryglice;33-160;Bo¿ena Nowak
+K03108;centralny;³ódzkie;£êczyca;99-100;Aurelia Szo³tun
+K01912;po³udniowo-zachodni;dolnoœl¹skie;Lwówek Œl¹ski;59-600;Andrzej Choma
+K01913;wschodni;podlaskie;Kulesze Koœcielne;18-208;Mariusz Jezierski
+K01644;pó³nocny;warmiñsko-mazurskie;Mi³akowo;14-310;Arkadiusz Sadowski
+K01699;wschodni;lubelskie;Firlej;21-136;Marzena Dyguda
+K00366;centralny;mazowieckie;Brwinów;05-840;Alicja Wójcik
+K00507;pó³nocno-zachodni;zachodniopomorskie;Chojna;74-500;Marian Cybulski
+K00506;centralny;mazowieckie;Siedlce;08-119;Jacek Kasiñski
+K00083;centralny;mazowieckie;B³êdów;05-620;Pawe³ Giedo
+K02903;pó³nocno-zachodni;lubuskie;Trzciel;66-320;Zdzis³awa Graczyk
+K01885;centralny;mazowieckie;Gzy;06-126;Stanis³aw Komar
+K01882;wschodni;lubelskie;Zwierzyniec;22-304;Andrzej Malec
+K02607;pó³nocny;pomorskie;Dziemiany;83-425;Krzysztof Chabaj
+K00301;wschodni;lubelskie;Wola Uhruska;22-230;Magdalena £omako
+K02910;wschodni;podlaskie;Wysokie Mazowieckie;18-200;Zenon Piku³a
+K00059;wschodni;œwiêtokrzyskie;Kazimierza Wielka;28-500;Grzegorz Grochowski
+K02900;pó³nocny;kujawsko-pomorskie;Waganiec;87-731;Bogus³aw Rajnert
+K00981;centralny;mazowieckie;Gózd;26-634;Teresa Orsztynowicz
+K01556;po³udniowo-zachodni;dolnoœl¹skie;O³awa;55-200;Helena S³ugocka
+K02799;wschodni;podlaskie;Milejczyce;17-330;Jacek WoŸniak
+K03228;pó³nocno-zachodni;wielkopolskie;KoŸminek;62-840;Rados³aw Kluszczyñski
+K01904;wschodni;podkarpackie;Tarnowiec;38-204;£ukasz Neumann
+K02529;wschodni;lubelskie;Krasnystaw;22-300;Anna Dworek
+K00170;po³udniowy;ma³opolskie;£ukowica;34-606;Natalia Wiœniewska
+K00508;pó³nocny;pomorskie;Czarna Woda;83-262;Edward Bodnar
+K01738;wschodni;lubelskie;Parczew;21-200;Teresa Polañska
+K03229;po³udniowy;œl¹skie;Wielowieœ;44-187;Krzysztof Haberski
+K01445;wschodni;podkarpackie;Zarszyn;38-530;Krzysztof P³uska
+K02092;pó³nocno-zachodni;zachodniopomorskie;Trzciñsko-Zdrój;74-510;Anna Kobyliñska
+K03374;pó³nocny;kujawsko-pomorskie;Lubicz;87-162;Jolanta Pluto
+K01934;po³udniowo-zachodni;dolnoœl¹skie;Œcinawa;55-200;Marek Pietraszewski
+K01550;pó³nocny;warmiñsko-mazurskie;Orneta;11-130;Antoni S³awnikowski
+K02643;centralny;mazowieckie;Stromiec;26-804;Danuta Godlewska
+K02948;pó³nocno-zachodni;zachodniopomorskie;Osina;72-100;Adam Walterowicz
+K01170;wschodni;podlaskie;Sura¿;18-100;Kazimierz Lipiñski
+K00762;po³udniowy;ma³opolskie;Olkusz;32-300;Piotr Kowalisko
+K03402;pó³nocno-zachodni;zachodniopomorskie;Wolin;72-510;Aneta Olszacka
+K03396;pó³nocny;kujawsko-pomorskie;Lubraniec;87-890;Andrzej Katuszonek
+K02794;po³udniowo-zachodni;dolnoœl¹skie;Legnickie Pole;59-241;Micha³ Jaczyñski
+K02141;po³udniowo-zachodni;dolnoœl¹skie;Kotla;67-210;Mieczys³aw KuŸniarski
+K02142;wschodni;podkarpackie;RoŸwienica;37-565;Waldemar Filipowicz
+K02075;pó³nocno-zachodni;lubuskie;Œwiebodzin;66-200;Paulina Makaroyj
+K00599;wschodni;lubelskie;Ruda-Huta;22-110;Alicja Grabiec
+K01189;centralny;³ódzkie;Sieradz;98-200;Gra¿yna Hes
+K01315;pó³nocny;kujawsko-pomorskie;Grudzi¹dz;86-300;Tomasz Orman
+K01622;centralny;mazowieckie;Mogielnica;08-108;Zbigniew Strzelczyk
+K02930;po³udniowo-zachodni;opolskie;Byczyna;46-220;Monika Wajsprych
+K02883;centralny;³ódzkie;Buczek;95-060;Jolanta Szymañska
+K02924;centralny;mazowieckie;Klembów;05-205;W³adys³awa Stefanowicz
+K03363;centralny;mazowieckie;Szczawin Koœcielny;09-550;Janusz Garbacz
+K00023;wschodni;œwiêtokrzyskie;Miedziana Góra;26-085;Krzysztof Go³aszewski
+K00156;po³udniowy;œl¹skie;CzeladŸ;41-250;Andrzej Badowski
+K02696;po³udniowy;œl¹skie;Radzionków;41-922;Piotr Pasikowski
+K02300;po³udniowo-zachodni;dolnoœl¹skie;Strzelin;57-100;Jolanta Skrobot
+K00417;pó³nocno-zachodni;wielkopolskie;Skoki;62-085;Andrzej Kusyk
+K00048;pó³nocno-zachodni;wielkopolskie;Œroda Wielkopolska;63-000;Krystyna Wajda
+K02827;centralny;mazowieckie;Sierpc;09-200;Adam Koœcielny
+K00744;centralny;³ódzkie;Z³oczew;98-270;Sylwester Olszewski
+K00477;pó³nocny;kujawsko-pomorskie;Czernikowo;87-640;Grzegorz Jaromin
+K01711;pó³nocno-zachodni;lubuskie;Rzepin;69-110;Jadwiga Kuczyñska
+K01978;pó³nocno-zachodni;wielkopolskie;Œrem;63-100;Grzegorz Kowalczyk
+K01979;pó³nocny;kujawsko-pomorskie;Jab³onowo Pomorskie;87-330;Barbara Szczerkowska
+K00683;centralny;mazowieckie;Ciepielów;27-310;Józef Robak
+K01145;centralny;mazowieckie;M³odzieszyn;96-512;Iwona Skawiñska
+K02591;po³udniowo-zachodni;dolnoœl¹skie;Wleñ;59-610;Irena £êcka
+K01542;wschodni;podlaskie;KuŸnica;16-123;Dariusz Dutkiewicz
+K02447;pó³nocno-zachodni;wielkopolskie;Witkowo;62-230;Karina Królicka
+K03302;wschodni;podkarpackie;Strzy¿ów;38-100;Krzysztof K³oda
+K00401;pó³nocny;warmiñsko-mazurskie;Lidzbark;13-230;Marianna Lorent
+K03166;pó³nocno-zachodni;wielkopolskie;Szamotu³y;64-500;Nikodem Stasik
+K00695;centralny;mazowieckie;Stanis³awów;05-304;Isadora Freyer
+K01614;wschodni;lubelskie;Uchanie;22-510;Marcin Zarzycki
+K02667;pó³nocny;pomorskie;Brusy;89-632;Piotr Niemczyk
+K01571;po³udniowy;ma³opolskie;Rytro;33-343;Marcin Kwiatkowski
+K01041;po³udniowo-zachodni;opolskie;Wo³czyn;46-250;Beata Rybczyñska
+K01792;po³udniowy;œl¹skie;Jeleœnia;34-340;Teresa Halasz
+K02109;centralny;mazowieckie;Kosów Lacki;08-330;Ryszard Kusyk
+K01250;po³udniowo-zachodni;dolnoœl¹skie;Miêdzylesie;57-530;Grzegorz Kupisz
+K02840;centralny;mazowieckie;£osice;08-200;Beata Mokrzycka
+K02097;centralny;mazowieckie;Chorzele;06-330;Ma³gorzata Pu³awa
+K02098;pó³nocny;pomorskie;Puck;84-100;Andrzej Jaskulski
+K02820;pó³nocny;kujawsko-pomorskie;Bobrowo;87-327;Rafa³ Roso³owski
+K02099;wschodni;podkarpackie;Pysznica;37-403;Ewa W³odyka
+K00411;po³udniowy;ma³opolskie;Nowy S¹cz;33-300;Ma³gorzata Chat³as
+K03393;pó³nocno-zachodni;wielkopolskie;Budzyñ;64-840;Gra¿yna Dudka
+K02543;wschodni;lubelskie;Pu³awy;24-100;Maria Skaba
+K03205;centralny;mazowieckie;Czerwiñsk nad Wis³¹;09-150;Tomasz Kwiatkowski
+K03206;centralny;mazowieckie;Serock;05-140;Piotr S³omski
+K01135;po³udniowy;ma³opolskie;NiedŸwiedŸ;32-090;Henryk Michalski
+K00065;wschodni;lubelskie;Janów Lubelski;23-300;Ma³gorzata £uczkiewicz
+K00066;po³udniowy;œl¹skie;Bieruñ;43-155;Jan Adamczyk
+K00069;pó³nocno-zachodni;wielkopolskie;Mycielin;62-831;Krystyna Koœciñska
+K00637;pó³nocno-zachodni;wielkopolskie;Ko³o;62-600;Jan Grudziñski
+K02256;po³udniowy;œl¹skie;Ujso³y;34-371;Marek Pacek
+K02561;pó³nocno-zachodni;zachodniopomorskie;Golczewo;72-410;Mariola Figurska
+K03299;wschodni;podlaskie;Rajgród;19-206;Marta £apiñska
+K00700;po³udniowy;œl¹skie;Pyskowice;44-120;Janusz Marchewka
+K01606;wschodni;podkarpackie;Korczyna;38-420;Grzegorz Kujda
+K02612;pó³nocno-zachodni;zachodniopomorskie;Radowo Ma³e;72-314;Zbigniew Ka³dus
+K00956;pó³nocno-zachodni;lubuskie;£êknica;68-208;¯aneta Pielech
+K01540;po³udniowy;ma³opolskie;Libi¹¿;32-590;Stanis³aw KaŸmierczyk
+K01492;centralny;³ódzkie;BrzeŸnio;98-275;Jan S³omiñski
+K02619;wschodni;podkarpackie;Jas³o;38-200;Jolanta Jank
+K00472;wschodni;lubelskie;Ruda-Huta;22-110;Arkadiusz Rojek
+K02210;centralny;mazowieckie;Korytnica;07-120;Ma³gorzata Kisielewska
+K02058;centralny;mazowieckie;Glinojeck;06-450;Ewa Czycz
+K00215;pó³nocny;kujawsko-pomorskie;Piotrków Kujawski;88-230;Monika Grudziñska
+K00463;wschodni;podlaskie;Nowogród;18-414;Olga Rzepczyñska
+K00055;centralny;mazowieckie;Grodzisk Mazowiecki;05-825;Mieczys³aw Dekaban
+K00443;pó³nocny;kujawsko-pomorskie;Nowe;86-170;Mateusz Bia³czak
+K01561;pó³nocny;pomorskie;Skarszewy;83-250;Wiktor Kwarciñski
+K01130;pó³nocny;kujawsko-pomorskie;Golub-Dobrzyñ;87-400;Artur Dziwoñ
+K01747;pó³nocny;pomorskie;Kartuzy;83-300;Sylwester Goszkiewicz
+K00542;pó³nocno-zachodni;wielkopolskie;Gniezno;62-200;Jadwiga Grabowska
+K02467;pó³nocno-zachodni;wielkopolskie;Krzy¿ Wielkopolski;64-761;Marek Leciaho
+K00344;po³udniowo-zachodni;opolskie;Ozimek;46-040;Gra¿yna Karpowicz
+K02907;pó³nocno-zachodni;wielkopolskie;Mikstat;63-510;Ilona Dade³³o
+K02289;pó³nocno-zachodni;wielkopolskie;Kórnik;62-035;Henryk Broda
+K00673;pó³nocno-zachodni;zachodniopomorskie;Mielno;76-032;Bo¿ena Szpak
+K01357;pó³nocny;warmiñsko-mazurskie;Pasym;12-130;Zdzis³aw Twardowski
+K03068;pó³nocno-zachodni;zachodniopomorskie;Recz;73-210;Jan Kolanek
+K00618;po³udniowy;ma³opolskie;Gdów;32-420;Anna RaŸna
+K00617;po³udniowo-zachodni;dolnoœl¹skie;Jordanów Œl¹ski;55-040;Krzysztof Panek
+K00101;po³udniowy;ma³opolskie;Mucharz;34-106;Izabela Ma³ecka
+K00109;pó³nocno-zachodni;wielkopolskie;Giza³ki;63-308;Beata Frankowska
+K01378;po³udniowy;ma³opolskie;Ska³a;32-043;Miros³awa Butryn
+K02049;pó³nocno-zachodni;lubuskie;Zb¹szynek;66-210;Sylwia Legieæ
+K01351;pó³nocno-zachodni;wielkopolskie;Sieraków;64-410;Marcin Wyder
+K03076;centralny;³ódzkie;Szadek;98-240;Andrzej PrzeŸdziêk
+K03116;wschodni;lubelskie;£aszczów;22-650;Halina Kmita
+K01789;centralny;mazowieckie;Teresin;05-340;Janina Chrystofiak
+K02358;pó³nocny;pomorskie;Sopot;81-747;Krystyna Rogo¿a
+K02858;wschodni;lubelskie;Wisznice;21-580;Józef £uszczek
+K02577;centralny;³ódzkie;Kutno;99-300;Robert Miko³ajczyk
+K01386;centralny;mazowieckie;Brañszczyk;07-221;Marcin Rusinek
+K01557;centralny;mazowieckie;D¹brówka;26-800;Miros³aw Napieracz
+K02499;wschodni;lubelskie;£ukowa;23-412;Andrzej Basarab
+K03241;centralny;mazowieckie;Lipsko;27-300;Joanna Jemilianowicz
+K01952;pó³nocno-zachodni;wielkopolskie;Raszków;63-440;Andrzej Danielewicz
+K01377;centralny;³ódzkie;Burzenin;98-260;Jan Ziêtek
+K02088;po³udniowo-zachodni;dolnoœl¹skie;Pieszyce;58-250;Wojciech Niechajczyk
+K00188;wschodni;lubelskie;Goœcieradów;23-275;Stefan Romecki
+K02015;pó³nocny;pomorskie;Sierakowice;83-340;Lech ¯uromski
+K01008;centralny;mazowieckie;Szelków;06-220;Piotr Piwoni
+K01507;pó³nocny;kujawsko-pomorskie;Mrocza;89-115;Tomasz Karkoszka
+K03086;pó³nocno-zachodni;wielkopolskie;KoŸmin Wielkopolski;63-720;Andrzej Goryñ
+K02668;wschodni;podlaskie;Wasilków;16-010;Bart³omiej Grzesiak
+K00451;pó³nocno-zachodni;wielkopolskie;Krzykosy;62-650;Krzysztof Motyliñski
+K01015;po³udniowy;ma³opolskie;Alwernia;32-566;Urszula Sroka
+K02114;po³udniowo-zachodni;dolnoœl¹skie;Œwidnica;58-100;Iwona Obel
+K01852;po³udniowy;ma³opolskie;Andrychów;34-120;Paulina Matejek
+K01856;po³udniowy;œl¹skie;Irz¹dze;42-446;Jadwiga Jasiñska
+K01858;pó³nocno-zachodni;lubuskie;S³ubice;69-100;Laura Rymaszewska
+K02127;po³udniowy;ma³opolskie;Zakopane;34-500;Micha³ Bamburak
+K01244;wschodni;lubelskie;Radzyñ Podlaski;21-300;Irena Kilimnik
+K00052;pó³nocny;warmiñsko-mazurskie;Tolkmicko;82-340;Grzegorz Kostecki
+K00053;centralny;mazowieckie;Przysucha;26-400;Agnieszka Drobinska
+K01942;pó³nocny;warmiñsko-mazurskie;Bia³a Piska;12-230;Magdalena Grzywacz
+K01002;po³udniowo-zachodni;opolskie;Kêdzierzyn-KoŸle;47-200;Gra¿yna Okoniewska
+K03200;po³udniowo-zachodni;dolnoœl¹skie;Bielawa;58-260;Artur Pietrzycki
+K01734;wschodni;podkarpackie;Sko³yszyn;38-242;Teresa Trojanowska
+K03062;pó³nocno-zachodni;wielkopolskie;Koœcian;64-000;Krzysztof Tyrpieñ
+K02605;pó³nocno-zachodni;zachodniopomorskie;Karlino;78-230;Jerzy Szczube³ek
+K02404;centralny;³ódzkie;Burzenin;98-260;Martyna Jasiak
+K00693;pó³nocno-zachodni;zachodniopomorskie;Bia³ogard;78-200;Dariusz Sza³owiñski
+K01079;centralny;³ódzkie;Uniejów;99-210;Dorota Tujek
+K01924;pó³nocny;kujawsko-pomorskie;Unis³aw;86-260;Krystyna Pasek
+K01922;pó³nocny;warmiñsko-mazurskie;Janowiec Koœcielny;13-111;Jolanta Wencka
+K00670;pó³nocny;kujawsko-pomorskie;Warlubie;86-160;Katarzyna Gajewska
+K00426;wschodni;podkarpackie;Stalowa Wola;37-450;Boles³aw £êcki
+K03012;wschodni;podkarpackie;Tarnobrzeg;39-400;Jaros³aw Krzeœniak
+K01545;wschodni;lubelskie;Józefów nad Wis³¹;24-340;Miros³aw Turów
+K00414;po³udniowy;ma³opolskie;Go³cza;32-075;Zofia Jezierska
+K00413;po³udniowo-zachodni;opolskie;Ozimek;46-040;Wioleta Koz³owska
+K00688;centralny;mazowieckie;Krzynow³oga Ma³a;06-316;Miros³aw Gruchot
+K00533;po³udniowy;œl¹skie;Lelów;42-235;Andrzej Maœlanka
+K01116;po³udniowo-zachodni;dolnoœl¹skie;Oleœnica;56-400;Gracjan Drabik
+K01011;wschodni;podlaskie;Przytu³y;18-420;Anna ¯y³ka
+K00125;wschodni;podkarpackie;Nowa Sarzyna;37-310;Zygmunt Ostrowski
+K00002;wschodni;podlaskie;Czy¿ew;18-220;Jacek Muryn
+K00223;wschodni;œwiêtokrzyskie;Po³aniec;28-230;Roman Kostyk
+K00138;po³udniowo-zachodni;dolnoœl¹skie;Kondratowice;57-150;Joanna Hoñko
+K02592;po³udniowy;ma³opolskie;D¹browa Tarnowska;33-200;Helena Elert
+K02908;po³udniowy;œl¹skie;Przyrów;42-248;Czes³awa Borgul
+K00530;centralny;mazowieckie;Milanówek;05-822;Zbigniew Potêpa
+K03151;wschodni;podkarpackie;Zarzecze;36-040;Tomasz Rofka
+K02070;wschodni;podlaskie;Kleszczele;17-250;Jaros³aw Mechliñski
+K02011;centralny;mazowieckie;Stanis³awów;96-314;Bogdan Liberra
+K02628;po³udniowo-zachodni;dolnoœl¹skie;Przemków;59-170;Magdalena Kusiakiewicz
+K00850;centralny;mazowieckie;Obryte;07-215;Dariusz Szalla
+K01237;pó³nocny;warmiñsko-mazurskie;Bartoszyce;11-200;Maciej Ba³dyga
+K01927;pó³nocny;warmiñsko-mazurskie;Barczewo;11-010;Monika Majcher
+K03356;pó³nocny;pomorskie;Linia;84-223;Halina Samek
+K01211;wschodni;podkarpackie;Mielec;39-300;Piotr Kalisz
+K02962;pó³nocny;kujawsko-pomorskie;Obrowo;87-123;Anna Siwek
+K03154;pó³nocny;warmiñsko-mazurskie;P³oœnica;13-206;Tomasz Antonyk
+K02321;wschodni;lubelskie;Goraj;23-450;Ryszard Czepulonis
+K02966;po³udniowo-zachodni;dolnoœl¹skie;Jelenia Góra;58-560;Marzenna Zaj¹czkowska
+K02880;pó³nocny;kujawsko-pomorskie;Skêpe;87-630;Marian Wiœniewski
+K02629;wschodni;podlaskie;Knyszyn;19-120;Dorota Szajnowska
+K02859;pó³nocny;warmiñsko-mazurskie;Szczytno;12-100;Marzena Stachnio
+K01021;pó³nocny;pomorskie;Tuchomie;77-133;Katarzyna Domañska
+K00585;pó³nocno-zachodni;wielkopolskie;Rakoniewice;62-067;Katarzyna Nowicka
+K03172;wschodni;podkarpackie;Zarzecze;36-041;Jerzy Filipczak
+K02550;wschodni;podkarpackie;Kroœcienko Wy¿ne;38-422;Mieczys³aw Sandorski
+K02999;pó³nocno-zachodni;zachodniopomorskie;Rymañ;78-125;Jerzy Nowicki
+K00770;wschodni;podkarpackie;Stubno;37-723;Andrzej Jacyna
+K00771;po³udniowy;ma³opolskie;Trzciana;32-733;Ewa Jakubowska
+K00580;centralny;mazowieckie;Stare Babice;05-082;Tomasz Srebrzyñski
+K00578;po³udniowo-zachodni;opolskie;Skarbimierz;49-300;Andrzej Wiœniewski
+K00579;centralny;mazowieckie;Mochowo;09-214;Dorota Szczêsna
+K00665;pó³nocny;pomorskie;Reda;84-240;Krystyna Szameto
+K01682;centralny;³ódzkie;£ódŸ;90-731;Iwona Pietrzak
+K00221;po³udniowo-zachodni;opolskie;Kietrz;48-130;Jakub Florek
+K00040;pó³nocno-zachodni;wielkopolskie;Strza³kowo;62-420;Krzysztof Sikorski
+K00236;pó³nocny;kujawsko-pomorskie;Obrowo;87-123;Katarzyna Góralska
+K02645;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-203;Marcin Frankiewicz
+K00350;po³udniowo-zachodni;opolskie;Leœnica;47-150;Edyta Klepczyñska
+K02468;po³udniowy;œl¹skie;Soœnicowice;44-153;Tomasz Stanis³awczyk
+K02082;wschodni;podlaskie;Bia³owie¿a;17-230;Jolanta Szejgiec
+K02079;wschodni;lubelskie;Siedliszcze;22-145;Krzysztof Sobko
+K02044;po³udniowo-zachodni;dolnoœl¹skie;Szklarska Porêba;58-580;Andrzej Ry³yk
+K02244;wschodni;podkarpackie;Majdan Królewski;36-110;Antoni Moñko
+K03275;pó³nocny;pomorskie;Krynica Morska;82-120;Bogumi³ Ga³a
+K02462;po³udniowo-zachodni;dolnoœl¹skie;Œwieradów-Zdrój;59-850;Maria Makowska
+K02324;pó³nocno-zachodni;wielkopolskie;Blizanów;62-814;Piotr Buda
+K02325;pó³nocny;kujawsko-pomorskie;Lubieñ Kujawski;87-840;Lucyna Jasek
+K02327;pó³nocny;pomorskie;Ko³czyg³owy;77-140;Wioletta LebiedŸ
+K01390;po³udniowo-zachodni;dolnoœl¹skie;G³ogów;67-210;Lucyna Urbaniak
+K00427;pó³nocny;pomorskie;S³upsk;76-200;Dariusz Stefañski
+K03384;wschodni;podkarpackie;Soko³ów Ma³opolski;36-050;Janusz Kostrzewa
+K00791;po³udniowy;ma³opolskie;£¹cko;33-390;Danuta Trocka
+K00790;pó³nocno-zachodni;wielkopolskie;Œwiêciechowa;64-115;Andrzej Mozelewski
+K02611;wschodni;lubelskie;Komarów-Osada;22-435;Sebastian Ochnio
+K02614;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Daniel ŒŒwitoñ
+K02790;po³udniowo-zachodni;opolskie;Krapkowice;47-300;Roman Ciarka
+K02720;pó³nocno-zachodni;zachodniopomorskie;Cedynia;74-520;Marek Pawelczak
+K02983;po³udniowo-zachodni;dolnoœl¹skie;Jelenia Góra;58-500;Monika Bakalarska
+K01707;wschodni;lubelskie;Mi¹czyn;22-455;Joanna Jarosz
+K02164;pó³nocny;pomorskie;Pruszcz Gdañski;83-000;Zdzis³aw Strzelczak
+K02006;po³udniowo-zachodni;dolnoœl¹skie;Kotla;67-210;Krzysztof Ciu³a
+K02712;wschodni;podlaskie;Jedwabne;18-420;Bogdan B³aszczyk
+K02649;po³udniowo-zachodni;dolnoœl¹skie;Kostom³oty;55-300;Ma³gorzata £abêdŸ
+K01271;pó³nocno-zachodni;zachodniopomorskie;Sianów;76-004;Marek Krakowski
+K01276;po³udniowy;ma³opolskie;Rzezawa;32-765;Agnieszka Furmañska
+K01272;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Mateusz PaŸdziurek
+K02110;pó³nocno-zachodni;lubuskie;Skwierzyna;66-440;Andrzej Czerniachowicz
+K02812;pó³nocno-zachodni;wielkopolskie;Turek;62-700;Marek Piekarz
+K03257;wschodni;podlaskie;Lipsk;16-315;Andrzej Kania
+K03378;centralny;mazowieckie;Bie¿uñ;09-320;Tomasz Filipek
+K01531;po³udniowo-zachodni;dolnoœl¹skie;Strzelin;57-100;Helena Franków
+K01960;pó³nocno-zachodni;wielkopolskie;Szamocin;64-820;Zbigniew Orsztynowicz
+K01961;wschodni;œwiêtokrzyskie;Sêdziszów;28-340;Janusz Macha³a
+K01939;pó³nocno-zachodni;wielkopolskie;Olszówka;62-641;Wanda Wilk
+K00569;pó³nocno-zachodni;wielkopolskie;Stêszew;62-060;Krzysztof Pastusiak
+K00568;wschodni;podlaskie;Korycin;16-140;Kamila Trojanowska
+K00678;centralny;mazowieckie;Gózd;05-340;Maria Sroczyñska
+K01065;po³udniowy;ma³opolskie;Czarny Dunajec;34-470;Miros³aw Senderek
+K00493;po³udniowy;ma³opolskie;Che³miec;33-395;Ma³gorzata Laskowska
+K01292;pó³nocno-zachodni;wielkopolskie;Oborniki;64-600;Wac³aw Matu³owicz
+K02281;pó³nocny;kujawsko-pomorskie;Szubin;89-200;Ma³ogorzata Ha³uszka
+K01432;pó³nocny;pomorskie;Gdynia;81-223;Maciej Dolak
+K02994;wschodni;podlaskie;Ko³aki Koœcielne;18-300;Tomasz Buchholc
+K00196;pó³nocny;warmiñsko-mazurskie;Kêtrzyn;11-400;Agnieszka Bieñ
+K00380;pó³nocny;warmiñsko-mazurskie;Grodziczno;13-324;Marek Wierzbowski
+K00268;pó³nocno-zachodni;wielkopolskie;Puszczykowo;62-040;August Szkoda
+K01010;pó³nocny;kujawsko-pomorskie;Topólka;87-875;£ukasz Makowski
+K01311;wschodni;lubelskie;Nowodwór;08-503;Zbigniew Ko³odziej
+K01312;centralny;mazowieckie;Gniewoszów;26-920;Emilia Majdosz
+K02723;pó³nocno-zachodni;wielkopolskie;W³oszakowice;64-140;Renata Wrzesieñ
+K01309;po³udniowo-zachodni;dolnoœl¹skie;Chojnów;59-225;Jan Geldner
+K00202;centralny;³ódzkie;Wolbórz;97-320;Magdalena Lipska
+K02769;pó³nocno-zachodni;wielkopolskie;Dopiewo;62-070;Dariusz Zawadzki
+K01343;wschodni;œwiêtokrzyskie;Kielce;25-258;Dorota Wiêckowska
+K02341;wschodni;podkarpackie;Rani¿ów;36-130;Anna Bañkowska
+K02483;wschodni;podkarpackie;Brzostek;39-230;Artur Walkowiak
+K01025;pó³nocny;kujawsko-pomorskie;Zbójno;87-645;Wojciech Seredyñski
+K02737;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Jakub Rzepiñski
+K03186;wschodni;podkarpackie;Krzeszów;37-418;Tadeusz Borzeszkowski
+K02248;wschodni;podkarpackie;Nisko;37-400;Ma³gorzata Jab³oñska
+K01974;wschodni;œwiêtokrzyskie;St¹porków;26-220;Wies³aw Raczyñski
+K02976;wschodni;podlaskie;Drohiczyn;17-312;Piotr Jasina
+K01410;po³udniowo-zachodni;opolskie;Nysa;48-304;Halina Olejarnik
+K01748;pó³nocny;warmiñsko-mazurskie;Reszel;11-440;Dorota Fil
+K02422;pó³nocno-zachodni;wielkopolskie;Lwówek;64-310;Lucjan Makochoñ
+K00875;pó³nocny;pomorskie;Chojnice;89-600;Marek Kubiak
+K01658;wschodni;podkarpackie;Wi¹zownica;37-523;Daniel Janiak
+K03018;centralny;³ódzkie;Brzeziny;95-060;Paulina Maksymiuk
+K03030;po³udniowy;œl¹skie;Gaszowice;44-293;Mariola Smoliñska
+K01441;centralny;³ódzkie;Bêdków;97-319;Beata Jeszka
+K00190;po³udniowy;ma³opolskie;Miechów;32-200;Robert Kaczmarek
+K00191;centralny;mazowieckie;Otwock;05-402;Dariusz Lebiedowicz
+K02432;po³udniowo-zachodni;opolskie;Lewin Brzeski;49-340;Sebastian Staszczak
+K02240;po³udniowy;ma³opolskie;Myœlenice;32-400;Wanda Kamyk
+K01769;centralny;mazowieckie;Nowe Miasto nad Pilic¹;26-420;Robert Lubczyk
+K01526;pó³nocny;pomorskie;Starogard Gdañski;83-200;Adam Kobylarz
+K01389;wschodni;podkarpackie;Ulanów;37-410;Jacek Sarkowski
+K01283;pó³nocno-zachodni;wielkopolskie;Kaczory;64-810;Dariusz Zyba³a
+K01161;wschodni;œwiêtokrzyskie;Sandomierz;27-600;Zbigniew Ptaszyñski
+K01208;pó³nocno-zachodni;zachodniopomorskie;Gryfino;74-100;Kazimierz Odziomek
+K03034;pó³nocny;pomorskie;Szemud;84-217;Antoni Go³¹b
+K03217;wschodni;lubelskie;£aszczów;22-650;Tadeusz Dubiniecki
+K03218;centralny;mazowieckie;Bie¿uñ;09-320;Dariusz Kielan
+K00247;po³udniowy;ma³opolskie;Polanka Wielka;32-607;Magdalena Cha³at
+K02685;wschodni;podlaskie;Soko³y;18-520;Marianna Caban
+K02227;pó³nocno-zachodni;lubuskie;Trzebiel;68-212;£ukasz Jankiewicz
+K02296;wschodni;œwiêtokrzyskie;Suchedniów;26-130;Andrzej Haraj
+K00315;po³udniowy;œl¹skie;Godów;44-340;Natalia Moroz
+K00314;pó³nocno-zachodni;zachodniopomorskie;Boleszkowice;74-407;Marcin Szostakiewicz
+K02713;pó³nocno-zachodni;zachodniopomorskie;Myœlibórz;74-300;Przemys³aw Kie³kowski
+K02195;wschodni;podlaskie;Dobrzyniewo Du¿e;16-002;Rados³aw Serowski
+K02384;centralny;³ódzkie;Dobroñ;95-082;Teresa Kropielnicka
+K03103;po³udniowy;œl¹skie;Pszów;44-370;Krzysztof ¯urek
+K02527;pó³nocno-zachodni;wielkopolskie;Czarnków;64-700;Monika Piskorz
+K01502;po³udniowo-zachodni;opolskie;Kluczbork;46-203;Józef G³uszko
+K02724;pó³nocno-zachodni;lubuskie;¯ary;68-200;Ryszard Jezierski
+K00031;pó³nocny;warmiñsko-mazurskie;Ostróda;14-100;Stanis³aw Karpiñski
+K01869;wschodni;podkarpackie;Dubiecko;37-750;Robert Koperski
+K01767;pó³nocno-zachodni;lubuskie;Lubniewice;69-210;Andrzej Leœniewicz
+K01009;centralny;³ódzkie;Burzenin;98-260;Marzenna Góralska
+K02743;pó³nocno-zachodni;lubuskie;Torzym;66-235;Stanis³aw Kardyna³
+K02453;po³udniowo-zachodni;dolnoœl¹skie;Udanin;55-300;Ewa Baran
+K00204;wschodni;lubelskie;Lublin;20-864;Micha³ Wiœniewski
+K02709;pó³nocny;pomorskie;Ostaszewo;82-100;Grzegorz Wielgórski
+K00072;wschodni;lubelskie;Siedliszcze;22-130;Arkadiusz Witowski
+K01808;wschodni;podkarpackie;Borowa;39-305;El¿bieta Seku³a
+K00248;po³udniowy;œl¹skie;Bytom;41-905;Leszek Doliñski
+K01662;centralny;mazowieckie;Tarczyn;05-555;Renata Matuszewska
+K00039;wschodni;lubelskie;Janowiec;24-123;Edward Szulc
+K02253;po³udniowo-zachodni;dolnoœl¹skie;Piechowice;58-573;Andrzej Krawiec
+K02254;wschodni;lubelskie;Podedwórze;21-222;Mateusz Porêba
+K00494;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-291;Marek Subocz
+K00207;po³udniowo-zachodni;dolnoœl¹skie;Pi³awa Górna;58-240;Sylwester Gawroñski
+K00635;centralny;mazowieckie;Stoczek;07-104;Danuta Baran
+K01023;pó³nocno-zachodni;zachodniopomorskie;Kozielice;74-200;Krzysztof Œwita³a
+K00274;po³udniowy;œl¹skie;Katowice;40-368;Ma³gorzata Becker
+K02445;po³udniowy;ma³opolskie;Lubieñ;32-433;Ariusz Kwieciñski
+K02578;pó³nocny;kujawsko-pomorskie;Fabianki;87-811;W³adys³aw Chojnacki
+K03098;po³udniowy;ma³opolskie;Su³oszowa;32-045;Bartosz Janecki
+K00397;po³udniowy;œl¹skie;Krzepice;42-160;Anna Ulan
+K00521;pó³nocno-zachodni;lubuskie;Gorzów Wielkopolski;66-400;Justyna K³os
+K02037;pó³nocno-zachodni;wielkopolskie;£ob¿enica;89-310;Wioleta Konieczna
+K03230;wschodni;podlaskie;Moñki;19-100;Marek Antczak
+K01930;pó³nocno-zachodni;zachodniopomorskie;Choszczno;73-200;Justyna Kostyk
+K00717;pó³nocny;warmiñsko-mazurskie;Elbl¹g;82-300;Waldemar Skrzypiec
+K00718;pó³nocny;pomorskie;Wejherowo;84-200;Witold Zalewski
+K03347;po³udniowo-zachodni;dolnoœl¹skie;Miêdzybórz;56-513;Justyna Kuras
+K02652;pó³nocno-zachodni;wielkopolskie;Pi³a;64-920;Dariusz Bajko
+K03035;wschodni;podkarpackie;Rymanów;38-480;Ewa Nowy
+K00847;po³udniowy;œl¹skie;Pawonków;42-772;Krzysztof Mosejczuk
+K00843;centralny;³ódzkie;Burzenin;98-260;Anna Kozio³
+K02231;pó³nocny;warmiñsko-mazurskie;Mor¹g;14-300;Marek Nies³uchowski
+K00074;pó³nocny;warmiñsko-mazurskie;Barciany;11-410;Ewa Ciszak
+K00159;wschodni;lubelskie;Krynice;22-610;Aleksandra Makowska
+K01233;wschodni;lubelskie;Poniatowa;24-320;Lucyna £opyta
+K02084;po³udniowo-zachodni;dolnoœl¹skie;Szklarska Porêba;58-580;Teresa Fryczkowska
+K02681;centralny;³ódzkie;Lubochnia;97-217;Marek Kowalski
+K01049;po³udniowy;œl¹skie;Siewierz;42-470;Wanda Kowalska
+K02717;pó³nocny;pomorskie;£êczyce;84-218;Klaudia Krzemiñska
+K01080;pó³nocno-zachodni;zachodniopomorskie;Œwieszyno;75-016;Kazimierz B³aszczyk
+K00960;pó³nocno-zachodni;wielkopolskie;Opalenica;64-330;Patryk Wendland
+K03019;wschodni;œwiêtokrzyskie;Suchedniów;26-130;Jaros³aw Œlêga
+K03020;centralny;mazowieckie;Wolanów;26-625;Jerzy Rumieñczyk
+K01383;centralny;mazowieckie;Marki;05-270;Zbigniew Filip
+K00479;wschodni;podkarpackie;Grodzisko Dolne;37-306;Roman KaraŸniewicz
+K03008;wschodni;lubelskie;Turobin;23-465;Kamil Bukowiec
+K03071;wschodni;lubelskie;Frampol;23-440;Bogdan Olejniczak
+K03072;wschodni;podkarpackie;Radomyœl Wielki;39-310;£ukasz Jarczak
+K02014;po³udniowo-zachodni;opolskie;Zawadzkie;47-120;Waldemar Maruszewski
+K00166;pó³nocno-zachodni;lubuskie;Trzebiechów;66-132;Andrzej Jerenkiewicz
+K01000;centralny;³ódzkie;Nieborów;99-416;Marek Wancisiewicz
+K00999;wschodni;podkarpackie;Gaæ;37-207;Grzegorz Nizio
+K00994;wschodni;lubelskie;Borzechów;24-224;Marlena Hubicka
+K02237;po³udniowy;ma³opolskie;Myœlenice;32-400;Roman Pietrowski
+K02187;centralny;mazowieckie;P³oñsk;09-100;Antoni Wiêc³awski
+K02735;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Jerzy Stachowiak
+K02734;wschodni;lubelskie;Godziszów;23-302;Zenon Kaczmarek
+K00797;pó³nocno-zachodni;wielkopolskie;Rydzyna;64-130;Mariola Sobczak
+K00256;centralny;mazowieckie;Przytyk;26-650;Mariusz Krajczyñski
+K01206;centralny;³ódzkie;Drzewica;26-340;Kacper Kowalczyk
+K01838;pó³nocno-zachodni;wielkopolskie;Ostroróg;64-500;Krystyna Sak
+K01839;wschodni;œwiêtokrzyskie;Gowarczów;26-225;Jan £yszyk
+K01836;centralny;mazowieckie;Radom;26-606;Ryszard Sobczyñski
+K01424;centralny;³ódzkie;Czerniewice;97-216;Mariusz Ró¿ycki
+K02026;pó³nocny;pomorskie;Miastko;77-200;Arkadiusz Zalas
+K01966;pó³nocny;kujawsko-pomorskie;Œwiecie;86-105;Krzysztof Beca
+K02181;wschodni;œwiêtokrzyskie;Micha³ów;27-423;Krzysztof Czajkowski
+K00893;po³udniowo-zachodni;dolnoœl¹skie;Strzegom;58-150;Arkadiusz Ruth
+K01667;po³udniowo-zachodni;opolskie;Lasowice Wielkie;46-282;Waldemar Pacewicz
+K02740;wschodni;lubelskie;Wojcieszków;21-411;Bart³omiej Kardyna³
+K01676;po³udniowy;ma³opolskie;Kamienica;32-075;Robert Mastalerz
+K01907;po³udniowo-zachodni;dolnoœl¹skie;Chocianów;59-140;Agnieszka £otysz
+K00471;po³udniowo-zachodni;dolnoœl¹skie;Legnica;59-220;Alicja Grzejdak
+K02825;wschodni;lubelskie;Wojcieszków;21-411;Anita Patro
+K02345;wschodni;lubelskie;Podedwórze;21-222;Ewa Zieliñska
+K01267;po³udniowo-zachodni;dolnoœl¹skie;Z¹bkowice Œl¹skie;57-200;El¿bieta Majewska
+K00151;wschodni;podkarpackie;Radymno;37-550;Kazimiera Chojnicka
+K00885;centralny;mazowieckie;¯yrardów;96-300;Marek Moryson
+K00913;centralny;³ódzkie;Pi¹tek;99-120;Jolanta Kupieñ
+K03238;po³udniowy;ma³opolskie;Szczawnica;34-460;Pawe³ B³aszczyk
+K02268;wschodni;lubelskie;Serokomla;21-413;Aleksander WoŸnicki
+K00377;pó³nocny;warmiñsko-mazurskie;Gietrzwa³d;11-036;Jacek Jankowski
+K00114;pó³nocny;warmiñsko-mazurskie;Piecki;11-710;Estera Dadan
+K01216;po³udniowo-zachodni;opolskie;Korfantów;48-317;Ma³gorzata Mirzejewska
+K00577;centralny;mazowieckie;Ceg³ów;05-319;Karolina Cerazy
+K00588;pó³nocny;pomorskie;Ko³czyg³owy;77-140;Janusz Sroka
+K00576;po³udniowy;œl¹skie;Myszków;42-300;Zbigniew Wolny
+K01360;centralny;mazowieckie;Siennica;05-190;Kamil Olszewski
+K03095;centralny;³ódzkie;Zelów;97-425;Wojciech Piasecki
+K02262;pó³nocny;pomorskie;Bobowo;83-200;Eugenia Imbiorowska
+K02260;pó³nocny;kujawsko-pomorskie;Kamieñ Krajeñski;89-430;Joanna Banaszczak
+K02332;wschodni;podlaskie;Stawiski;18-520;Sara Wilczyñska
+K01030;wschodni;lubelskie;Be³¿yce;24-200;Anna Hackiewicz
+K01071;pó³nocny;kujawsko-pomorskie;Lubiewo;89-526;Jan Serdakowski
+K01350;po³udniowy;ma³opolskie;Rac³awice;38-323;Marcin Ziêcina
+K00998;pó³nocny;pomorskie;Kêpice;77-230;Miros³aw Zakrzewski
+K01096;po³udniowy;ma³opolskie;Zakliczyn;32-406;Stanis³aw Go³uchowski
+K02232;centralny;³ódzkie;B³aszki;98-235;Mariusz Sydoruk
+K00408;pó³nocny;warmiñsko-mazurskie;Zalewo;14-230;Ilona Kamiñska
+K02876;wschodni;podlaskie;Filipów;16-424;Urszula WoŸniak
+K01487;wschodni;lubelskie;Dzierzkowice;23-251;Augustyn Rola
+K00353;wschodni;lubelskie;Bia³a Podlaska;21-500;Henryk Grygiel
+K02196;wschodni;lubelskie;Jastków;21-002;Wioleta Bawo³
+K02710;po³udniowy;œl¹skie;O¿arowice;42-624;Wiktor Szosta³o
+K01716;centralny;³ódzkie;Rz¹œnia;98-332;El¿bieta W³adyko
+K00672;po³udniowo-zachodni;dolnoœl¹skie;Kobierzyce;55-040;Grzegorz Maksymowicz
+K02583;pó³nocno-zachodni;wielkopolskie;Przedecz;62-635;Bartosz Góral
+K00950;wschodni;lubelskie;Mi¹czyn;22-455;Piotr Kaczmarek
+K02121;po³udniowy;œl¹skie;Giera³towice;44-177;Jerzy Hawraniak
+K02584;wschodni;œwiêtokrzyskie;Bli¿yn;26-120;Daniel Sawicki
+K01163;pó³nocno-zachodni;zachodniopomorskie;Drawsko Pomorskie;78-500;Magdalena Wodziñska
+K01604;wschodni;lubelskie;Dorohusk;22-175;Dariusz Gaczyñski
+K01602;po³udniowo-zachodni;opolskie;£ubniany;46-024;Eryk Bzdak
+K01346;pó³nocno-zachodni;lubuskie;Nowogród Bobrzañski;66-010;Marcin Kuzdak
+K01849;wschodni;podkarpackie;Haczów;36-213;Renata B¹k
+K01854;centralny;mazowieckie;Mochowo;09-214;Marta Nowak
+K01592;centralny;mazowieckie;¯uromin;09-300;Pawe³ Baszczuk
+K01636;pó³nocno-zachodni;zachodniopomorskie;Police;72-010;Jerzy Kopaszewski
+K03148;wschodni;lubelskie;Uœcimów;21-109;Agnieszka M¹drawska
+K02554;wschodni;podkarpackie;Zagórz;38-540;Ewa KuŸma
+K03132;centralny;³ódzkie;Nowa BrzeŸnica;98-331;Czes³aw Gaj
+K02497;centralny;³ódzkie;Wieluñ;98-300;Gra¿yna Pogonowicz
+K00331;pó³nocny;warmiñsko-mazurskie;Markusy;82-300;Zbigniew Bia³ek
+K00329;wschodni;lubelskie;Borzechów;24-224;Andrzej Pêdziwiatr
+K01264;po³udniowy;ma³opolskie;Zawoja;34-222;Danuta Grochocka
+K00685;pó³nocno-zachodni;wielkopolskie;Rychtal;63-630;Danuta Pietrzyk
+K02815;pó³nocno-zachodni;lubuskie;Czerwieñsk;66-016;Tomasz Erbacher
+K01337;centralny;mazowieckie;Dzierz¹¿nia;09-164;Agnieszka Parada
+K01335;po³udniowy;ma³opolskie;S³opnice;34-615;Marta Cieœlak
+K03328;wschodni;lubelskie;Zalesie;21-020;Ewa Zygu³a
+K00286;centralny;³ódzkie;Wieruszów;98-400;Katarzyna Faryniarz
+K02544;pó³nocno-zachodni;lubuskie;Sulechów;66-100;Maria Kaczmarczyk
+K02265;po³udniowy;œl¹skie;Chorzów;41-500;Pawe³ Jakubiak
+K00833;po³udniowo-zachodni;opolskie;Otmuchów;48-385;Justyna Pusiarska
+K01762;pó³nocno-zachodni;wielkopolskie;Jastrowie;64-915;Aneta Szczuka
+K01763;wschodni;podlaskie;Siemiatycze;17-300;El¿bieta Ciszewska
+K02593;po³udniowy;ma³opolskie;Ropa;38-312;Sylwester Myk
+K01178;centralny;mazowieckie;Mrozy;05-320;Marian Œwiderski
+K03049;centralny;³ódzkie;Sokolniki;98-420;Robert Patora
+K02831;pó³nocny;pomorskie;Wejherowo;84-200;Wies³aw Parus
+K02697;wschodni;podlaskie;Goni¹dz;19-110;Lidia Szczêsna
+K02837;pó³nocno-zachodni;wielkopolskie;Konin;62-500;Joanna G³adysz
+K03146;wschodni;podkarpackie;Miejsce Piastowe;38-430;Daniel Stawicki
+K03195;wschodni;podkarpackie;Laszki;37-543;Lech Jurek
+K03128;centralny;mazowieckie;Ciechanów;06-400;Renata Czarniak
+K02444;pó³nocny;kujawsko-pomorskie;Baruchowo;87-821;Bogus³awa Koz³owska
+K02440;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Piotr Erbacher
+K01955;pó³nocny;warmiñsko-mazurskie;Srokowo;11-420;Joanna Wojtczak
+K01957;wschodni;podkarpackie;B³a¿owa;36-030;Renata Grosiak
+K00310;pó³nocno-zachodni;wielkopolskie;Krzywiñ;64-010;£ukasz Nowacki
+K03264;pó³nocny;warmiñsko-mazurskie;Banie Mazurskie;19-520;Micha³ Krata
+K01657;pó³nocno-zachodni;wielkopolskie;W³adys³awów;62-710;Piotr Szczepañski
+K03091;wschodni;podlaskie;Sejny;16-500;Anna Rodak
+K00696;pó³nocny;warmiñsko-mazurskie;Budry;11-606;Piotr Kisielewski
+K00378;pó³nocno-zachodni;wielkopolskie;Nekla;62-330;Renata Nowak
+K01781;po³udniowo-zachodni;opolskie;Zêbowice;46-048;Józef Borowski
+K01881;wschodni;podkarpackie;Wadowice Górne;39-308;Katarzyna Budzyñska
+K01880;po³udniowy;ma³opolskie;Mêdrzechów;33-221;Bogdan Dañczak
+K01884;centralny;³ódzkie;Sadkowice;96-206;Rajmund Brzeziñski
+K02305;centralny;mazowieckie;Go³ymin-Oœrodek;06-420;Urszula D¿ega
+K01195;po³udniowy;ma³opolskie;Mucharz;34-106;Jacek Wilczak
+K01192;pó³nocno-zachodni;zachodniopomorskie;Bia³y Bór;78-425;Urszula Andrzejczak
+K02874;centralny;mazowieckie;Naruszewo;09-152;Krzysztof Karolak
+K03084;pó³nocny;pomorskie;Jastarnia;84-140;Bo¿ena Przybylska
+K01653;wschodni;podlaskie;Bielsk Podlaski;17-100;Dorota Rybiñska
+K00838;centralny;³ódzkie;Ch¹œno;99-413;Wasilij G³uscow
+K03288;wschodni;lubelskie;Stoczek £ukowski;21-450;Kazimierz Kania
+K02207;pó³nocno-zachodni;zachodniopomorskie;£obez;73-150;Alina Serpina
+K00537;pó³nocny;kujawsko-pomorskie;£asin;86-320;Iwona Bro¿ek
+K03081;wschodni;podlaskie;Sejny;16-500;Tomasz Chojnowski
+K00800;pó³nocno-zachodni;wielkopolskie;Rydzyna;64-130;Agnieszka Jaszczak
+K00691;pó³nocny;pomorskie;Rumia;84-230;Beata Kosmalska
+K02352;pó³nocny;pomorskie;Przechlewo;77-320;Miros³aw Kabaciñski
+K00080;pó³nocno-zachodni;zachodniopomorskie;Tychowo;78-220;Alina Anton
+K00874;wschodni;lubelskie;Siennica Ró¿ana;22-304;£ucja Kindel
+K00799;centralny;mazowieckie;Chorzele;06-330;Zbigniew Kurkiewicz
+K00701;po³udniowy;œl¹skie;Lêdziny;43-143;Sylwester Janiszewski
+K03343;wschodni;lubelskie;Zalesie;22-310;Sebastian Matu³ojæ
+K01429;wschodni;œwiêtokrzyskie;Imielno;28-313;Dominik Kotowski
+K01739;pó³nocno-zachodni;zachodniopomorskie;Dobrzany;73-130;Witold Kaczmarczyk
+K01623;wschodni;œwiêtokrzyskie;Morawica;26-026;Marcin Ciechanowicz
+K01726;pó³nocno-zachodni;wielkopolskie;Wysoka;89-320;Jan £¹czny
+K01182;wschodni;lubelskie;Bia³opole;22-135;Anna Send³ak
+K01775;centralny;mazowieckie;Kozienice;26-900;Ireneusz Koz³owski
+K00162;centralny;mazowieckie;Przysucha;26-400;Jaros³aw Kalenik
+K00171;po³udniowy;œl¹skie;Suszec;43-267;Arkadiusz Antoszewski
+K00169;po³udniowy;œl¹skie;Œwiêtoch³owice;41-600;Wanda W³odarczyk
+K00336;pó³nocno-zachodni;zachodniopomorskie;Tuczno;78-640;Maria Kolasa
+K02223;centralny;mazowieckie;Drobin;09-210;Krzysztof Sobierajski
+K01253;pó³nocno-zachodni;zachodniopomorskie;Czaplinek;78-550;Magdalena Fronc
+K03100;po³udniowy;ma³opolskie;Zator;32-640;Marian Bednarczyk
+K01364;centralny;³ódzkie;Pi¹tek;99-120;Krzysztof Sadowski
+K03231;pó³nocno-zachodni;zachodniopomorskie;Wêgorzyno;73-155;Micha³ Wiatr
+K01988;po³udniowy;œl¹skie;Che³m Œl¹ski;41-403;Dariusz Iwaniec
+K02891;pó³nocny;warmiñsko-mazurskie;Go³dap;19-500;Anna Muraszka
+K00528;po³udniowy;œl¹skie;Koszarawa;34-332;Wiktoria £uczak
+K00526;pó³nocno-zachodni;zachodniopomorskie;Koszalin;75-669;Wanda Gierach
+K00032;pó³nocno-zachodni;wielkopolskie;¯erków;63-210;Natalia Warcho³
+K01938;wschodni;podkarpackie;Wielkie Oczy;37-627;Miros³aw Malec
+K01197;centralny;³ódzkie;Godzianów;96-126;Mariusz Poleszczuk
+K00017;po³udniowo-zachodni;dolnoœl¹skie;G³uszyca;58-340;Daniel Ostaszewski
+K01551;pó³nocno-zachodni;lubuskie;Oœno Lubuskie;69-220;Tomasz Roso³owski
+K02363;centralny;³ódzkie;Zapolice;97-512;Kazimierz Szyszka
+K02143;pó³nocny;pomorskie;Kosakowo;81-198;Izydor Palka
+K03167;po³udniowy;œl¹skie;MiedŸno;42-120;Antoni Bielida
+K02728;po³udniowo-zachodni;dolnoœl¹skie;K³odzko;57-300;Anna Sobociñska
+K01005;pó³nocno-zachodni;wielkopolskie;Go³añcz;62-130;Bart³omiej Nowicki
+K00851;centralny;³ódzkie;Ch¹œno;99-413;Waldemar Trzem¿alski
+K00804;po³udniowy;ma³opolskie;Raba Wy¿na;34-721;Anna Wysocka
+K01494;po³udniowy;ma³opolskie;Pleœna;33-171;Grzegorz Krukowski
+K02918;po³udniowy;œl¹skie;Piekary Œl¹skie;41-943;Maciej Pietruczak
+K02319;po³udniowy;œl¹skie;Kochanowice;42-713;Jaros³aw Szuba
+K00510;po³udniowo-zachodni;dolnoœl¹skie;Bystrzyca K³odzka;57-500;Marta Kêpska
+K03042;centralny;³ódzkie;Rzeczyca;97-220;Jerzy Kosiorowski
+K01628;centralny;³ódzkie;Wolbórz;97-320;Jan Lemczak
+K00295;po³udniowo-zachodni;opolskie;Skarbimierz;49-300;Adrian Kurzawski
+K00297;wschodni;lubelskie;Borzechów;24-224;Krystian Pozaroszczyk
+K01052;pó³nocny;warmiñsko-mazurskie;Miko³ajki;11-730;Arkadiusz Ma³ecki
+K02129;pó³nocno-zachodni;lubuskie;Œwiebodzin;66-200;Daniel Sapilak
+K02574;pó³nocno-zachodni;zachodniopomorskie;Szczecinek;78-400;Marek Zygan
+K00284;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Adam Ziêtek
+K00280;wschodni;lubelskie;Siedliszcze;22-130;Agnieszka Kijko
+K01131;po³udniowy;œl¹skie;Zabrze;41-806;Krzysztof Pilipczuk
+K01873;pó³nocno-zachodni;wielkopolskie;Nowe Skalmierzyce;63-460;Jacek Marcinkowski
+K03319;pó³nocny;kujawsko-pomorskie;Pakoœæ;88-170;Jerzy Na³êcz
+K00294;po³udniowy;ma³opolskie;Mszana Dolna;34-730;El¿bieta Cieœlik
+K00298;wschodni;podkarpackie;Radomyœl nad Sanem;37-455;Dariusz Wójciak
+K02911;po³udniowo-zachodni;opolskie;Prudnik;48-200;Artur Wolski
+K01967;pó³nocny;kujawsko-pomorskie;Osielsko;86-031;Grzegorz Grygiel
+K02272;pó³nocny;pomorskie;Tr¹bki Wielkie;83-033;Adam Go³êbiewski
+K02884;pó³nocny;warmiñsko-mazurskie;Kalinowo;11-500;Janina Surówka
+K02333;pó³nocny;kujawsko-pomorskie;Nak³o nad Noteci¹;89-100;Pawe³ Chojnacki
+K01278;po³udniowo-zachodni;opolskie;G³ogówek;48-250;Ewa Antczak
+K01862;pó³nocno-zachodni;zachodniopomorskie;Marianowo;73-121;El¿bieta Kacperek
+K01437;centralny;³ódzkie;Przedbórz;97-570;Damian Walczak
+K01660;centralny;³ódzkie;£owicz;99-400;Dawid Gazda
+K01088;po³udniowo-zachodni;dolnoœl¹skie;Zgorzelec;59-900;Jolanta Paw³owska
+K02285;wschodni;lubelskie;Ryki;08-500;Agnieszka Bêben
+K03388;centralny;³ódzkie;Ozorków;95-035;Jowita Ferenc
+K03120;po³udniowy;œl¹skie;Mys³owice;41-404;Robert Kmieæ
+K00896;po³udniowo-zachodni;dolnoœl¹skie;Œwiebodzice;58-160;Marek Krzy¿anowski
+K02211;pó³nocny;pomorskie;Czarne;77-300;El¿bieta Piekarska
+K02634;pó³nocno-zachodni;wielkopolskie;Kalisz;62-800;Marek Maj
+K01754;wschodni;lubelskie;£uków;21-400;Ilona Olejniczak
+K00910;po³udniowo-zachodni;opolskie;Murów;46-030;Bernadetta Grochowicka
+K01692;centralny;mazowieckie;Grudusk;06-460;Jan Chlewicki
+K01693;wschodni;podkarpackie;Tarnowiec;38-204;Agnieszka Ziarkowska
+K00005;wschodni;lubelskie;Krasnobród;22-440;Artur Wezgraj
+K00812;centralny;mazowieckie;Ceg³ów;05-319;Andrzej Krzywicki
+K02795;wschodni;œwiêtokrzyskie;Szyd³ów;28-225;Artur D¹bkowski
+K00983;centralny;³ódzkie;Widawa;98-170;Piotr Oziemb³o
+K01058;wschodni;podkarpackie;RoŸwienica;37-565;Micha³ Wartalski
+K02926;pó³nocny;warmiñsko-mazurskie;Stawiguda;11-034;Zdzis³aw Tondel
+K03375;pó³nocno-zachodni;lubuskie;Siedlisko;67-100;Violetta Zbytek
+K01568;wschodni;lubelskie;K³oczew;08-550;Alfred Borysewicz
+K00232;pó³nocny;pomorskie;Debrzno;77-310;£ukasz Krêciejewski
+K00819;po³udniowy;ma³opolskie;Olkusz;32-300;Piotr Czech
+K01618;centralny;mazowieckie;Rzekuñ;07-411;Agnieszka Stankiewicz
+K01620;po³udniowy;ma³opolskie;Tuchów;33-170;Jolanta Gajewska
+K02843;centralny;mazowieckie;Ma³a Wieœ;05-622;Maria Spirzak
+K02718;pó³nocny;pomorskie;Szemud;84-217;Emilia Œwiderek
+K00271;pó³nocny;pomorskie;Karsin;83-440;Adam Boguszewski
+K00756;pó³nocny;kujawsko-pomorskie;Kcynia;89-240;Barbara Piórkowska
+K02660;centralny;mazowieckie;Szelków;06-220;Mariusz Olejnik
+K01336;centralny;³ódzkie;Nieborów;99-416;Stanis³aw Kulig
+K01332;po³udniowy;ma³opolskie;Go³cza;32-075;Tomasz Pasikowski
+K01328;pó³nocno-zachodni;lubuskie;Gubin;66-620;Krzysztof Mordal
+K03354;pó³nocny;warmiñsko-mazurskie;Pieniê¿no;14-520;Mariusz Nagórski
+K02957;centralny;mazowieckie;P³ock;09-410;Mateusz Malik
+K00830;centralny;mazowieckie;StaroŸreby;09-440;Stanis³aw Pilc
+K02190;wschodni;podkarpackie;Rzeszów;35-020;Jaros³aw D¹browski
+K00823;centralny;mazowieckie;Halinów;05-074;Tomasz Antochowski
+K01438;wschodni;podkarpackie;Jedlicze;38-460;W³adys³aw Kosiorkiewicz
+K00679;wschodni;podlaskie;Juchnowiec Koœcielny;16-001;Pawe³ Wróbel
+K01588;wschodni;œwiêtokrzyskie;Wiœlica;28-160;Izabela Kowalska
+K01203;centralny;mazowieckie;Brwinów;05-840;Renata D¹browska
+K01191;wschodni;podlaskie;Kolno;18-500;Waldemar Pender
+K01831;centralny;mazowieckie;Lubowidz;09-304;Tadeusz Banaœkiewicz
+K02809;wschodni;lubelskie;Hanna;22-220;Ma³gorzata Maj
+K02810;wschodni;podkarpackie;Baligród;38-606;Daniel Puwalski
+K01616;pó³nocno-zachodni;wielkopolskie;Stawiszyn;62-820;Zbigniew Grzêda
+K01462;pó³nocno-zachodni;wielkopolskie;Kleczew;62-540;Krzysztof Florczuk
+K00372;po³udniowo-zachodni;opolskie;Zdzieszowice;47-330;Wioletta Kurdziel
+K03261;centralny;mazowieckie;Pacyna;09-541;Renata Breyer
+K02437;centralny;³ódzkie;Lubochnia;97-217;Aleksandra B³¹dek
+K02071;pó³nocno-zachodni;zachodniopomorskie;Z³ocieniec;78-520;Pawe³ KaŸmierski
+K01509;wschodni;lubelskie;Dzierzkowice;23-251;Andrzej Romaniuk
+K01510;centralny;mazowieckie;Pilawa;05-532;Janina Ostry
+K02944;wschodni;podlaskie;Szczuczyn;19-230;Rafa³ Stañko
+K02215;wschodni;lubelskie;Telatyn;22-652;Daniel Dutkiewicz
+K02450;po³udniowy;œl¹skie;Imielin;41-407;Wioleta Dzwolak
+K02572;centralny;mazowieckie;Sypniewo;06-216;Tadeusz Dudziñski
+K01997;centralny;mazowieckie;Chorzele;06-330;Mateusz Soæko
+K02545;wschodni;podlaskie;Narew;17-210;Ma³gorzata Hawrylak
+K00385;wschodni;podlaskie;Choroszcz;16-070;S³awomir Marciniak
+K00886;pó³nocny;kujawsko-pomorskie;Inowroc³aw;88-100;Ma³gorzata Piesiak
+K00482;po³udniowo-zachodni;dolnoœl¹skie;¯migród;55-140;Barbara Wilczek
+K00351;centralny;mazowieckie;Przy³êk;08-460;Emil Lewandowski
+K01827;wschodni;podlaskie;Nowinka;16-140;Marcin Wo³k
+K00727;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Anna Bro¿ek
+K00724;wschodni;lubelskie;Szczebrzeszyn;22-460;Zdzis³aw Kaliszka
+K00499;pó³nocno-zachodni;lubuskie;Jasieñ;68-320;Kazimierz Jaroszewicz
+K03335;centralny;mazowieckie;Bulkowo;09-454;Maria Kramarczyk
+K03333;po³udniowy;ma³opolskie;Pleœna;33-171;Aleksander Mikulski
+K01230;pó³nocny;kujawsko-pomorskie;Je¿ewo;86-131;Lucyna Paw³owska
+K02555;centralny;mazowieckie;Pruszków;05-800;Roman Pietrasz
+K00968;po³udniowy;œl¹skie;Chybie;43-520;El¿bieta Skoczylas
+K01917;pó³nocny;kujawsko-pomorskie;Kruszwica;88-150;Ewa Dziurla
+K02155;centralny;mazowieckie;Nasielsk;05-190;Urszula Mejer
+K00108;pó³nocny;pomorskie;Wicko;84-352;Ma³gorzata Latos
+K00112;centralny;mazowieckie;Grabów nad Pilic¹;26-902;Anna Ostaszewska
+K02151;centralny;mazowieckie;Mszczonów;96-320;Barbara Zmuda
+K02368;pó³nocno-zachodni;wielkopolskie;Borek Wielkopolski;63-810;Miros³aw Tessikowski
+K02273;po³udniowy;œl¹skie;Wojkowice;42-580;Urszula Kober
+K00745;wschodni;lubelskie;Kraœnik;23-200;Zbigniew Hejak
+K01948;wschodni;lubelskie;Tomaszów Lubelski;22-600;Gra¿yna Falkowska
+K03063;pó³nocny;warmiñsko-mazurskie;Nidzica;13-100;Katarzyna Patora
+K01136;wschodni;œwiêtokrzyskie;Kunów;27-415;Miros³aw Staciwa
+K01537;centralny;³ódzkie;Lututów;98-360;Aleksandra Trusewicz
+K00193;po³udniowy;ma³opolskie;Krzeszowice;32-065;Marcin Waszkiewicz
+K02249;pó³nocny;warmiñsko-mazurskie;Wêgorzewo;11-600;Dariusz Szymañski
+K00967;po³udniowy;œl¹skie;Rybnik;44-207;Anna Goszczyñska
+K02342;centralny;mazowieckie;Brok;07-306;Robert Ma³kiewicz
+K00753;pó³nocno-zachodni;lubuskie;Dobiegniew;66-520;Marek Gajzler
+K01408;pó³nocno-zachodni;wielkopolskie;Ujœcie;64-850;Adam Sobczyk
+K00447;pó³nocno-zachodni;zachodniopomorskie;Stepnica;72-112;Edward Stanis³awczyk
+K01935;po³udniowo-zachodni;dolnoœl¹skie;Boles³awiec;59-700;Marta Ziatyk
+K02418;wschodni;œwiêtokrzyskie;Dzia³oszyce;28-440;Marta Michalska
+K02784;centralny;³ódzkie;Dru¿bice;97-403;Piotr Maj
+K00862;wschodni;lubelskie;Kazimierz Dolny;24-120;Ewa ¯ekieæ
+K03297;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Genowefa Polak
+K02048;po³udniowo-zachodni;dolnoœl¹skie;Dziadowa K³oda;56-400;Adam Wencewicz
+K03316;wschodni;lubelskie;Tarnogród;23-420;Janina Piasecka
+K01514;centralny;³ódzkie;Kroœniewice;99-340;Mieczys³awa Oraczewska
+K01953;pó³nocny;pomorskie;Bobowo;83-200;Marcin Rapsiewicz
+K02290;pó³nocny;kujawsko-pomorskie;Barcin;88-190;Roman Osman
+K00626;wschodni;œwiêtokrzyskie;Chêciny;26-060;Andrzej Gosto³ek
+K01701;po³udniowy;ma³opolskie;Chrzanów;32-500;Kazimierz Dacko
+K00240;wschodni;podlaskie;Szumowo;18-305;Dorota Po³czyñska
+K00386;centralny;mazowieckie;Gielniów;26-434;Andrzej Nowak
+K03254;pó³nocno-zachodni;lubuskie;Nowa Sól;67-100;Marian Je¿
+K00918;centralny;mazowieckie;Wo³omin;05-200;Bo¿ena Terefenko
+K00919;centralny;mazowieckie;Grójec;05-600;Maria Bodziewska
+K02326;wschodni;lubelskie;Ulan-Majorat;21-307;£ukasz Czechowski
+K03366;po³udniowy;ma³opolskie;Lipnica Wielka;33-323;Artur Krzemieñ
+K01367;po³udniowy;œl¹skie;Bêdzin;42-506;Tadeusz Stawarz
+K00928;wschodni;podlaskie;Czeremcha;17-240;El¿bieta Iwañska
+K01813;pó³nocno-zachodni;wielkopolskie;Kobylin;63-740;Edmund Skibiñski
+K01782;po³udniowo-zachodni;opolskie;Grodków;49-200;Barbara Myœków
+K02752;centralny;mazowieckie;Rzewnie;06-225;Marian Lefek
+K00216;pó³nocny;pomorskie;Miko³ajki Pomorskie;82-400;Gniewomir Szczerba
+K00187;po³udniowy;ma³opolskie;Zakliczyn;32-406;Arkadiusz Steckiewicz
+K01632;pó³nocno-zachodni;zachodniopomorskie;Kalisz Pomorski;78-540;Daniel Makrzanowski
+K03113;pó³nocny;warmiñsko-mazurskie;Lubomino;11-135;Adam Tyszer
+K02156;pó³nocny;kujawsko-pomorskie;Dêbowa £¹ka;87-207;Tomasz Padyku³a
+K00593;wschodni;podkarpackie;Przec³aw;39-320;Danuta Lesiak
+K01416;pó³nocny;pomorskie;Gdynia;81-524;Artur Gruszczyñski
+K01417;pó³nocno-zachodni;zachodniopomorskie;P³oty;72-310;Katarzyna Strzelecka
+K02671;pó³nocno-zachodni;zachodniopomorskie;Miros³awiec;78-600;Iwona Filipczak
+K02407;po³udniowy;ma³opolskie;Zielonki;32-087;Patryk W³odarczyk
+K02402;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Danuta Bugaj
+K02313;pó³nocno-zachodni;wielkopolskie;Kazimierz Biskupi;62-530;Jerzy Stawniak
+K02000;pó³nocny;pomorskie;Skórcz;83-220;Maciej Berlicki
+K00870;centralny;mazowieckie;G³owaczów;26-903;Jacek Jarczewski
+K00871;po³udniowy;œl¹skie;Racibórz;47-400;Jaros³aw Topa
+K01687;wschodni;lubelskie;Ulhówek;22-678;Renata Romanowska
+K01099;centralny;mazowieckie;Jaktorów;96-313;Oliwier Wróblewski
+K01433;pó³nocno-zachodni;zachodniopomorskie;P³oty;72-310;Zbigniew Pupiec
+K03017;pó³nocny;kujawsko-pomorskie;Gniewkowo;88-140;Stanis³aw Rusin
+K01384;po³udniowo-zachodni;dolnoœl¹skie;O³awa;55-200;Gra¿yna Wiœniewska
+K01330;wschodni;podlaskie;Wi¿ajny;16-407;Marian Galus
+K00339;po³udniowy;œl¹skie;Sosnowiec;41-216;Krzysztof Rególski
+K00848;po³udniowy;œl¹skie;Herby;42-284;Marcin Suwaj
+K00936;centralny;mazowieckie;Karczew;05-480;Ewa Ko³osowska
+K00266;pó³nocno-zachodni;zachodniopomorskie;Szczecin;71-344;£ukasz Kowalski
+K03385;po³udniowy;ma³opolskie;Iwanowice;32-095;Zenon Wiœniewski
+K00088;centralny;mazowieckie;Paprotnia;08-107;Piotr Dura
+K02729;pó³nocny;kujawsko-pomorskie;W¹brzeŸno;87-200;Tadeusz Pyrak
+K01625;po³udniowy;ma³opolskie;Radgoszcz;33-207;Krzysztof Æwiok
+K00972;pó³nocno-zachodni;zachodniopomorskie;Stargard Szczeciñski;73-102;Robert Jakubiak
+K03397;centralny;mazowieckie;Wyœmierzyce;26-811;Kazimierz Hnatkowski
+K02854;po³udniowo-zachodni;dolnoœl¹skie;Leœna;57-343;Ryszard Kowal
+K02405;pó³nocny;kujawsko-pomorskie;Choceñ;87-850;Ryszard Hawañczak
+K02406;po³udniowo-zachodni;dolnoœl¹skie;L¹dek-Zdrój;57-540;Ilona Polan
+K03036;wschodni;podlaskie;Rudka;16-140;Marcin Gibki
+K01865;wschodni;podkarpackie;Bojanów;37-433;Gra¿yna Zajkowska
+K02601;centralny;³ódzkie;Rozprza;97-340;Antoni Miœciur
+K02791;wschodni;lubelskie;Do³hobyczów;22-540;Krzysztof Burda
+K01749;centralny;mazowieckie;Zielonka;05-220;Iwona Moszyñska
+K01842;centralny;³ódzkie;Warta;98-290;Ryszard W¹troba
+K01683;centralny;mazowieckie;T³uszcz;05-240;Bart³omiej Wilk
+K02558;pó³nocno-zachodni;lubuskie;Czerwieñsk;66-016;Irena Maci¹g
+K00780;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Roman Sa³achub
+K02510;pó³nocno-zachodni;wielkopolskie;Ostroróg;64-500;Denis Tomala
+K02519;po³udniowo-zachodni;dolnoœl¹skie;Rudna;59-305;Tomasz Teper
+K02518;centralny;³ódzkie;Sadkowice;96-206;Ma³gorzata Andrusiów
+K03188;wschodni;lubelskie;Stary Zamoœæ;22-417;Stanis³aw Saniuk
+K01718;pó³nocno-zachodni;wielkopolskie;L¹dek;62-406;Bogus³aw Adamów
+K02690;wschodni;lubelskie;Zwierzyniec;22-304;Ma³gorzata Danielewicz
+K03247;centralny;³ódzkie;Osjaków;98-320;Ireneusz Kosmalski
+K01889;pó³nocny;kujawsko-pomorskie;Wiêcbork;89-410;Urszula Górka
+K01038;pó³nocny;pomorskie;Trzebielino;77-235;W³odzimierz Sacharczuk
+K02960;centralny;mazowieckie;Nowy Duninów;09-505;Jan Kamiñski
+K02525;centralny;mazowieckie;Wiœniewo;06-521;Grzegorz Soæko
+K01380;pó³nocny;kujawsko-pomorskie;Kikó³;87-620;Ewa Chmielewska
+K00174;wschodni;lubelskie;Kurów;24-170;Bogus³aw Szpinda
+K01731;centralny;mazowieckie;Jastrzêbia;09-500;Andrzej Bieliñski
+K01298;centralny;³ódzkie;Mas³owice;97-515;Dariusz Chytryj
+K00123;wschodni;lubelskie;Obsza;23-413;Mieczys³aw Za³uski
+K01121;centralny;mazowieckie;Pionki;26-670;Anna Soko³owska
+K00865;wschodni;podlaskie;Kobylin-Borzymy;18-204;Cezary Skrzypczak
+K01665;wschodni;œwiêtokrzyskie;Miedziana Góra;26-085;Krystyna Skurat
+K02191;wschodni;œwiêtokrzyskie;Zawichost;27-630;Marek Golas
+K02192;pó³nocno-zachodni;zachodniopomorskie;Iñsko;73-140;Franciszek £obocki
+K03239;pó³nocny;warmiñsko-mazurskie;Ostróda;14-100;Piotr Wojciechowski
+K02530;pó³nocny;pomorskie;Sztum;82-400;Zyta Makarewicz
+K00056;centralny;mazowieckie;Radzymin;05-250;Ewa Waœkowska
+K02613;po³udniowy;ma³opolskie;Kamionka Wielka;33-334;Krzysztof Filipowicz
+K00925;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Henryk Ciesielski
+K00929;centralny;mazowieckie;Bielsk;09-230;Krzysztof Kinasiewicz
+K00930;centralny;mazowieckie;Roœciszewo;09-204;Marek Gi³ka
+K01089;centralny;³ódzkie;Uniejów;99-210;Justyna Gredka
+K03304;centralny;³ódzkie;Czastary;98-410;Stanis³aw Miko³ajczyk
+K03183;pó³nocno-zachodni;wielkopolskie;Leszno;64-100;Renata Piwowarczyk
+K02741;pó³nocno-zachodni;wielkopolskie;Golina;62-590;Izabela Zieliñska
+K00437;centralny;mazowieckie;I³ów;96-520;Dorota Grzywacz
+K00820;pó³nocny;kujawsko-pomorskie;Je¿ewo;86-131;Anna Szweda
+K01853;pó³nocny;warmiñsko-mazurskie;Koz³owo;11-731;Marek Klonowski
+K01031;pó³nocny;kujawsko-pomorskie;Toruñ;87-100;Krzysztof Dobrowolski
+K00496;wschodni;podlaskie;Boæki;17-111;Maria Bielecka
+K01035;pó³nocny;warmiñsko-mazurskie;Frombork;14-530;Mariusz Majak
+K02371;wschodni;podkarpackie;Dukla;38-450;Piotr Bielankiewicz
+K01538;wschodni;podlaskie;Rutka-Tartak;16-406;Zbigniew Marsza³ek
+K02761;pó³nocno-zachodni;lubuskie;Stare Kurowo;66-540;Zbigniew Kacprzak
+K02763;wschodni;œwiêtokrzyskie;Bieliny;26-004;Helena Kietla
+K01499;pó³nocny;warmiñsko-mazurskie;Korsze;11-430;Krystyna Czerwiñska
+K00646;centralny;³ódzkie;Kamieñsk;97-360;Ireneusz Sawczyszyn
+K03208;wschodni;podlaskie;Grajewo;19-200;Marzena Marcinkiewicz
+K03109;pó³nocny;warmiñsko-mazurskie;Orzysz;12-250;Dariusz Wo³czak
+K01479;centralny;³ódzkie;Lutomiersk;95-083;Bo¿ena Szostak
+K03282;pó³nocny;pomorskie;¯ukowo;83-330;Karolina Iwanów
+K01860;centralny;³ódzkie;Czarno¿y³y;98-310;Leszek Kwiatkowski
+K02023;wschodni;podlaskie;Kleszczele;17-250;Jaros³aw Wentrys
+K03279;centralny;mazowieckie;Nowy Dwór Mazowiecki;05-100;Izabela Pacer
+K03331;wschodni;lubelskie;W¹wolnica;08-504;Andrzej Pêkalski
+K02007;po³udniowo-zachodni;opolskie;Opole;45-058;Wioleta Maœnik
+K02400;wschodni;œwiêtokrzyskie;Ostrowiec Œwiêtokrzyski;27-400;Pawe³ Pawlak
+K01857;po³udniowy;œl¹skie;Kamienica Polska;42-260;Dariusz Porêbski
+K01859;centralny;³ódzkie;Ciel¹dz;96-214;Weronika Socha
+K00433;po³udniowo-zachodni;dolnoœl¹skie;Karpacz;58-540;Jerzy Machlañski
+K00436;wschodni;lubelskie;Borzechów;24-224;Piotr £ukasiuk
+K02488;pó³nocno-zachodni;wielkopolskie;Opatówek;62-860;Andrzej Lipski
+K02949;pó³nocno-zachodni;lubuskie;Przytoczna;66-340;Janusz Medyñski
+K00562;wschodni;podkarpackie;Gaw³uszowice;39-307;Katarzyna Krawczyk
+K00954;centralny;³ódzkie;Inow³ódz;97-215;Edyta Boruch
+K01796;centralny;mazowieckie;Radom;26-610;Zbigniew Rewkowski
+K00180;pó³nocny;warmiñsko-mazurskie;Kêtrzyn;11-400;Tomasz Konieczny
+K02816;po³udniowy;œl¹skie;WoŸniki;42-289;S³awomir Kargul
+K01720;wschodni;podlaskie;Suchowola;16-150;Leszek Matusik
+K01596;pó³nocny;pomorskie;Choczewo;84-210;Danuta Szatkowska
+K02995;wschodni;podlaskie;Krynki;16-120;Krzysztof Bajkowski
+K01391;centralny;mazowieckie;Z¹bki;05-091;Dariusz Ostrowski
+K01223;centralny;mazowieckie;Bielsk;09-230;Julita Kupisz
+K01218;po³udniowy;ma³opolskie;Podegrodzie;33-386;Krzysztof Szurko
+K03163;pó³nocno-zachodni;wielkopolskie;Leszno;64-100;Bo¿ena Krawczyk
+K02085;po³udniowy;œl¹skie;Giera³towice;44-177;Piotr Laskowski
+K02441;pó³nocno-zachodni;lubuskie;Krosno Odrzañskie;66-600;Wojciech Molcan
+K02442;po³udniowo-zachodni;dolnoœl¹skie;Mietków;55-080;Grzegorz Starczyk
+K02130;pó³nocno-zachodni;wielkopolskie;Czempiñ;64-020;Joanna Czerwiak
+K03191;po³udniowo-zachodni;opolskie;Bierawa;47-240;Daniel Gêglawy
+K00901;centralny;³ódzkie;Radomsko;97-500;Zofia Karpiñska
+K03220;centralny;mazowieckie;Kampinos;05-085;Jan Szymaniak
+K03221;wschodni;œwiêtokrzyskie;Jêdrzejów;28-300;Beata Augustynek
+K02018;po³udniowo-zachodni;dolnoœl¹skie;Kunice;59-216;Roman Margielewski
+K02137;wschodni;lubelskie;Hrubieszów;22-500;Gra¿yna Góral
+K01171;po³udniowy;ma³opolskie;Bukowno;32-332;Marzena Podziñska
+K02484;wschodni;lubelskie;Tyszowce;22-630;Krzysztof Grzywnowicz
+K00556;pó³nocny;warmiñsko-mazurskie;Mr¹gowo;11-700;Edwin Grzechowiak
+K02131;po³udniowy;œl¹skie;Milówka;34-360;Katarzyna Romaniec
+K03176;po³udniowy;œl¹skie;Czêstochowa;42-224;Wies³aw Buczyñski
+K00365;pó³nocny;warmiñsko-mazurskie;Sêpopol;11-210;Roman Poniecki
+K00364;wschodni;lubelskie;Sosnówka;21-518;Jadwiga Cyunel
+K00362;centralny;³ódzkie;Burzenin;98-260;Kazimierz Pasternacki
+K01279;po³udniowo-zachodni;dolnoœl¹skie;Trzebnica;55-100;Henryk Kuca
+K01776;centralny;mazowieckie;Bia³obrzegi;05-126;Marcin £uczków
+K03268;pó³nocny;kujawsko-pomorskie;Soœno;89-412;Marlena Lisowska
+K03267;po³udniowy;ma³opolskie;Koszyce;32-130;Ryszard Lis
+K00178;wschodni;œwiêtokrzyskie;Pierzchnica;26-015;Andrzej Krzy¿anowski
+K01112;po³udniowo-zachodni;dolnoœl¹skie;Bolków;59-420;Eliza Turczuk
+K00367;wschodni;lubelskie;W³odawa;22-200;Oktawiusz Je¿
+K02980;pó³nocny;pomorskie;Sadlinki;82-522;Agnieszka Szmyt
+K00290;po³udniowy;ma³opolskie;Niepo³omice;32-005;Dorota Pil¿ys
+K00939;po³udniowo-zachodni;dolnoœl¹skie;Sobótka;55-050;Tadeusz Gnojewski
+K00387;wschodni;podlaskie;Ciechanowiec;18-230;Wies³awa Stelmach
+K02394;centralny;³ódzkie;Rawa Mazowiecka;96-200;Joanna Leszczyñska
+K03320;wschodni;podkarpackie;Ustrzyki Dolne;38-700;Janina Czarnyszka
+K02841;pó³nocny;kujawsko-pomorskie;Skêpe;87-630;Arleta Zaucha
+K03197;pó³nocny;warmiñsko-mazurskie;M³ynary;14-420;Marcin Nieradka
+K01156;centralny;³ódzkie;Dobryszyce;97-505;Jerzy Wroñski
+K02425;pó³nocno-zachodni;wielkopolskie;Ksi¹¿ Wielkopolski;63-130;Krzysztof Zadka
+K02426;wschodni;œwiêtokrzyskie;Starachowice;27-200;Tadeusz Kowalski
+K00518;pó³nocno-zachodni;zachodniopomorskie;Stare Czarnowo;74-106;Piotr Marsza³ek
+K01453;pó³nocno-zachodni;wielkopolskie;Nowe Miasto nad Wart¹;63-040;Natalia Micha³owska
+K01455;centralny;mazowieckie;Chlewiska;26-510;Jadwiga Zieliñska
+K01456;pó³nocno-zachodni;zachodniopomorskie;Karlino;78-230;Witold Król
+K01457;po³udniowy;ma³opolskie;Drwinia;32-708;Kazimierz Trela
+K02864;po³udniowy;ma³opolskie;Wieliczka;32-020;Andrzej Dybza
+K02865;centralny;mazowieckie;Stara Bia³a;09-411;Eugeniusz Bieliñski
+K02851;po³udniowy;ma³opolskie;Wieliczka;32-020;Henryk Rzepczak
+K02568;centralny;³ódzkie;Lubochnia;97-217;Tomasz Kwaœnik
+K02566;po³udniowy;œl¹skie;Szczekociny;42-445;Tomasz Królikowski
+K02596;pó³nocny;kujawsko-pomorskie;Bukowiec;86-320;Miros³awa Folta
+K02139;centralny;mazowieckie;Wierzbno;07-111;Kamila Wiatr
+K01241;po³udniowy;ma³opolskie;Su³kowice;34-125;Henryk Patora
+K02201;po³udniowy;œl¹skie;Skoczów;43-430;Pawe³ Rusin
+K01986;pó³nocny;pomorskie;Koœcierzyna;83-400;Sylwester Pietrzycki
+K01975;wschodni;podkarpackie;Rzeszów;35-602;Robert Szczepaniuk
+K01261;po³udniowy;œl¹skie;K³omnice;42-270;Waldemar Baran
+K01310;centralny;³ódzkie;£ódŸ;90-272;Grzegorz Preis
+K00361;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Zygmunt ŒŒwiêcicki
+K02117;pó³nocny;kujawsko-pomorskie;Cekcyn;89-511;Tadeusz Jarz¹bek
+K01875;centralny;mazowieckie;Legionowo;05-120;Marek Mudryk
+K02534;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Hubert Cienkusz
+K03043;pó³nocno-zachodni;wielkopolskie;Swarzêdz;62-020;S³awomir Stawicki
+K01427;po³udniowy;œl¹skie;Pilica;42-436;Rafa³ Grochowski
+K00552;pó³nocno-zachodni;wielkopolskie;Duszniki;64-550;Mieczys³awa £ukaszewicz
+K01719;centralny;mazowieckie;P³oniawy-Bramura;06-210;Tomasz Kelm
+K01281;po³udniowo-zachodni;dolnoœl¹skie;Je¿ów Sudecki;58-521;Damian Tyczka
+K00374;po³udniowy;œl¹skie;Bytom;41-906;Renata Kulik
+K00941;pó³nocny;kujawsko-pomorskie;Choceñ;87-850;Katarzyna So³tan
+K00663;centralny;mazowieckie;Sucho¿ebry;08-125;Andrzej Macewicz
+K02626;wschodni;podkarpackie;Ulanów;37-410;Magdalena £¹czkowska
+K01949;pó³nocno-zachodni;wielkopolskie;£ob¿enica;89-310;Jadwiga Szuplak
+K00060;po³udniowy;ma³opolskie;Kêty;32-650;Anatol Gonczarewicz
+K01888;pó³nocno-zachodni;lubuskie;Lubiszyn;66-433;Kamil Bednarz
+K02897;po³udniowo-zachodni;dolnoœl¹skie;Oborniki Œl¹skie;55-120;Krzysztof Cywiñski
+K02423;pó³nocno-zachodni;wielkopolskie;Ksi¹¿ Wielkopolski;63-130;Agata Graf
+K03092;po³udniowo-zachodni;dolnoœl¹skie;Ziêbice;57-220;Roman Pawluch
+K00024;po³udniowy;œl¹skie;Porêba;42-480;Sylwia Korbus
+K02698;centralny;mazowieckie;B³onie;05-505;Mateusz Kowalski
+K02805;wschodni;lubelskie;Siedliszcze;22-145;Marek M³ynarczyk
+K02806;po³udniowy;ma³opolskie;£ukowica;34-606;Mieczys³aw Drobek
+K01646;po³udniowo-zachodni;opolskie;Paw³owiczki;47-280;Krzysztof W³odkowski
+K03344;pó³nocny;kujawsko-pomorskie;Ciechocinek;87-720;Jan Kubabski
+K02699;pó³nocny;warmiñsko-mazurskie;Ryn;11-520;Marcin Beñko
+K03102;pó³nocno-zachodni;wielkopolskie;Golina;63-200;Andrzej Kolada
+K03285;centralny;mazowieckie;Szreñsk;06-550;Jolanta Bednarek
+K00448;wschodni;podkarpackie;Komañcza;38-543;Grzegorz Krzemieñ
+K01577;po³udniowo-zachodni;dolnoœl¹skie;Z³oty Stok;57-250;Stanis³aw £okietek
+K03379;centralny;mazowieckie;Sobolew;08-460;Zbigniew Jakomulski
+K00914;wschodni;podkarpackie;Sanok;38-500;Renata Janowska
+K02758;po³udniowo-zachodni;dolnoœl¹skie;Karpacz;58-540;Jan Borowik
+K01201;wschodni;lubelskie;Ulan-Majorat;21-307;Jaros³aw Kraœniañski
+K00764;wschodni;lubelskie;U³ê¿;08-504;Miros³aw Pomorski
+K03025;centralny;mazowieckie;Mordy;08-140;Gra¿yna Mot³och
+K03026;po³udniowo-zachodni;dolnoœl¹skie;Milicz;56-300;Marta Mikulska
+K01777;po³udniowy;œl¹skie;Ha¿lach;43-419;Anita Jasiñska
+K01998;centralny;³ódzkie;Dmosin;95-061;Irena Banaœkiewicz
+K02779;wschodni;podlaskie;Zbójna;18-416;Julia Piotrowska
+K00371;po³udniowy;œl¹skie;Strumieñ;43-246;Dariusz Mo¿ejko
+K00370;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Adam Seredyñski
+K02511;po³udniowy;œl¹skie;Rybnik;44-213;Marek Rojek
+K02523;centralny;mazowieckie;Dzierz¹¿nia;09-164;Renata Opar
+K02012;po³udniowy;ma³opolskie;Zakopane;34-500;Piotr Wodyk
+K02639;wschodni;œwiêtokrzyskie;Chêciny;26-060;Andrzej Trojanowski
+K03201;pó³nocny;warmiñsko-mazurskie;Banie Mazurskie;19-520;Adam WoŸniak
+K00772;centralny;mazowieckie;Ostrów Mazowiecka;07-300;Miros³aw Maciesza
+K00782;centralny;³ódzkie;G³owno;95-015;Iwona Wentis
+K02297;wschodni;lubelskie;Goraj;23-450;Marek Michalski
+K02293;po³udniowo-zachodni;opolskie;Ozimek;46-040;S³awoj Kigina
+K02294;po³udniowy;ma³opolskie;Koszyce;32-130;Janusz Gromek
+K00883;po³udniowo-zachodni;dolnoœl¹skie;Walim;58-320;Magdalena ŒWitkowska
+K02162;pó³nocno-zachodni;wielkopolskie;Damas³awek;62-110;Zbigniew Oleksiak
+K01026;wschodni;podkarpackie;Nowy ¯migród;38-230;Marek Jakubiak
+K03306;wschodni;lubelskie;Konstantynów;21-543;Janina G¹szcz
+K00894;po³udniowy;œl¹skie;Ruda Œl¹ska;41-710;Halina Stachowiak
+K02329;pó³nocno-zachodni;zachodniopomorskie;£obez;73-150;Ewa Pawlina
+K00327;centralny;³ódzkie;Wolbórz;97-320;Jan Szymko
+K02890;wschodni;œwiêtokrzyskie;Szyd³ów;28-225;Tadeusz Górecki
+K03317;centralny;mazowieckie;Dzierz¹¿nia;09-164;Iwona Mierzejewska
+K03313;wschodni;œwiêtokrzyskie;Wodzis³aw;28-330;Danuta £ysko
+K03315;pó³nocno-zachodni;wielkopolskie;¯elazków;62-400;Joanna Zatorska
+K01097;centralny;³ódzkie;Góra Œwiêtej Ma³gorzaty;99-122;Tomasz Paw³owski
+K01098;pó³nocny;kujawsko-pomorskie;Œwiekatowo;86-182;Ryszard Grzesiak
+K01103;pó³nocny;pomorskie;S³upsk;76-200;Iwona Zibrowska
+K00228;wschodni;podlaskie;Œniadowo;18-411;Katarzyna Grzybowska
+K00363;centralny;mazowieckie;Bulkowo;09-454;Marcin Czura
+K00326;pó³nocny;warmiñsko-mazurskie;Gietrzwa³d;11-036;Konrad Jagie³ka
+K03325;wschodni;œwiêtokrzyskie;Stopnica;28-130;Walentyna Wojtowicz
+K02072;centralny;³ódzkie;Konstantynów £ódzki;95-050;Krzysztof Chmielecki
+K02847;centralny;mazowieckie;Skaryszew;26-640;Roman Kowalik
+K01418;po³udniowy;ma³opolskie;Grybów;33-330;Tadeusz KoŸluk
+K01490;pó³nocno-zachodni;zachodniopomorskie;Dziwnów;72-420;Maria Kobuszyñska
+K01552;wschodni;podlaskie;P³aska;16-326;Wac³aw Baranowicz
+K03294;po³udniowy;œl¹skie;Gocza³kowice-Zdrój;43-230;Robert Czapla
+K02478;pó³nocny;kujawsko-pomorskie;Sêpólno Krajeñskie;89-400;Marzena Molcan
+K00251;pó³nocno-zachodni;wielkopolskie;Rawicz;63-900;Tomasz Sobieraj
+K00503;po³udniowo-zachodni;dolnoœl¹skie;Przeworno;57-100;Irena Matuszczak
+K01993;centralny;mazowieckie;G¹bin;09-530;Danuta Pawelec
+K01828;wschodni;œwiêtokrzyskie;Æmielów;27-440;Zbigniew Grabarek
+K01989;wschodni;podlaskie;Narewka;17-220;Karolina Kalwas
+K03225;centralny;mazowieckie;Ka³uszyn;05-310;Regina M¹kowska
+K01411;pó³nocno-zachodni;wielkopolskie;Pyzdry;62-310;Piotr Lewandowski
+K03291;centralny;mazowieckie;Szelków;06-220;Tadeusz Tracz
+K02514;wschodni;lubelskie;£opiennik Górny;22-351;El¿bieta Holz
+K02538;wschodni;lubelskie;Tyszowce;22-630;Zofia Stolarek
+K00018;centralny;mazowieckie;Repki;07-405;Kamila Mokrzycka
+K01238;pó³nocno-zachodni;wielkopolskie;Krobia;63-840;Waldemar Czyszek
+K01743;pó³nocny;warmiñsko-mazurskie;Mi³akowo;14-310;Jacek Brzozowski
+K02833;wschodni;podkarpackie;Cieszanów;37-611;Stanis³awa Michalska
+K02221;centralny;mazowieckie;Wierzbno;07-111;Jan Wypych
+K02220;wschodni;podkarpackie;Brzostek;39-230;Maria Leœniewska
+K00807;wschodni;œwiêtokrzyskie;Sadowie;27-580;Krzysztof Hara
+K02489;po³udniowy;ma³opolskie;Skawina;32-050;Piotr Skopowski
+K01649;pó³nocno-zachodni;wielkopolskie;KaŸmierz;64-530;Sabina Bednarz
+K00977;po³udniowo-zachodni;opolskie;Zdzieszowice;47-330;Miros³aw Majka
+K00973;centralny;³ódzkie;Pajêczno;98-330;Halina Kuch
+K02539;pó³nocny;warmiñsko-mazurskie;I³owo-Osada;13-240;Grzegorz Ruciñski
+K02801;pó³nocny;pomorskie;Tczew;83-110;Miros³aw Nowosza
+K00278;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Micha³ Lisik
+K00279;po³udniowy;ma³opolskie;Mucharz;34-106;Pawe³ Gabrysiak
+K03075;po³udniowy;ma³opolskie;Kraków;31-432;Robert Janek
+K00721;pó³nocno-zachodni;wielkopolskie;Osiek Ma³y;62-613;Czes³aw Kubowicz
+K00483;centralny;³ódzkie;Galewice;98-405;Kazimierz £ojek
+K00478;centralny;mazowieckie;Warszawa;00-538;Zbigniew Gradziñski
+K00321;centralny;³ódzkie;¯ytno;97-532;Marta Kaczmarek
+K02346;po³udniowy;ma³opolskie;Tokarnia;32-436;Tomasz Tamborski
+K00194;wschodni;lubelskie;Terespol;21-550;Anna Szymañska
+K01323;centralny;mazowieckie;Stare Babice;05-082;Stanis³aw W¹do³owski
+K01326;centralny;mazowieckie;Nadarzyn;05-830;Andrzej Ko³obycz
+K01327;pó³nocny;warmiñsko-mazurskie;Jeziorany;11-320;Pawe³ Bednarek
+K01329;po³udniowy;ma³opolskie;Lubieñ;32-433;Anna Seniuk
+K02029;centralny;mazowieckie;Raci¹¿;09-140;Roman Opoñ
+K02030;pó³nocny;kujawsko-pomorskie;Cekcyn;89-511;Marek Kowalów
+K00824;pó³nocno-zachodni;lubuskie;Szlichtyngowa;67-407;Urszula Stanis³awska
+K01536;po³udniowo-zachodni;dolnoœl¹skie;Z³oty Stok;57-250;Pawe³ Chrobak
+K00485;pó³nocno-zachodni;lubuskie;Zielona Góra;65-850;Piotr Hebda
+K02245;pó³nocno-zachodni;wielkopolskie;Wielichowo;64-050;Monika Mod³a
+K03338;po³udniowo-zachodni;dolnoœl¹skie;Lubin;59-335;Ewa Kowalczyk
+K00611;po³udniowy;œl¹skie;Czechowice-Dziedzice;43-503;Krzysztof Kominek
+K00961;po³udniowo-zachodni;opolskie;G³ubczyce;48-100;Krzysztof Michno
+K00120;po³udniowy;ma³opolskie;Krzeszowice;32-065;Anna Nowak
+K02160;po³udniowy;œl¹skie;Wis³a;43-460;Arkadiusz Karolik
+K01599;centralny;³ódzkie;Kleszczów;97-410;Wojciech Sufisz
+K01690;pó³nocno-zachodni;lubuskie;Bytom Odrzañski;67-115;Tomasz Okupski
+K00141;pó³nocno-zachodni;wielkopolskie;Jarocin;63-200;Robert Side³ko
+K00603;po³udniowo-zachodni;dolnoœl¹skie;Jordanów Œl¹ski;55-040;Jan Rudziñski
+K01168;centralny;mazowieckie;Latowicz;05-334;Daniel Zahorenko
+K02224;wschodni;œwiêtokrzyskie;Ma³ogoszcz;28-366;Krzysztof Krawczak
+K01890;wschodni;œwiêtokrzyskie;Daleszyce;26-021;Wies³aw Nadstawny
+K02122;centralny;³ódzkie;Dalików;99-205;Leszek Kondrat
+K01139;centralny;mazowieckie;Wieniawa;26-432;Joanna D¹browska
+K02148;pó³nocny;kujawsko-pomorskie;Zbiczno;87-305;S³awomir Jamka
+K00049;centralny;mazowieckie;Myszyniec;07-430;Andrzej Klimczyk
+K02430;pó³nocny;kujawsko-pomorskie;Brodnica;87-300;Marek Kukie
+K02630;wschodni;lubelskie;Lubartów;21-100;Jerzy Królikowski
+K02390;centralny;³ódzkie;Wróblew;95-035;Kazimierz Ratajczyk
+K00115;po³udniowy;ma³opolskie;Siepraw;32-447;Marek Rzepka
+K01053;centralny;mazowieckie;Jakubów;05-306;Waldemar Lemiesz
+K03252;pó³nocny;pomorskie;Smo³dzino;76-214;Stanis³aw Wiœniewski
+K01258;centralny;mazowieckie;Soko³ów Podlaski;08-300;Anita Stolarczyk
+K02202;pó³nocno-zachodni;wielkopolskie;Kamieniec;64-061;Patryk Dzienisiewicz
+K00524;pó³nocny;pomorskie;Kaliska;83-260;Ma³gorzata Sierpiñska
+K00357;pó³nocno-zachodni;wielkopolskie;Godziesze Wielkie;62-872;Janusz Najderek
+K01185;pó³nocno-zachodni;lubuskie;I³owa;68-120;Bernard Kowalski
+K03023;pó³nocno-zachodni;zachodniopomorskie;Lipiany;74-240;Waldemar Bogoniowski
+K03022;centralny;mazowieckie;Czarnia;07-431;Grzegorz Balon
+K02500;pó³nocny;pomorskie;£êczyce;84-218;Marian Bedus
+K01721;pó³nocno-zachodni;lubuskie;Drezdenko;66-530;Edward Wojtalik
+K02894;wschodni;podlaskie;Szczuczyn;19-230;Urszula Rybkiewicz
+K00200;pó³nocno-zachodni;zachodniopomorskie;Suchañ;73-132;Roksana Zalega
+K00605;pó³nocny;kujawsko-pomorskie;Lniano;86-141;Zdzis³awa Rados
+K00558;centralny;³ódzkie;Galewice;98-405;Ma³gorzata Tyras
+K00732;pó³nocno-zachodni;wielkopolskie;Œlesin;62-561;Andrzej Plichta
+K00729;pó³nocny;kujawsko-pomorskie;Topólka;87-875;Tadeusz Biernat
+K03168;centralny;³ódzkie;Wartkowice;99-220;£ukasz Tomków
+K00719;centralny;mazowieckie;Lipowiec Koœcielny;06-545;Rafa³ Kaleta
+K01723;pó³nocny;kujawsko-pomorskie;Bydgoszcz;85-552;Henryk Kuriata
+K01562;pó³nocny;warmiñsko-mazurskie;Wilczêta;14-405;Andrzej Brzozowski
+K03119;po³udniowy;œl¹skie;Tarnowskie Góry;42-600;Jan Herman
+K00629;centralny;³ódzkie;Opoczno;26-300;Izabela Krajnik
+K01497;centralny;³ódzkie;Lipce Reymontowskie;96-127;Marcin Ró¿añski
+K01475;po³udniowo-zachodni;opolskie;Paczków;48-370;Leszek GuŸdzio³
+K01020;centralny;mazowieckie;Kowala;26-624;Ma³gorzata Brz¹ka³a
+K01347;centralny;mazowieckie;Gozdowo;09-213;Violetta Stolarska
+K02834;po³udniowo-zachodni;opolskie;Gogolin;47-320;Jaros³aw Trygub
+K02587;po³udniowy;ma³opolskie;Nowe Brzesko;32-120;Tadeusz Szopik
+K00539;pó³nocny;kujawsko-pomorskie;£asin;86-320;Jolanta Gi³ka
+K00540;po³udniowy;œl¹skie;Jejkowice;44-200;Ewa Korczak
+K02987;centralny;³ódzkie;Tuszyn;98-330;£ukasz Rachubiñski
+K02931;pó³nocno-zachodni;wielkopolskie;Stare Miasto;62-571;Stanis³aw Olechnowicz
+K02089;centralny;mazowieckie;Zbuczyn;08-106;Piotr Garnicki
+K02372;pó³nocno-zachodni;wielkopolskie;Kêpno;63-600;Jerzy Przepióra
+K01361;centralny;mazowieckie;Baboszewo;09-130;Zygmunt Ko³acki
+K02103;po³udniowo-zachodni;opolskie;Zawadzkie;47-120;Artur Kotowski
+K02532;centralny;mazowieckie;Ceg³ów;05-319;Dominik Miko³ajczak
+K00398;pó³nocno-zachodni;wielkopolskie;Krotoszyn;63-700;Józef Lewandowski
+K02118;pó³nocno-zachodni;lubuskie;Kargowa;66-120;Olga Roszak
+K00868;pó³nocny;pomorskie;Tuchomie;77-133;Anna Korzeniewska
+K02303;centralny;mazowieckie;Warszawa;00-124;Maciej £opucki
+K02062;po³udniowy;œl¹skie;Kobiór;43-210;Cezary Franaszczuk
+K03083;po³udniowo-zachodni;dolnoœl¹skie;D³ugo³êka;55-095;Lech Puzdrowski
+K00003;pó³nocno-zachodni;wielkopolskie;Strza³kowo;62-420;Andrzej Jakubowski
+K02603;pó³nocny;pomorskie;Kêpice;77-230;Marcin Kutkowski
+K02604;pó³nocny;warmiñsko-mazurskie;Barciany;11-410;Katarzyna Skowroñska
+K02977;wschodni;podkarpackie;Kolbuszowa;36-100;El¿bieta Wolañska
+K00750;wschodni;podkarpackie;Domaradz;36-230;Janusz Bartczak
+K00354;wschodni;œwiêtokrzyskie;W³oszczowa;29-100;Jaros³aw Szymankowski
+K00892;wschodni;lubelskie;Mi¹czyn;22-455;Andrzej Ksepko
+K03287;pó³nocny;kujawsko-pomorskie;Sicienko;86-014;Monika Saniuk
+K01814;centralny;³ódzkie;D¹browice;99-352;Justyna Pencarska
+K01354;centralny;mazowieckie;Wodynie;08-117;Marcin £apeciñski
+K00657;pó³nocno-zachodni;lubuskie;Bobrowice;66-627;Teresa Grabowska
+K00659;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Robert Sorokopas
+K00008;wschodni;podkarpackie;Wadowice Górne;39-308;Bartosz Bukowski
+K00009;pó³nocno-zachodni;zachodniopomorskie;Drawsko Pomorskie;78-500;Oliwia Skórka
+K01014;po³udniowo-zachodni;dolnoœl¹skie;Mêcinka;59-400;Zdzis³awa Biñkowska
+K01816;wschodni;podlaskie;Krypno;19-111;Bartosz Krystowczyk
+K01259;po³udniowy;ma³opolskie;Zawoja;34-222;Marzena Szymula
+K01162;pó³nocny;kujawsko-pomorskie;Kikó³;87-620;Katarzyna Jemielity
+K01159;pó³nocno-zachodni;lubuskie;Ko¿uchów;67-120;£ukasz Stefañczyk
+K02736;wschodni;lubelskie;Kodeñ;21-509;Stanis³aw Stoma
+K00064;pó³nocny;kujawsko-pomorskie;Z³otniki Kujawskie;88-180;Henryk Kraczkowski
+K02369;pó³nocny;pomorskie;Lêbork;84-300;Pawe³ Wilewski
+K03089;centralny;³ódzkie;Dobroñ;95-082;Krzysztof Borucki
+K01823;po³udniowy;œl¹skie;Gliwice;44-164;Barbara Kochañska
+K02218;pó³nocny;pomorskie;Tr¹bki Wielkie;83-034;Ma³gorzata Kulik
+K01755;wschodni;podkarpackie;Le¿ajsk;37-300;Maria Tchoryk
+K00305;po³udniowo-zachodni;opolskie;Polska Cerekiew;47-260;Weronika Kosek
+K01042;po³udniowy;ma³opolskie;Stary S¹cz;33-340;Edward Gola
+K00726;wschodni;podkarpackie;Rakszawa;37-111;Tomasz Owczarek
+K00733;pó³nocno-zachodni;zachodniopomorskie;Biesiekierz;75-016;Anna Wnuczko
+K00730;po³udniowy;ma³opolskie;£ukowica;34-606;Mieczys³aw Marciniak
+K02714;wschodni;œwiêtokrzyskie;O¿arów;27-530;Henryk Bieñkowski
+K01546;po³udniowy;ma³opolskie;Maków Podhalañski;34-220;Wojciech Stadejek
+K00645;pó³nocny;pomorskie;Przodkowo;83-304;Zofia Szczotkiewicz
+K00172;wschodni;lubelskie;Goœcieradów;23-275;Anna Kurosz
+K02775;po³udniowy;ma³opolskie;Zabierzów;32-080;Bogus³aw Po³owniak
+K01480;pó³nocny;pomorskie;Lipusz;83-424;Iwona Moskal
+K02241;wschodni;lubelskie;Serokomla;21-413;Agnieszka WoŸniak
+K02973;pó³nocno-zachodni;wielkopolskie;Zagórów;62-410;Paulina G³uszko
+K01633;centralny;mazowieckie;Lutocin;09-317;Anna Bukiel
+K00133;po³udniowy;ma³opolskie;Siepraw;32-447;Ma³gorzata Ho³ub
+K02178;po³udniowy;œl¹skie;Miko³ów;43-190;Marian Harasim
+K01286;po³udniowy;ma³opolskie;Wierzchos³awice;33-122;Justyna Antczak
+K01217;po³udniowy;œl¹skie;Rybnik;44-292;Micha³ Sokó³
+K01196;po³udniowy;ma³opolskie;Nowy Targ;34-400;Magdalena Soska
+K00497;pó³nocny;pomorskie;Reda;84-240;Katarzyna Rejniak
+K03312;wschodni;podlaskie;Czeremcha;17-250;Maria Kozak
+K01484;po³udniowo-zachodni;opolskie;Niemodlin;49-100;Konrad Kolatowski
+K02041;po³udniowo-zachodni;dolnoœl¹skie;Mi³kowice;59-222;Miros³aw Gajek
+K01341;po³udniowo-zachodni;dolnoœl¹skie;Ruja;59-243;Wioletta Mamuszka
+K01338;centralny;³ódzkie;£ódŸ;90-419;Zdzis³aw Bernacki
+K03235;pó³nocny;kujawsko-pomorskie;Nieszawa;87-730;Witold Dêga
+K01750;po³udniowo-zachodni;opolskie;Lewin Brzeski;49-340;Robert Murii
+K00035;po³udniowy;ma³opolskie;Trzebinia;32-540;Kazimierz Baœkowski
+K03069;pó³nocny;pomorskie;Stare Pole;82-220;Gra¿yna ¯akiewicz
+K03367;pó³nocno-zachodni;wielkopolskie;Grabów nad Prosn¹;63-520;Teresa Ca³ka
+K01983;pó³nocny;warmiñsko-mazurskie;Sorkwity;11-731;Andrzej Jankowiak
+K03255;po³udniowo-zachodni;opolskie;Praszka;46-320;Jaros³aw Koladyñski
+K00143;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Sebastian Ta³aj
+K01893;pó³nocno-zachodni;lubuskie;Tuplice;68-200;Jerzy K³obukowski
+K01595;po³udniowo-zachodni;dolnoœl¹skie;Olszyna;59-830;Ma³gorzata Ko³oszyc
+K02579;wschodni;lubelskie;Annopol;21-150;Janusz Bagiñski
+K01452;centralny;³ódzkie;£aniêta;99-306;Joanna Gucia
+K02301;centralny;mazowieckie;S³upno;09-472;Henryk Placak
+K02984;po³udniowo-zachodni;dolnoœl¹skie;Bierutów;56-420;Czes³aw Piszczek
+K01565;pó³nocno-zachodni;lubuskie;Szprotawa;67-300;Tomasz Wujda
+K02770;pó³nocny;warmiñsko-mazurskie;Górowo I³aweckie;11-220;Jerzy Krygier
+K02443;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-335;Irena Brzeziñska
+K00432;po³udniowo-zachodni;dolnoœl¹skie;Sobótka;55-050;W³odzimierz Szczepaniak
+K00435;po³udniowo-zachodni;opolskie;Ozimek;46-040;Piotr Opieka
+K00383;centralny;³ódzkie;Lutomiersk;95-083;El¿bieta Korgul
+K00061;wschodni;podkarpackie;Baranów Sandomierski;39-450;Krzysztof Wróblewski
+K03051;pó³nocno-zachodni;wielkopolskie;Luboñ;62-030;Tomasz Panfil
+K00613;po³udniowy;œl¹skie;Czechowice-Dziedzice;43-502;Marta Kowalska
+K02512;pó³nocno-zachodni;wielkopolskie;Chodzie¿;64-800;£ukasz Snoch
+K00152;centralny;mazowieckie;Miñsk Mazowiecki;05-300;Pawe³ Strzelecki
+K00412;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Marzanna Taborska
+K00415;wschodni;œwiêtokrzyskie;Lipnik;28-221;Stanis³aw Toruñ
+K00452;pó³nocno-zachodni;zachodniopomorskie;Goœcino;78-120;Henryk Koœcielniak
+K00126;pó³nocny;warmiñsko-mazurskie;Braniewo;14-500;Wojciech Smuka³a
+K03077;wschodni;podlaskie;Brañsk;17-120;Wanda Zieliñska
+K01544;pó³nocno-zachodni;wielkopolskie;Tuliszków;62-740;Miros³aw Handke
+K02947;pó³nocno-zachodni;wielkopolskie;Grodziec;62-580;Robert GruŸlewski
+K00957;wschodni;podlaskie;Sura¿;18-100;Aleksandra Kamiñska
+K02004;pó³nocno-zachodni;wielkopolskie;£ob¿enica;89-310;Robert P³atek
+K00403;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Robert Banaœ
+K02115;centralny;mazowieckie;Œwiercze;06-150;Sebastian Barszczewski
+K01316;wschodni;podlaskie;Supraœl;16-030;Krzysztof Sowa
+K02385;po³udniowo-zachodni;opolskie;Strzelce Opolskie;47-100;Jerzy Bieniasz
+K00817;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Pawe³ Krawczyk
+K00814;centralny;³ódzkie;Burzenin;98-260;Zenon Gêbarowski
+K00122;pó³nocno-zachodni;wielkopolskie;Jarocin;63-200;Mi³osz Janczewski
+K00474;po³udniowo-zachodni;opolskie;Ozimek;46-040;Bogumi³a Marut
+K02458;pó³nocny;kujawsko-pomorskie;£abiszyn;89-210;Henryk Dobro³owicz
+K01392;centralny;mazowieckie;Pionki;26-670;Adrian Chrzanowski
+K02650;pó³nocny;kujawsko-pomorskie;Kijewo Królewskie;86-253;Adam D³u¿niewski
+K02454;pó³nocno-zachodni;zachodniopomorskie;Dar³owo;76-153;Jadwiga Tucka
+K02365;po³udniowo-zachodni;dolnoœl¹skie;Wroc³aw;51-637;Zbigniew B³aszczuk
+K02797;wschodni;podlaskie;Suwa³ki;16-400;Wojciech ¯ulewski
+K01613;po³udniowo-zachodni;dolnoœl¹skie;Polanica-Zdrój;57-320;Arkadiusz Mazepa
+K01611;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Piotr Downar
+K01612;pó³nocny;kujawsko-pomorskie;Topólka;87-875;Danuta Patkowska
+K03321;po³udniowy;ma³opolskie;Wolbrom;32-340;Krzysztof Mroczek
+K01866;wschodni;lubelskie;Tarnogród;23-420;Mariusz Kowalczyk
+K01864;po³udniowy;ma³opolskie;Igo³omia-Wawrzeñczyce;32-125;Tomasz Tesmer
+K03096;po³udniowy;œl¹skie;Krzy¿anowice;47-450;Stefan Marczak
+K00768;po³udniowo-zachodni;dolnoœl¹skie;Zgorzelec;59-900;Magdalena Lewandowska
+K02688;po³udniowy;ma³opolskie;Mucharz;34-106;Monika Grzebielucha
+K02691;po³udniowy;ma³opolskie;S³opnice;34-615;Mieczys³aw Szpak
+K00186;wschodni;podkarpackie;Jod³owa;39-225;Anna Mêtlewicz
+K00025;po³udniowy;œl¹skie;Koniecpol;42-230;Hanna ŒWiderska
+K02153;pó³nocny;pomorskie;Pruszcz Gdañski;83-000;Janusz Sa³ek
+K02282;po³udniowo-zachodni;dolnoœl¹skie;Domaniów;55-216;Krystyna Najdzion
+K00600;wschodni;lubelskie;Tarnawatka;22-604;Przemys³aw Maksymowicz
+K01234;wschodni;œwiêtokrzyskie;Kielce;25-380;Danuta Maniak
+K00073;centralny;mazowieckie;Stary Lubotyñ;07-303;Maria Ho³odowska
+K01793;wschodni;lubelskie;Dêbowa K³oda;21-211;Gabriela Czesnowska
+K00078;centralny;³ódzkie;Nieborów;99-416;Jakub Rakowski
+K00075;po³udniowy;ma³opolskie;Rzezawa;32-765;Stefan Turowski
+K00076;wschodni;lubelskie;Milanów;21-210;£ukasz Sendlewski
+K00077;po³udniowy;ma³opolskie;Stryszów;34-145;Ryszard Pa³czyñski
+K02912;po³udniowo-zachodni;dolnoœl¹skie;Szczawno-Zdrój;58-310;Marek Drela
+K01918;centralny;mazowieckie;Pomiechówek;05-180;Jadwiga Szymanowska
+K00333;centralny;mazowieckie;Paprotnia;08-107;Zbigniew Wilk
+K00267;pó³nocny;warmiñsko-mazurskie;Zalewo;14-140;Katarzyna Marchewka
+K01183;centralny;mazowieckie;Somianka;07-203;Lech Halarewicz
+K02745;pó³nocny;pomorskie;Tczew;83-110;Danuta Górna
+K01824;pó³nocno-zachodni;wielkopolskie;Czerwonak;62-004;Tomasz Bielaszewski
+K03394;pó³nocny;warmiñsko-mazurskie;Tolkmicko;82-340;Karol Korczyñski
+K02490;po³udniowy;œl¹skie;Rydu³towy;44-280;Grzegorz Wêglowski
+K00132;pó³nocny;warmiñsko-mazurskie;Piecki;11-710;Sylwester Radliñski
+K01799;centralny;mazowieckie;I³¿a;27-100;Joanna Dunajewska
+K03292;pó³nocno-zachodni;zachodniopomorskie;Malechowo;76-142;Micha³ Bociarski
+K00825;centralny;mazowieckie;Piastów;05-820;Urszula Saryczew
+K00854;wschodni;lubelskie;Czemierniki;21-306;Jerzy Nogaj
+K00855;pó³nocno-zachodni;zachodniopomorskie;Barlinek;74-320;Maciej ¯ebrowski
+K00858;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Bogdan Pomorski
+K01770;po³udniowy;ma³opolskie;Brzeszcze;32-620;Waldemar Maliszewski
+K03087;po³udniowy;ma³opolskie;Zator;32-640;Grzegorz Pierœcionek
+K01547;pó³nocny;warmiñsko-mazurskie;Bisztynek;11-230;Marcin Struk
+K01288;pó³nocny;warmiñsko-mazurskie;Wielbark;12-160;Wies³aw Czarnecki
+K03044;po³udniowo-zachodni;opolskie;Namys³ów;46-100;Magdalena B¹k
+K03045;pó³nocno-zachodni;zachodniopomorskie;Cz³opa;78-630;Miros³aw Bere¿añski
+K01324;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Edward Sad³owski
+K01829;pó³nocny;kujawsko-pomorskie;Œwiecie;86-105;Joanna Czerwiñska
+K00375;wschodni;podlaskie;Boæki;17-111;Lidia Majewska
+K01850;pó³nocno-zachodni;zachodniopomorskie;Polanów;76-010;Eugeniusz Muryn
+K00534;wschodni;œwiêtokrzyskie;Wilczyce;27-612;Jadwiga Kosid³o
+K00813;wschodni;podkarpackie;Rakszawa;37-111;Grzegorz Ró¿ycki
+K01314;po³udniowy;ma³opolskie;Kraków;31-001;Wies³awa Wicher
+K02644;po³udniowy;ma³opolskie;Szczurowa;32-820;Bogus³aw Grygiel
+K03155;wschodni;podkarpackie;G³ogów Ma³opolski;36-060;Stanis³aw Gnosowski
+K01140;po³udniowy;œl¹skie;Radlin;44-310;Miros³aw Wyrodek
+K03073;pó³nocno-zachodni;zachodniopomorskie;Po³czyn-Zdrój;78-320;Danuta Sroka
+K02157;po³udniowy;œl¹skie;Czerwionka-Leszczyny;44-238;Daria Stasiak
+K01368;po³udniowy;ma³opolskie;Œwi¹tniki Górne;32-040;Mieczys³aw Karpiszyn
+K01607;pó³nocno-zachodni;wielkopolskie;Sompolno;62-610;Wies³aw Kubik
+K01527;po³udniowo-zachodni;dolnoœl¹skie;Stronie Œl¹skie;57-550;Zenon Saja
+K03269;po³udniowo-zachodni;dolnoœl¹skie;Jerzmanowa;67-210;Anna Szko³uda
+K03266;wschodni;lubelskie;Borzechów;24-224;Miros³awa Cwajda
+K02391;pó³nocno-zachodni;lubuskie;Zabór;66-003;Piotr Sterczyñski
+K00217;pó³nocno-zachodni;wielkopolskie;Skulsk;62-560;Edwarda Ptaszyñska
+K01072;po³udniowo-zachodni;dolnoœl¹skie;Kowary;58-530;Sandra Szulc
+K03350;centralny;³ódzkie;Parzêczew;95-045;Jadwiga Mikulska
+K02893;wschodni;lubelskie;Do³hobyczów;22-540;Kazimierz Wolski
+K02433;po³udniowo-zachodni;dolnoœl¹skie;Przemków;59-170;Katarzyna KaraŸniewicz
+K03000;wschodni;podkarpackie;Rudnik nad Sanem;37-420;Józef Malinowski
+K01943;po³udniowo-zachodni;dolnoœl¹skie;Szklarska Porêba;58-580;Marian Gawienowski
+K02355;pó³nocno-zachodni;wielkopolskie;Mi³os³aw;62-320;Teresa Jab³oñska
+K00230;pó³nocno-zachodni;lubuskie;Jasieñ;68-320;Andrzej Melnyczuk
+K02892;po³udniowo-zachodni;opolskie;Krapkowice;47-300;Donata Bakalarczyk
+K02503;centralny;mazowieckie;Maków Mazowiecki;06-200;Zenon Wajgert
+K01899;wschodni;podkarpackie;Grêbów;39-410;Iwona Grygorcewicz
+K01900;centralny;mazowieckie;Jastrz¹b;26-434;Janina Plewka
+K01903;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Franciszek Miksza
+K00514;wschodni;podlaskie;Baka³arzewo;16-400;Janusz Musia³
+K02286;pó³nocno-zachodni;zachodniopomorskie;Pe³czyce;73-260;Bo¿ena Œwieboda
+K01712;centralny;mazowieckie;Czernice Borowe;06-415;Aneta Kêpa
+K03265;centralny;³ódzkie;Ozorków;95-035;Jacek Jurczak
+K03270;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Jacek Rafiñski
+K03031;pó³nocno-zachodni;zachodniopomorskie;Nowogard;72-200;Zbigniew Cycyk
+K03058;centralny;mazowieckie;Paprotnia;08-107;Andrzej Gutowski
+K03056;po³udniowy;ma³opolskie;Pa³ecznica;32-109;Arkadiusz Maœlij
+K01867;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Ryszard Pilipiec
+K02479;wschodni;podkarpackie;Iwonicz-Zdrój;38-440;Piotr Taramas
+K03303;pó³nocno-zachodni;wielkopolskie;Obrzycko;64-520;Janusz Ziêtkiewicz
+K01896;pó³nocno-zachodni;wielkopolskie;Olszówka;62-641;Waldemar Potoniec
+K01375;wschodni;lubelskie;Rachanie;22-640;Bart³omiej Przyby³
+K01379;pó³nocny;warmiñsko-mazurskie;Olsztynek;11-015;Hanna Bochen
+K00406;wschodni;œwiêtokrzyskie;Nowy Korczyn;28-136;Krystyna Kiryk
+K02188;po³udniowy;œl¹skie;Toszek;44-180;Justyna Terlecka
+K01680;pó³nocny;kujawsko-pomorskie;Kowal;87-820;Aldona Prusinowska
+K01117;po³udniowo-zachodni;dolnoœl¹skie;Wa³brzych;58-302;Marian Osêkowski
+K00148;centralny;mazowieckie;Paprotnia;26-902;Jakub Rembowski
+K01293;centralny;³ódzkie;Koluszki;95-040;Miros³aw Lipiec
+K02787;pó³nocny;pomorskie;Morzeszczyn;83-132;Krzysztof Plewko
+K02377;wschodni;lubelskie;Na³êczów;24-150;Ewa Paœka
+K01242;pó³nocno-zachodni;wielkopolskie;Granowo;62-065;Aneta £uczyñska
+K01533;wschodni;podkarpackie;B³a¿owa;36-030;Stanis³aw Witkowski
+K01523;centralny;³ódzkie;Nieborów;99-416;Dariusz Drohomirecki
+K01520;po³udniowo-zachodni;dolnoœl¹skie;Œwierzawa;59-540;Krzysztof Lenartowicz
+K00185;pó³nocny;kujawsko-pomorskie;Gruta;86-330;Piotr Jedliñski
+K01251;po³udniowo-zachodni;dolnoœl¹skie;Chojnów;59-225;Teresa Kuliñska
+K01558;wschodni;podkarpackie;Hy¿ne;36-024;Krzysztof Chloupek
+K00680;centralny;³ódzkie;Skierniewice;96-100;Ryszard Weso³owski
+K02291;wschodni;podkarpackie;Dukla;38-450;Eugeniusz Pi¹tek
+K02308;po³udniowy;ma³opolskie;Lipinki;38-305;Aneta Jakubów
+K01371;centralny;mazowieckie;Sulejówek;05-070;Wojciech Wodecki
+K00661;centralny;³ódzkie;G³owno;95-015;W³adys³aw Iwañski
+K02764;pó³nocny;pomorskie;Kêpice;77-230;Kamil Lis
+K02760;wschodni;lubelskie;£êczna;21-010;Pawe³ Widelski
+K02059;po³udniowy;œl¹skie;Orzesze;43-180;Leszek Stachowiak
+K01584;po³udniowy;œl¹skie;Pilchowice;44-145;Miros³aw Michalski
+K03273;po³udniowy;œl¹skie;Bojszowy;43-155;Ma³gorzata Stañczyk
+K00642;pó³nocno-zachodni;wielkopolskie;Tuliszków;62-740;Ma³gorzata Giwer
+K01141;wschodni;lubelskie;Opole Lubelskie;24-300;Pawe³ Florkowski
+K02039;centralny;mazowieckie;M³ynarze;06-231;Miros³aw Hojko
+K01093;centralny;³ódzkie;Bêdków;97-319;Piotr Gutowski
+K00594;wschodni;podlaskie;D¹browa Bia³ostocka;16-200;Stanis³aw Frejmut
+K01148;po³udniowy;ma³opolskie;Ciê¿kowice;33-190;Kazimierz Staszków
+K01583;wschodni;podkarpackie;Zaklików;37-470;Artur Pawlik
+K01581;po³udniowy;ma³opolskie;Lubieñ;32-433;Andrzej Kowalski
+K00490;po³udniowy;œl¹skie;Pilchowice;44-145;Janusz Ró¿añski
+K02463;po³udniowy;œl¹skie;Œwiêtoch³owice;41-600;Iwona Macek
+K01962;wschodni;podkarpackie;Pilzno;39-220;Pawe³ Kogut
+K01339;wschodni;podkarpackie;Adamówka;37-534;Ma³gorzata G³owacka
+K02715;po³udniowo-zachodni;dolnoœl¹skie;Lubañ;59-800;Janusz Grudnik
+K00197;po³udniowy;œl¹skie;Knurów;44-193;Tomasz Szulc
+K01811;pó³nocny;pomorskie;Stary Targ;82-410;El¿bieta Zieliñska
+K00263;pó³nocno-zachodni;lubuskie;S³awa;67-410;Izabela Wilke
+K02637;pó³nocny;warmiñsko-mazurskie;Dobre Miasto;11-040;Artur Szalczyk
+K00627;centralny;mazowieckie;Sucho¿ebry;08-125;El¿bieta Rêbecka
+K03133;pó³nocny;warmiñsko-mazurskie;Gi¿ycko;11-500;Ewelina Sikorska
+K03245;wschodni;podkarpackie;Wadowice Górne;39-308;Tomasz Szafran
+K01809;wschodni;podkarpackie;Haczów;36-213;Agnieszka Ciesiecka
+K00421;pó³nocno-zachodni;wielkopolskie;W¹growiec;62-100;Roman Soroczyñski
+K00712;pó³nocny;kujawsko-pomorskie;Skrwilno;87-510;Stanis³aw Kudyba
+K00713;wschodni;podkarpackie;RoŸwienica;37-565;Adrian Szczechowski
+K01061;pó³nocno-zachodni;zachodniopomorskie;Warnice;74-201;Damian B³a¿ejewski
+K01063;wschodni;lubelskie;Stary Zamoœæ;22-417;Dariusz Jagie³³o
+K01482;po³udniowy;œl¹skie;Pilica;42-436;Grzegorz Grochecki
+K00648;po³udniowy;ma³opolskie;Krynica-Zdrój;33-383;Wiktor Kwaœniewski
+K02517;centralny;mazowieckie;Goworowo;07-440;Jerzy Ko³akowski
+K02513;pó³nocno-zachodni;wielkopolskie;Mieleszyn;62-212;Anna Britzen
+K02359;po³udniowo-zachodni;opolskie;Olesno;46-300;Claudia Rubanowicz
+K02209;centralny;mazowieckie;Platerów;08-210;Ryszard Smagie³
+K00011;centralny;³ódzkie;Sadkowice;96-206;Marek Reinholz
+K01910;pó³nocno-zachodni;wielkopolskie;Raszków;63-440;Andrzej Salwowski
+K02988;po³udniowy;ma³opolskie;Lisia Góra;33-140;Marcin Makowiecki
+K03345;pó³nocno-zachodni;wielkopolskie;Szamocin;64-820;Irena Kucal
+K02019;pó³nocno-zachodni;wielkopolskie;Poznañ;60-685;Roman Gi³ka
+K00139;po³udniowy;œl¹skie;Kornowac;44-285;Anna Lenartowicz
+K01503;wschodni;podlaskie;KuŸnica;16-123;Jacek Mazurowski
+K00666;po³udniowy;ma³opolskie;Raba Wy¿na;34-721;Leokadia Janczewska
+K03050;po³udniowy;œl¹skie;Kochanowice;42-713;W³adys³aw Pastuszek
+K02675;wschodni;podlaskie;Jedwabne;18-420;Rafa³ G³¹b
+K03066;centralny;³ódzkie;Zduñska Wola;98-220;Krzysztof Maciaszek
+K01855;po³udniowy;œl¹skie;Rybnik;44-207;Piotr Mowczan
+K00984;po³udniowo-zachodni;opolskie;Brzeg;49-305;£ukasz Szendryk
+K00227;centralny;³ódzkie;Tomaszów Mazowiecki;97-200;Mariusz Staszewski
+K00225;centralny;mazowieckie;Wiœniew;08-112;Anna Potêga
+K00547;pó³nocno-zachodni;wielkopolskie;Duszniki;64-550;Micha³ Terefenko
+K00877;po³udniowo-zachodni;dolnoœl¹skie;Borów;57-100;Jerzy Wierzbicki
+K01609;pó³nocny;kujawsko-pomorskie;W³oc³awek;87-800;Mariola Jastrzêbska
+K00360;pó³nocno-zachodni;lubuskie;Zielona Góra;65-775;Dorota £achmanowicz
+K00007;pó³nocny;kujawsko-pomorskie;Solec Kujawski;86-050;Katarzyna Tokarz
+K00887;wschodni;podlaskie;Bia³ystok;15-579;Stanis³aw Sobolewski
+K01006;po³udniowy;ma³opolskie;Czarny Dunajec;34-470;Zygmunt Kijowski
+K03048;wschodni;podlaskie;Grajewo;19-200;Jan Lewicki
+K03283;pó³nocny;pomorskie;Kocza³a;77-220;Danuta Topa
+K02647;pó³nocno-zachodni;wielkopolskie;Pi³a;64-920;Krzysztof Lewandowski
+K01619;wschodni;lubelskie;¯yrzyn;24-103;Julita ¯ugaj
+K01730;wschodni;lubelskie;Hañsk;22-235;Piotr Turowski
+K02069;wschodni;podlaskie;Nowe Piekuty;18-212;Natalia Olejniczak
+K02860;po³udniowy;ma³opolskie;Kocmyrzów-Luborzyca;32-010;Bo¿ena Dorywalska
+K02225;centralny;³ódzkie;Dobroñ;95-082;Zdzis³aw Ejsmont
+K01788;pó³nocny;pomorskie;Przywidz;83-047;Robert Galicki
+K02549;po³udniowo-zachodni;dolnoœl¹skie;Osiecznica;59-724;Tomasz Blutka
+K02053;pó³nocno-zachodni;lubuskie;Zwierzyn;66-542;Kamila Chmielecka
+K02838;po³udniowy;ma³opolskie;Muszyna;33-370;Henryk Domaradzki
+K03005;centralny;³ódzkie;Goszczanów;98-215;Krzysztof Jab³oñski
+K02419;po³udniowy;ma³opolskie;Brzesko;32-800;Tadeusz Meszczyk
+K02951;centralny;mazowieckie;Liw;07-100;Lech Antkowiak
+K02398;pó³nocny;kujawsko-pomorskie;Izbica Kujawska;87-865;Pawe³ Adamczak
+K01530;centralny;mazowieckie;Tarczyn;05-555;Kazimierz Fafu³a
+K02509;pó³nocny;kujawsko-pomorskie;Topólka;87-875;Piotr Barycki
+K00531;wschodni;podkarpackie;Narol;37-610;Krystyna Kosak
+K00255;pó³nocno-zachodni;wielkopolskie;Œrem;63-100;Alicja Radliñska
+K01050;centralny;³ódzkie;Nieborów;99-416;Monika Dzwonnik
+K01048;centralny;³ódzkie;Rozprza;97-340;Bo¿ena Ho³da
+K01069;po³udniowy;ma³opolskie;NiedŸwiedŸ;32-090;Grzegorz Senderek
+K02257;po³udniowy;œl¹skie;Jaworzno;43-603;Andrzej No¿ykowski
+K02531;po³udniowo-zachodni;dolnoœl¹skie;Walim;58-320;Edward Ostrysz
+K01442;po³udniowy;œl¹skie;Cieszyn;43-400;Anna Chmielewska
+K01648;pó³nocny;pomorskie;Mi³oradz;82-200;Marek Karnicki
+K00738;wschodni;podlaskie;Sztabin;16-310;Danuta Kowalska
+K00736;wschodni;lubelskie;Hanna;22-220;Beata Hibner
+K00741;pó³nocno-zachodni;zachodniopomorskie;Wierzchowo;78-411;Dariusz Kujszczyk
+K01036;centralny;³ódzkie;Przedbórz;97-570;Marek Sosnowski
+K02132;centralny;³ódzkie;Strzelce;99-307;Andrzej Sokalski
+K00920;centralny;mazowieckie;Karczew;05-480;Mariusz Gi¿ycki
+K00631;wschodni;lubelskie;Tarnawatka;22-604;S³awomir Szewczyk
+K02704;po³udniowy;œl¹skie;KuŸnia Raciborska;47-420;Dorota Oyedemi
+K00388;centralny;mazowieckie;Solec nad Wis³¹;27-320;Bo¿ena Gromek
+K00573;pó³nocno-zachodni;wielkopolskie;Jutrosin;63-930;Jolanta Pawlus
+K01287;po³udniowy;ma³opolskie;Mucharz;34-106;Kazimierz Wypart
+K01285;wschodni;lubelskie;Konstantynów;21-543;Marzena Opaliñska
+K00096;pó³nocny;kujawsko-pomorskie;Brzeœæ Kujawski;87-880;Krzysztof Dziadul
+K01671;pó³nocny;pomorskie;Somonino;83-314;Halina Sztreja
+K02066;centralny;mazowieckie;Kosów Lacki;08-330;Zbigniew Wróblewski
+K02038;po³udniowo-zachodni;dolnoœl¹skie;Pieszyce;58-250;Ilona Skupiñska
+K00803;wschodni;podlaskie;Dziadkowice;17-306;Józef Januszewski
+K02486;wschodni;podkarpackie;Kury³ówka;37-303;Patryk Palêga
+K02916;wschodni;podlaskie;Czarna Bia³ostocka;16-020;Urszula G¹go³
+K02569;wschodni;podkarpackie;Pruchnik;37-560;Marian Kruszewski
+K01212;pó³nocny;kujawsko-pomorskie;Aleksandrów Kujawski;87-700;Patryk Benka
+K00234;po³udniowo-zachodni;dolnoœl¹skie;Kobierzyce;55-040;Marlena Laskowska
+K00749;wschodni;podlaskie;Jaœwi³y;19-100;Jan Matuszewski
+K01127;pó³nocno-zachodni;wielkopolskie;Lipka;77-420;Ma³gorzata Piotrowska
+K01575;wschodni;podlaskie;Krasnopol;16-503;W³adys³aw Sokalski
+K03196;centralny;mazowieckie;Radom;26-616;Artur Danilewski
+K02927;wschodni;lubelskie;Józefów nad Wis³¹;24-340;Jolanta Zieliñska
+K01355;pó³nocny;warmiñsko-mazurskie;Pasym;12-130;Agnieszka Gancarz
+K00816;centralny;mazowieckie;Mokobody;08-124;Pawe³ Przygoda
+K01401;centralny;mazowieckie;Paprotnia;08-107;Bartosz Krysztofik
+K03340;wschodni;podlaskie;Turoœl;18-525;Longina Kobus
+K03177;pó³nocny;pomorskie;¯ukowo;83-330;Katarzyna Kolless
+K02792;wschodni;podlaskie;Szczuczyn;19-230;Marian Bielecki
+K02781;wschodni;œwiêtokrzyskie;Iwaniska;27-570;Stanis³aw WoŸniak
+K00163;pó³nocno-zachodni;wielkopolskie;Trzcianka;64-316;El¿bieta Têcza
+K01772;po³udniowo-zachodni;opolskie;Dobrodzieñ;46-380;Mieczys³awa Brzoza
+K02885;centralny;mazowieckie;Wilga;08-470;Ma³gorzata Kowalczyk
+K00405;po³udniowy;ma³opolskie;Zakliczyn;32-406;Andrzej Szubert
+K00404;po³udniowy;ma³opolskie;Koszyce;32-130;Artur Kwiatkowski
+K01580;po³udniowy;ma³opolskie;Koszyce;32-130;£ukasz Lewandowski
+K00434;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Antoni Kontowicz
+K00441;centralny;mazowieckie;Bodzanów;09-470;Teresa Wojciechowska
+K01200;wschodni;œwiêtokrzyskie;Zagnañsk;26-050;Agnieszka Brodziñska
+K01199;pó³nocno-zachodni;wielkopolskie;Nowy Tomyœl;64-300;Krzysztof Margiel
+K01202;wschodni;podlaskie;Dubicze Cerkiewne;17-200;Damian Janasik
+K01590;po³udniowo-zachodni;opolskie;Domaszowice;46-100;Andrzej Dobrowolski
+K02466;centralny;mazowieckie;Goszczyn;05-610;Tadeusz Torcz
+K02427;wschodni;podkarpackie;Tyczyn;36-020;Jerzy Wolski
+K01463;pó³nocny;kujawsko-pomorskie;Nowa Wieœ Wielka;86-060;Piotr Diakun
+K01901;centralny;mazowieckie;Roœciszewo;09-204;Wanda Jêdrzejczyk
+K01898;po³udniowy;ma³opolskie;£ukowica;34-606;Marcin £epkowski
+K01358;centralny;mazowieckie;Sulejówek;05-070;Micha³ Rajewski
+K02750;pó³nocno-zachodni;zachodniopomorskie;Ko³baskowo;72-001;Jacek Kalinowski
+K02963;pó³nocny;warmiñsko-mazurskie;Kowale Oleckie;19-420;Alicja Burzyñska
+K02730;po³udniowy;œl¹skie;Krzanowice;47-470;Andrzej Wintoch
+K01752;pó³nocny;pomorskie;Koœcierzyna;83-400;El¿bieta Mielewczyk
+K00933;centralny;³ódzkie;Nieborów;99-416;Ewelina ¯ytczak
+K00927;wschodni;lubelskie;Hanna;22-220;Krystyna Rosiñska
+K00275;po³udniowy;œl¹skie;S³awków;41-260;Maciej Kurzyd³owski
+K01198;wschodni;lubelskie;£opiennik Górny;22-351;Dawid Jarz¹b
+K01950;pó³nocny;warmiñsko-mazurskie;Grunwald;14-107;Stanis³aw Mularczyk
+K02666;po³udniowy;œl¹skie;Lubomia;44-360;Marek Cebula
+K03398;wschodni;œwiêtokrzyskie;Piñczów;28-400;Adam Kartosz
+K02176;wschodni;œwiêtokrzyskie;Bogoria;28-210;Patryk Szczêœniak
+K02731;po³udniowy;ma³opolskie;Ryglice;33-160;Marek Karpiniuk
+K02318;centralny;mazowieckie;Szelków;06-220;Andrzej Olichwiruk
+K03184;wschodni;œwiêtokrzyskie;Kazimierza Wielka;28-500;Andrzej Leszczyñski
+K00911;pó³nocny;pomorskie;Cewice;84-312;Zofia Kuku³ka
+K01400;pó³nocno-zachodni;wielkopolskie;Giza³ki;63-308;Wies³aw Jankowski
+K01394;po³udniowo-zachodni;opolskie;Skarbimierz;49-300;Tomasz Przerwa
+K01397;wschodni;lubelskie;Tuczna;21-523;Marta Herman
+K01395;po³udniowy;ma³opolskie;Koszyce;32-130;Zofia Hlek
+K00619;centralny;mazowieckie;Stanis³awów;05-155;Józef Nowak
+K02159;pó³nocno-zachodni;wielkopolskie;S³upca;62-400;Roman K³osowski
+K00010;centralny;mazowieckie;Garbatka-Letnisko;26-930;Grzegorz Domañski
+K01861;wschodni;podlaskie;Przytu³y;18-420;Marta Guse
+K00622;centralny;mazowieckie;Stare Babice;05-082;Mariola Wiercioch
+K00621;pó³nocny;kujawsko-pomorskie;Gostycyn;89-520;Andrzej Solak
+K02567;po³udniowo-zachodni;dolnoœl¹skie;Wroc³aw;50-328;Edward Struniawski
+K00586;centralny;mazowieckie;Chlewiska;08-130;Andrzej Wiêckowski
+K00587;centralny;³ódzkie;Kodr¹b;97-512;Teresa Piwowarska
+K01165;wschodni;podkarpackie;RoŸwienica;37-565;Jerzy Olech
+K01166;pó³nocno-zachodni;wielkopolskie;Kwilcz;64-410;Wac³aw Klukowski
+K01372;pó³nocno-zachodni;wielkopolskie;Ujœcie;64-850;Gra¿yna Paw³owska
+K00609;centralny;mazowieckie;Piaseczno;05-500;Agata Trzaskalska
+K00500;pó³nocno-zachodni;lubuskie;Wschowa;67-400;El¿bieta Nogaj
+K00794;po³udniowy;ma³opolskie;Alwernia;32-566;Anna Lenczewska
+K02347;pó³nocno-zachodni;zachodniopomorskie;Nowe Warpno;72-022;Maria WoŸnicka
+K01815;pó³nocny;warmiñsko-mazurskie;Stare Juchy;19-330;Kamil Puzio
+K03358;pó³nocno-zachodni;zachodniopomorskie;Wêgorzyno;73-155;Zbigniew Ptak
+K03359;po³udniowo-zachodni;dolnoœl¹skie;Nowogrodziec;59-730;Henryk Krzywicki
+K02848;pó³nocno-zachodni;zachodniopomorskie;Osina;72-100;Maria Szumowska
+K03226;pó³nocny;kujawsko-pomorskie;Pakoœæ;88-170;Agata Augustyniak
+K01677;po³udniowy;œl¹skie;Mierzêcice;42-460;Hanna Czarnecka
+K02299;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Jacek Sobañski
+K02635;centralny;mazowieckie;Sobienie-Jeziory;08-443;Andrzej Wolski
+K02623;wschodni;podlaskie;Tykocin;16-080;Czes³aw Krupiñski
+K00402;po³udniowy;ma³opolskie;Tarnów;33-100;Wies³aw Ma³y
+K01472;wschodni;lubelskie;Milejów;21-020;W³adys³aw Diakun
+K01908;centralny;mazowieckie;G¹bin;09-530;Barbara Juraszka
+K00943;po³udniowy;ma³opolskie;Zakliczyn;32-840;Maria Minkowska
+K00453;centralny;³ódzkie;Budziszewice;97-212;Marzena Skorupska
+K02459;po³udniowo-zachodni;opolskie;Jemielnica;47-133;Grzegorz Pytloch
+K02702;wschodni;œwiêtokrzyskie;Chêciny;26-060;Jerzy Leszczyñski
+K02270;centralny;³ódzkie;Klonowa;98-273;Teresa Za³óg
+K00582;po³udniowo-zachodni;opolskie;Ozimek;46-040;Jan Kaczanowicz
+K02034;po³udniowy;ma³opolskie;Wadowice;34-100;Ewa Mróz
+K02855;centralny;mazowieckie;Boguty-Pianki;07-325;Tadeusz Biliñski
+K00428;pó³nocno-zachodni;wielkopolskie;Stêszew;62-060;Wies³aw Lorent
+K01239;pó³nocno-zachodni;zachodniopomorskie;Czaplinek;78-550;Robert Sójka
+K02480;pó³nocno-zachodni;wielkopolskie;Kostrzyn;62-025;Sylwia Krêglewska
+K02563;po³udniowo-zachodni;opolskie;Jemielnica;47-133;Tadeusz Wojtkiewicz
+K01153;wschodni;lubelskie;Tarnogród;23-420;Joanna Ko³atkiewicz
+K01307;wschodni;œwiêtokrzyskie;Stopnica;28-130;Tadeusz Stempieñ
+K01765;wschodni;lubelskie;Sawin;22-107;Krzysztof Dzietczyk
+K02373;pó³nocny;kujawsko-pomorskie;Janikowo;88-150;Arkadiusz Cymer
+K01046;wschodni;lubelskie;Siedliszcze;22-130;El¿bieta Jankowska
+K00308;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-142;Urszula Noryca
+K00381;po³udniowo-zachodni;dolnoœl¹skie;Wo³ów;56-100;Eugeniusz Rokosz
+K01376;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Jan Wróblewski
+K01381;wschodni;lubelskie;Tarnogród;23-420;Krystyna Seweryñczyk
+K00042;pó³nocny;warmiñsko-mazurskie;Tolkmicko;82-340;Dariusz Wawrzyniak
+K00026;pó³nocno-zachodni;zachodniopomorskie;Pyrzyce;74-200;Izabela Juszkiewicz
+K01344;pó³nocny;warmiñsko-mazurskie;Mi³akowo;14-310;Rados³aw Pluta
+K02250;wschodni;lubelskie;Leœniowice;22-122;Alina Sk³adanek
+K01663;pó³nocno-zachodni;wielkopolskie;Nowe Skalmierzyce;63-460;Bo¿ena ¯wirko
+K01931;centralny;mazowieckie;Glinojeck;06-450;Tomasz Bieñkowski
+K00559;pó³nocny;warmiñsko-mazurskie;Lubawa;14-260;Renata Szczêsna
+K01421;po³udniowy;ma³opolskie;Liszki;32-060;Jadwiga Molenda
+K01157;po³udniowy;œl¹skie;Herby;42-284;Pawe³ Kulok
+K00583;wschodni;lubelskie;G³usk;20-388;Wojciech Kaczmarek
+K03123;po³udniowy;œl¹skie;Mykanów;42-233;Tadeusz £ukomski
+K02165;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Zdzis³aw Bodnar
+K02055;pó³nocny;warmiñsko-mazurskie;Grunwald;14-107;Jaros³aw Krasnostawski
+K01994;pó³nocny;kujawsko-pomorskie;Radomin;87-404;Katarzyna Koz³owska
+K01468;pó³nocno-zachodni;zachodniopomorskie;Mieszkowice;74-505;Mariusz Karwowski
+K00845;po³udniowy;œl¹skie;Rybnik;44-210;Damian Sikorski
+K00842;pó³nocny;kujawsko-pomorskie;Gostycyn;89-520;Cecylia Wilk
+K02991;pó³nocny;kujawsko-pomorskie;Mogilno;88-300;Maria Dudkowska
+K02992;po³udniowy;œl¹skie;¯arki;42-310;Izabela Nieszporek
+K01109;centralny;³ódzkie;Be³chatów;97-400;Bogus³awa Lipik
+K03001;centralny;³ódzkie;Rusiec;97-438;Rados³aw Architekt
+K00269;centralny;mazowieckie;Ostro³êka;07-410;Artur Litwin
+K03258;po³udniowy;œl¹skie;Kozieg³owy;42-350;Dorota Banach
+K01132;pó³nocny;pomorskie;Dzierzgoñ;82-440;Bogus³aw Podraska
+K00674;pó³nocny;kujawsko-pomorskie;Dobrcz;86-022;Artur Kopciuch
+K01363;centralny;mazowieckie;Dzierzgowo;06-520;Renata Paw³owska
+K01173;pó³nocny;pomorskie;Pelplin;83-130;Michalina Soko³owska
+K00522;centralny;mazowieckie;Kuczbork-Osada;09-310;Józefa Jasielska
+K02339;pó³nocny;kujawsko-pomorskie;Ciechocin;87-408;Bo¿ena Jarz¹bek
+K01213;po³udniowo-zachodni;dolnoœl¹skie;Pêc³aw;67-221;Anna Nawrotkiewicz
+K00951;centralny;³ódzkie;Mas³owice;97-515;Jerzy Hamulski
+K01101;wschodni;podkarpackie;Dêbica;39-200;Alicja Pajor
+K00345;pó³nocny;kujawsko-pomorskie;Koneck;87-702;Jan Czaban
+K00348;po³udniowy;œl¹skie;Œwierklaniec;42-622;Ryszarda Podsadna
+K02025;pó³nocno-zachodni;wielkopolskie;Koœcielec;62-604;Jerzy Landowski
+K01603;pó³nocno-zachodni;wielkopolskie;KaŸmierz;64-530;Norbert Batory
+K00934;centralny;mazowieckie;Dzierz¹¿nia;09-164;Halina Obidziñska
+K00926;pó³nocno-zachodni;wielkopolskie;Mieleszyn;62-212;Jerzy Karczewski
+K00932;wschodni;lubelskie;Horod³o;22-523;Marian Ciesiñski
+K00710;pó³nocny;pomorskie;Stara Kiszewa;83-430;Agnieszka Cybulska
+K00709;centralny;³ódzkie;Burzenin;98-260;Florian Guzowski
+K00306;centralny;mazowieckie;Magnuszew;26-910;Izabela Stec
+K02877;centralny;³ódzkie;Buczek;95-060;Konstanty Micha³owski
+K00157;wschodni;podlaskie;Szumowo;16-140;Urszula Sobol
+K01668;pó³nocno-zachodni;wielkopolskie;Jastrowie;64-915;Jan Krzywicki
+K01430;wschodni;lubelskie;Garbów;21-080;Andrzej Kurjata
+K02617;po³udniowy;œl¹skie;Wyry;43-175;Andrzej Skwarek
+K03386;po³udniowy;ma³opolskie;Czorsztyn;34-436;El¿bieta Motyl
+K02276;wschodni;lubelskie;Rejowiec Fabryczny;22-170;Micha³ Szczur
+K02663;centralny;mazowieckie;Wi¹zowna;05-462;Anna Marecka
+K02664;wschodni;podkarpackie;Chorkówka;38-458;Dariusz Nadolny
+K01317;po³udniowy;œl¹skie;Bielsko-Bia³a;43-309;S³awomir Jêdrzejczyk
+K02753;pó³nocno-zachodni;wielkopolskie;Rychwa³;62-570;Miros³aw O³dak
+K01778;wschodni;lubelskie;Rossosz;21-533;Krystyna Bugaj
+K02203;po³udniowo-zachodni;dolnoœl¹skie;Góra;56-200;Artur Tomczak
+K02111;pó³nocny;pomorskie;£eba;84-360;Jacek Czernicki
+K02725;pó³nocno-zachodni;wielkopolskie;Turek;62-700;Inga Szampanti
+K00697;wschodni;podlaskie;Kobylin-Borzymy;18-204;Justyna Trzaska
+K01675;centralny;mazowieckie;Grudusk;06-460;El¿bieta Góral
+K00788;centralny;mazowieckie;Regimin;06-461;Zbigniew Walczak
+K00786;wschodni;lubelskie;Miêdzyrzec Podlaski;21-560;Alicja Meslin
+K02317;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Gra¿yna Plewko
+K02320;centralny;mazowieckie;Karniewo;06-425;Zygmunt Dymski
+K00940;po³udniowy;œl¹skie;£êkawica;34-321;Krzysztof Wójcik
+K00997;pó³nocny;pomorskie;Prabuty;82-550;Ma³gorzata Jakrzewska
+K03334;pó³nocny;kujawsko-pomorskie;Lubicz;87-162;Bronis³aw Broniszewski
+K00980;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Iwona Tkaczyk
+K01454;centralny;³ódzkie;Góra Œwiêtej Ma³gorzaty;99-122;Aurelia Ladziñska
+K01066;wschodni;œwiêtokrzyskie;Koprzywnica;27-660;Artur K³onowski
+K01027;po³udniowy;ma³opolskie;Limanowa;34-600;Alina Werstak
+K01883;po³udniowo-zachodni;dolnoœl¹skie;Kudowa-Zdrój;57-350;Dorota Kluczyk
+K01879;po³udniowy;ma³opolskie;£ukowica;34-606;Bogus³aw Czesnowski
+K01299;wschodni;œwiêtokrzyskie;Busko-Zdrój;28-100;Maria Bereda
+K02381;pó³nocno-zachodni;wielkopolskie;Przedecz;62-635;Joanna Wiœniewska
+K01928;pó³nocny;warmiñsko-mazurskie;Sorkwity;11-731;Angelika Gawroñska
+K01282;pó³nocno-zachodni;wielkopolskie;Poznañ;60-681;Ireneusz Kondalski
+K02435;po³udniowo-zachodni;dolnoœl¹skie;Kostom³oty;55-300;Andrzej Gobosz
+K02642;wschodni;lubelskie;Wojcieszków;21-411;Tomasz Szafrañski
+K02046;centralny;mazowieckie;Pokrzywnica;06-121;Grzegorz Lipski
+K02360;pó³nocno-zachodni;lubuskie;Ma³omice;67-320;Krzysztof Legun
+K03307;wschodni;podlaskie;Giby;16-500;Cyryl Turczyk
+K03314;po³udniowy;œl¹skie;Suszec;43-267;Zdzis³aw Wons
+K03311;pó³nocno-zachodni;lubuskie;Bytnica;66-600;Maria Skowron
+K01740;wschodni;lubelskie;Zamoœæ;22-400;Magdalena £apczuk
+K02692;centralny;³ódzkie;¯elechlinek;97-226;Mateusz Zaliwski
+K03276;pó³nocno-zachodni;zachodniopomorskie;Resko;72-315;Arkadiusz Ciechanowski
+K01702;pó³nocno-zachodni;wielkopolskie;Kobylin;63-740;Katarzyna Andrzejewska
+K00466;po³udniowo-zachodni;dolnoœl¹skie;W¹dro¿e Wielkie;59-430;Przemys³aw Kerner
+K00467;pó³nocno-zachodni;wielkopolskie;Dobrzyca;63-330;Agata Michalik
+K00468;centralny;mazowieckie;Zarêby Koœcielne;07-323;Miros³aw Pertkiewicz
+K00469;wschodni;podkarpackie;RoŸwienica;37-565;Beata Owsiñska
+K00470;po³udniowo-zachodni;opolskie;G³ucho³azy;48-340;Jan Florczak
+K01485;centralny;³ódzkie;Kroœniewice;99-340;Edward Bakalarz
+K02955;po³udniowo-zachodni;dolnoœl¹skie;Jelenia Góra;58-560;Mariusz Ryngiewicz
+K01090;pó³nocno-zachodni;zachodniopomorskie;Œwieszyno;76-024;Witold Szymañski
+K00614;pó³nocny;pomorskie;Gniew;83-140;Piotr Skrodzki
+K02166;wschodni;lubelskie;Karczmiska;24-310;Ma³gorzata Sikora
+K02167;pó³nocno-zachodni;zachodniopomorskie;Grzmi¹ca;78-450;Marzena D³ugo³êcka
+K00343;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Monika KuŸmiñska
+K02942;centralny;mazowieckie;Dzierz¹¿nia;09-164;Lidia Tum³owska
+K00373;wschodni;podkarpackie;Rzeszów;35-051;Tadeusz Kajma
+K00863;po³udniowo-zachodni;dolnoœl¹skie;Mirsk;59-630;Katarzyna Wilczyñska
+K00811;po³udniowy;œl¹skie;Zawiercie;42-400;Bartosz Juszczyk
+K03211;wschodni;podlaskie;Czy¿ew;18-220;Jan Zugaj
+K02123;centralny;mazowieckie;Góra Kalwaria;05-530;Jolanta Kacperska
+K03236;centralny;mazowieckie;Lipsko;05-640;Kazimierz Korniluk
+K01409;wschodni;podkarpackie;Medyka;37-732;Stanis³aw Nazar
+K03198;wschodni;lubelskie;Krynice;22-610;Rafa³ Paœko
+K01425;po³udniowy;œl¹skie;CzeladŸ;41-250;Maciej Greinert
+K01331;wschodni;lubelskie;Wyryki;22-205;Karol Radziuk
+K02376;wschodni;lubelskie;Hañsk;22-235;Wanda Krzy¿anowska
+K03039;po³udniowy;ma³opolskie;Szczawnica;34-460;Jan Przedaszek
+K02964;wschodni;lubelskie;Drelów;21-570;Andrzej Krywalewicz
+K02395;pó³nocno-zachodni;wielkopolskie;Wrzeœnia;62-300;Adam Kowalik
+K02540;po³udniowo-zachodni;dolnoœl¹skie;Wleñ;59-610;Anna Dykiert
+K00287;po³udniowy;œl¹skie;Pszczyna;43-200;Miros³aw Niedopytalski
+K03371;po³udniowy;œl¹skie;Tychy;43-100;Iwona Sobczak
+K03194;centralny;mazowieckie;Kampinos;05-085;£adys³aw Luberadzki
+K02684;centralny;³ódzkie;Wartkowice;99-220;Ryszard S³omczewski
+K00931;pó³nocno-zachodni;wielkopolskie;Luboñ;62-030;Andrzej Krajewski
+K03280;wschodni;lubelskie;Stoczek £ukowski;21-450;Zbigniew Luter
+K02455;po³udniowy;ma³opolskie;Oœwiêcim;32-600;Magdalena Ko³osowska
+K00904;pó³nocno-zachodni;wielkopolskie;W¹growiec;62-100;Maciej Goszczyñski
+K00460;po³udniowo-zachodni;dolnoœl¹skie;Niechlów;56-200;Andrzej Drapikowski
+K01158;centralny;mazowieckie;Garbatka-Letnisko;26-930;Stefan Naworol
+K00324;pó³nocno-zachodni;zachodniopomorskie;Stepnica;72-112;Barbara Górniak
+K01334;wschodni;podlaskie;£om¿a;18-400;Zuzanna Chachu³a
+K02475;wschodni;podkarpackie;Lesko;38-600;Miros³aw Dziewia³towicz
+K00062;po³udniowo-zachodni;dolnoœl¹skie;Kamienna Góra;58-400;Jakub Kowalik
+K02185;pó³nocny;warmiñsko-mazurskie;Ruciane-Nida;12-220;Micha³ Andrzejak
+K02889;po³udniowo-zachodni;dolnoœl¹skie;Legnickie Pole;59-241;Krzysztof Nowak
+K00606;po³udniowo-zachodni;dolnoœl¹skie;Wojcieszów;59-550;Wioletta Podolak
+K00146;wschodni;œwiêtokrzyskie;Sitkówka-Nowiny;26-052;Bo¿ena Paw³owska
+K03355;po³udniowy;ma³opolskie;Che³mek;32-660;Miros³aw Skotnicki
+K03192;pó³nocno-zachodni;wielkopolskie;KoŸminek;62-840;Adam Gierach
+K02149;po³udniowo-zachodni;dolnoœl¹skie;Radwanice;55-010;Jan Prus
+K00897;pó³nocny;pomorskie;Trzebielino;77-235;Krzysztof Baran
+K00649;pó³nocno-zachodni;wielkopolskie;Go³añcz;62-130;Andrzej Sudnikowicz
+K02279;pó³nocny;pomorskie;Pszczó³ki;83-032;Dorota Kowalewska
+K00888;centralny;mazowieckie;Warka;05-660;El¿bieta Brusi³o
+K03110;wschodni;lubelskie;Uœcimów;21-109;Jan Zieliñski
+K01696;pó³nocny;kujawsko-pomorskie;Lipno;87-600;Barbara O¿ga
+K01705;centralny;mazowieckie;Borowie;08-412;Artur Machaj
+K00459;centralny;³ódzkie;Rozprza;97-340;Marzena P³osaj
+K00291;pó³nocno-zachodni;wielkopolskie;Czerniejewo;62-250;Ewa Hoñko
+K00966;po³udniowo-zachodni;opolskie;Ozimek;46-040;Anna Ogonowska
+K01274;wschodni;podkarpackie;Zaklików;37-470;Dariusz Guszczenko
+K02721;pó³nocno-zachodni;wielkopolskie;Dopiewo;62-070;Halina Olech
+K00866;po³udniowo-zachodni;dolnoœl¹skie;Jedlina-Zdrój;58-330;Krzysztof Piotrowski
+K01028;pó³nocno-zachodni;zachodniopomorskie;Warnice;74-201;Irena Laps
+K03390;wschodni;œwiêtokrzyskie;Mirzec;27-220;Magdalena Krefft
+K01833;pó³nocny;warmiñsko-mazurskie;Stare Juchy;19-330;Józefa Giga
+K02678;wschodni;podkarpackie;Nowa Dêba;39-460;Ró¿a Sacha
+K01802;wschodni;œwiêtokrzyskie;Bodzentyn;26-010;Zenon Dropko
+K01582;pó³nocno-zachodni;wielkopolskie;Nowy Tomyœl;64-300;Piotr Szymkiewicz
+K01760;pó³nocny;pomorskie;Kêpice;77-230;Jan Pasek
+K01817;wschodni;lubelskie;Serniki;21-107;Danuta Szczygie³
+K00164;po³udniowy;ma³opolskie;Jordanów;34-240;Przemys³aw Poplewski
+K01348;pó³nocno-zachodni;wielkopolskie;Sieraków;64-410;Piotr Wilczyñski
+K01045;po³udniowy;œl¹skie;Ciasna;42-793;Marek Orliñski
+K02197;centralny;mazowieckie;Warszawa;00-536;Ireneusz Bednarczyk
+K00979;wschodni;podlaskie;Dubicze Cerkiewne;17-200;Marek Brodowski
+K00550;pó³nocno-zachodni;wielkopolskie;Ceków-Kolonia;62-834;Rafa³ Skrêtowicz
+K00445;po³udniowo-zachodni;dolnoœl¹skie;Lewin K³odzki;57-343;Kinga Witkowska
+K01970;po³udniowo-zachodni;dolnoœl¹skie;Duszniki-Zdrój;57-340;Jan Grzybowski
+K01971;wschodni;podlaskie;Szepietowo;18-210;Leszek Smyk
+K00313;po³udniowo-zachodni;dolnoœl¹skie;Malczyce;55-320;Joanna Stasiak
+K02343;wschodni;lubelskie;Na³êczów;24-150;Ryszard £awrynowicz
+K01322;centralny;mazowieckie;Mochowo;09-214;Tomasz Wiœniewski
+K02323;pó³nocno-zachodni;wielkopolskie;Mi³os³aw;62-320;Rafa³ Wasiszek
+K00923;centralny;mazowieckie;Grójec;05-600;Andrzej Kwiatkowski
+K02042;wschodni;lubelskie;Telatyn;22-652;Stefan Kozicki
+K00092;po³udniowy;ma³opolskie;Rzepiennik Strzy¿ewski;33-163;Edwarda Dziwik
+K01447;centralny;³ódzkie;£ask;98-100;Krystian Kowalewski
+K01902;pó³nocno-zachodni;wielkopolskie;Kaczory;63-430;Krzysztof Chrz¹szcz
+K00632;po³udniowy;œl¹skie;Kalety;42-660;Zdzis³aw Kmieæ
+K00702;centralny;mazowieckie;Sochaczew;96-503;Jan Klimaszewski
+K00707;wschodni;lubelskie;£êczna;21-010;Stanis³aw Panek
+K02813;centralny;³ódzkie;Stryków;95-010;Jaros³aw Banaœ
+K02588;po³udniowo-zachodni;dolnoœl¹skie;Wi¹zów;57-100;Lechos³aw Minkiewicz
+K03243;po³udniowo-zachodni;dolnoœl¹skie;Sobótka;55-050;Jowita Pawlak
+K00595;pó³nocny;kujawsko-pomorskie;Tuchola;89-500;Magdalena Pawlewicz
+K03389;pó³nocno-zachodni;wielkopolskie;Miedzichowo;64-310;Izabela Kulec
+K01500;po³udniowo-zachodni;opolskie;Kluczbork;46-200;W³adys³aw Kiraga
+K00211;wschodni;podkarpackie;Brzozów;36-200;Robert Stankiewicz
+K03135;centralny;mazowieckie;Szelków;06-220;Wioletta Szafrañska
+K02817;po³udniowo-zachodni;dolnoœl¹skie;Zawidów;59-970;Mariusz KaŸmierski
+K00127;pó³nocno-zachodni;zachodniopomorskie;Szczecin;70-535;Marian Sekulski
+K00535;pó³nocny;kujawsko-pomorskie;Warlubie;86-160;S³awomir Nelus
+K01247;pó³nocny;warmiñsko-mazurskie;Dubeninki;19-504;Jacek Ogrodziñski
+K00224;wschodni;lubelskie;S³awatycze;21-515;Katarzyna Hat³as
+K01231;wschodni;lubelskie;Modliborzyce;23-310;Mieczys³aw Mularczyk
+K02969;centralny;³ódzkie;¯ychlin;99-320;Zbigniew Madejczyk
+K02243;pó³nocno-zachodni;wielkopolskie;£ob¿enica;89-310;Micha³ Stefañski
+K02386;pó³nocny;warmiñsko-mazurskie;Lidzbark Warmiñski;11-100;Iwona Witkowska
+K00458;po³udniowy;ma³opolskie;Lubieñ;32-433;Sylwia £ojek
+K00689;centralny;³ódzkie;Bêdków;97-410;Kornel Kurowski
+K01548;centralny;mazowieckie;Mogielnica;05-640;Magdalena Drogomirecka
+K00205;pó³nocno-zachodni;zachodniopomorskie;Moryñ;74-503;¯aneta Kwapisz
+K03380;wschodni;lubelskie;Kraœniczyn;22-310;Micha³ Hypki
+K01627;wschodni;podkarpackie;Zaleszany;37-415;Tadeusz Kopaszewski
+K01451;centralny;mazowieckie;Mochowo;09-214;Robert Banaœ
+K01450;po³udniowy;œl¹skie;Poczesna;42-262;Artur Echaust
+K01319;centralny;mazowieckie;Pra¿mów;05-505;Bogdan Wdówka
+K01301;po³udniowo-zachodni;dolnoœl¹skie;Twardogóra;56-416;Wioletta Gunther
+K00299;centralny;mazowieckie;Maciejowice;05-600;Konrad Radziusz
+K00430;pó³nocny;kujawsko-pomorskie;Koronowo;86-010;Józef Wypijewski
+K03213;pó³nocno-zachodni;wielkopolskie;Grodziec;62-580;Stanis³aw Frankowski
+K00270;wschodni;lubelskie;Bia³a Podlaska;21-500;Joanna Zieliñska
+K02922;pó³nocny;kujawsko-pomorskie;Obrowo;87-123;Tadeusz ŒŒwiderski
+K01304;centralny;mazowieckie;Koby³ka;05-230;Artur Kuœwik
+K03360;po³udniowy;œl¹skie;£azy;42-450;Danuta Stawicka
+K03074;po³udniowo-zachodni;dolnoœl¹skie;Brzeg Dolny;56-120;Wioletta Koziróg
+K02410;po³udniowo-zachodni;dolnoœl¹skie;Szczytna;57-330;Magdalena D¹brówka
+K01894;pó³nocny;pomorskie;Miastko;77-200;Katarzyna Ziemann
+K02861;centralny;mazowieckie;Liw;07-100;Janusz Dymidów
+K02105;wschodni;œwiêtokrzyskie;Skar¿ysko-Kamienna;26-110;Jacek Rogowski
+K03351;po³udniowy;ma³opolskie;Sucha Beskidzka;34-200;Edyta Waracka
+K00409;wschodni;podkarpackie;Boguchwa³a;36-040;Dawid Szczesiak
+K00716;centralny;mazowieckie;G³owaczów;26-903;Krystyna Roman
+K02780;wschodni;podlaskie;Wysokie Mazowieckie;18-200;Feliks Œwiderek
+K02177;po³udniowy;ma³opolskie;Piwniczna-Zdrój;33-350;Izabela Helman
+K02180;pó³nocno-zachodni;wielkopolskie;Przykona;62-731;Piotr Ordyñski
+K02508;wschodni;lubelskie;Borzechów;24-224;Urszula Pry³owska
+K03242;centralny;mazowieckie;Pu³tusk;06-100;Anna Wi¹z
+K03246;centralny;³ódzkie;Sokolniki;98-420;Dominik Tomczyk
+K00543;wschodni;podlaskie;£apy;18-100;Marek Paw³owski
+K00544;pó³nocno-zachodni;wielkopolskie;Ko³o;62-600;Tomasz Syroka
+K00067;centralny;mazowieckie;Wêgrów;07-100;Joanna Dworaczyk
+K02656;centralny;mazowieckie;Sadowne;07-140;Ryszard Maksymiuk
+K00084;centralny;³ódzkie;Pabianice;95-200;Maciej Zawadzki
+K01405;pó³nocno-zachodni;wielkopolskie;Wyrzysk;89-300;Monika Kowalska
+K02693;centralny;³ódzkie;Nieborów;99-416;Ma³gorzata Zaj¹czkowska
+K02689;pó³nocny;pomorskie;Cz³uchów;77-300;Marian Sieradzki
+K01152;wschodni;lubelskie;Wyryki;22-205;Bo¿ena Rolbiecka
+K01150;centralny;³ódzkie;P¹tnów;98-335;Mieczys³aw Jastrzêbski
+K00153;pó³nocny;kujawsko-pomorskie;Chodecz;87-860;Lidia K³osowska
+K02366;pó³nocno-zachodni;wielkopolskie;Lwówek;64-310;Karolina Szar³ata
+K01149;wschodni;lubelskie;Kock;21-150;Brygida Bulanowska
+K00834;pó³nocno-zachodni;wielkopolskie;Œwiêciechowa;64-115;Józef RyŸlak
+K02378;pó³nocno-zachodni;wielkopolskie;Ostrowite;62-402;Krystyna Kubiñska
+K00012;centralny;mazowieckie;Brwinów;05-840;Wanda Szuster
+K01511;pó³nocno-zachodni;lubuskie;Strzelce Krajeñskie;66-500;Eugeniusz Grochowski
+K00318;wschodni;œwiêtokrzyskie;Lipnik;28-221;Agnieszka Wilczañska
+K02624;wschodni;podlaskie;Hajnówka;17-200;Urszula Rutkowska
+K02302;pó³nocno-zachodni;wielkopolskie;Borek Wielkopolski;63-810;Wies³aw Przybyszewski
+K01963;centralny;³ódzkie;D³utów;95-081;Pawe³ Horajski
+K02796;pó³nocny;warmiñsko-mazurskie;Go³dap;19-500;Tomasz Budzyñski
+K03159;po³udniowy;ma³opolskie;Su³oszowa;32-045;Karina Surma
+K03160;po³udniowo-zachodni;dolnoœl¹skie;Polkowice;59-100;Roman Kwiatkowski
+K03361;po³udniowo-zachodni;dolnoœl¹skie;Zagrodno;59-516;Adam Mularczyk
+K00184;pó³nocno-zachodni;wielkopolskie;Krajenka;77-430;Piotr ŒŒwiderski
+K01553;pó³nocno-zachodni;wielkopolskie;Dolsk;63-100;Jacek Sopiñski
+K01215;wschodni;œwiêtokrzyskie;Stopnica;28-130;El¿bieta Nawój
+K01262;pó³nocno-zachodni;zachodniopomorskie;Miêdzyzdroje;72-500;Marta Sarba
+K01032;pó³nocno-zachodni;wielkopolskie;Grodzisk Wielkopolski;62-065;Bogus³aw Najman
+K01956;pó³nocny;kujawsko-pomorskie;Obrowo;87-126;Tomasz Przygudzki
+K03233;centralny;³ódzkie;Kie³czyg³ów;98-358;Grzegorz Koz³owski
+K00801;pó³nocny;pomorskie;Chojnice;89-600;Mariusz B³a¿ewicz
+K01800;po³udniowo-zachodni;dolnoœl¹skie;Lubomierz;59-623;Dariusz Golec
+K03296;wschodni;lubelskie;Tarnogród;23-420;Stanis³aw Kuczyñski
+K00489;wschodni;podkarpackie;Or³y;37-716;Jerzy Goszczyñski
+K00487;wschodni;lubelskie;Borzechów;24-224;Jolanta Wegner
+K00488;pó³nocny;kujawsko-pomorskie;Topólka;87-875;Bogdan Wankiewicz
+K01204;wschodni;lubelskie;Tarnogród;23-420;Anna Benka
+K02981;centralny;mazowieckie;£ochów;07-130;W³adys³aw Pawelec
+K00969;pó³nocny;pomorskie;Wicko;84-352;Dariusz Borowczak
+K00965;po³udniowo-zachodni;dolnoœl¹skie;Jawor;59-400;Janusz Sobolewski
+K02337;pó³nocno-zachodni;wielkopolskie;Chocz;63-313;Ma³gorzata Ponikowska
+K00826;pó³nocny;warmiñsko-mazurskie;Olecko;19-400;Janusz Beer
+K01572;pó³nocny;pomorskie;Sztutowo;82-110;Ryszard Œwiêcicki
+K02631;po³udniowy;œl¹skie;D¹browa Górnicza;42-520;Ryszard Daœko
+K03400;centralny;³ódzkie;Pêczniew;99-235;Teodora Ilnicka
+K01439;pó³nocny;kujawsko-pomorskie;Mrocza;89-115;Przemys³aw Jadczyszyn
+K02274;po³udniowo-zachodni;dolnoœl¹skie;Wroc³aw;50-325;Bogdan Staniak
+K02873;po³udniowy;œl¹skie;Piekary Œl¹skie;41-943;Grzegorz Kaczmarek
+K00895;pó³nocny;pomorskie;Linia;84-223;Stanis³aw Wilkanowski
+K00915;wschodni;podkarpackie;Lubaczów;37-600;Tomasz Matusiak
+K02183;po³udniowo-zachodni;dolnoœl¹skie;Piechowice;58-573;Aleksander Bielecki
+K03139;wschodni;podlaskie;Sztabin;16-310;Miros³aw Œwi¹tczak
+K02828;po³udniowo-zachodni;opolskie;Byczyna;46-220;Andrzej Furga³a
+K00651;pó³nocny;warmiñsko-mazurskie;Elbl¹g;82-300;Piotr Kosowiec
+K00731;pó³nocno-zachodni;wielkopolskie;Pêpowo;63-830;Jan Uran
+K00636;pó³nocny;pomorskie;Przodkowo;83-304;Janusz Juszczyk
+K01709;wschodni;lubelskie;Stary Brus;22-244;Wies³awa Stêpniewska
+K01155;pó³nocny;pomorskie;Pelplin;83-130;Adam Susfa³
+K01113;pó³nocny;warmiñsko-mazurskie;Dzia³dowo;13-200;Mariusz Ogrodnik
+K02108;wschodni;lubelskie;Ludwin;21-075;Janusz Wiœniewski
+K03309;wschodni;lubelskie;Ostrów Lubelski;21-110;Marcin Krê¿el
+K03310;centralny;mazowieckie;Ceranów;08-322;Ariel Gondek
+K02687;centralny;mazowieckie;Stare Babice;05-082;Sylwester Koszel
+K01254;wschodni;podlaskie;Mielnik;17-300;Krzysztof Prodan
+K00358;po³udniowy;œl¹skie;Koszarawa;34-332;Lidia Czy¿
+K02161;pó³nocny;warmiñsko-mazurskie;Ruciane-Nida;12-220;Joanna Skórka
+K00456;po³udniowy;ma³opolskie;£ukowica;34-606;Ma³gorzata Ilnicka
+K01194;centralny;³ódzkie;Grabów;99-150;Marek Kowalczuk
+K01519;centralny;mazowieckie;Stare Babice;05-082;Jacek Seku³a
+K01522;centralny;³ódzkie;Lututów;98-360;Antoni Krzywicki
+K00347;centralny;mazowieckie;Regimin;06-461;Piotr Opar
+K00341;centralny;mazowieckie;Mochowo;09-214;Barbara Krumin
+K02387;wschodni;œwiêtokrzyskie;Chêciny;26-060;Janusz Szmit
+K02546;pó³nocno-zachodni;wielkopolskie;Ostrzeszów;63-500;Wies³aw Biernacki
+K02602;pó³nocno-zachodni;zachodniopomorskie;Malechowo;76-142;Zbigniew Krawczyñski
+K00282;pó³nocny;warmiñsko-mazurskie;Kurzêtnik;13-306;Robert Szank
+K00276;pó³nocny;kujawsko-pomorskie;Gostycyn;89-520;Gra¿yna Kietrys
+K00027;po³udniowy;ma³opolskie;Rabka-Zdrój;34-700;Bo¿ena Kaczmarek
+K02100;wschodni;podlaskie;Sokó³ka;16-100;Krzysztof Chadacz
+K02216;centralny;³ódzkie;Zapolice;97-512;Maria Lasota
+K00996;po³udniowy;œl¹skie;Kochanowice;42-713;Pawe³ Tytoñ
+K00754;po³udniowo-zachodni;dolnoœl¹skie;Wêgliniec;59-940;Bo¿ena Milewska
+K01118;po³udniowo-zachodni;dolnoœl¹skie;Boguszów-Gorce;58-370;Wojciech £ubiarz
+K02515;pó³nocny;kujawsko-pomorskie;Œwiekatowo;86-182;Roman ¯o³nierczuk
+K03293;wschodni;podkarpackie;Iwierzyce;39-124;Tomasz Kulinicz
+K01077;centralny;³ódzkie;Bêdków;97-319;Krzysztof Dubicki
+K00857;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Agnieszka Ciepielak
+K00859;pó³nocny;warmiñsko-mazurskie;Markusy;82-300;Zdzis³aw Ryder
+K00860;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Maria Piórkowska
+K02228;po³udniowy;œl¹skie;Koszêcin;42-286;Maria Pi³at
+K01175;po³udniowo-zachodni;opolskie;Reñska Wieœ;47-200;Micha³ Zmarzlik
+K01940;po³udniowy;œl¹skie;Che³m Œl¹ski;41-403;Ryszard Osiowy
+K03308;pó³nocno-zachodni;wielkopolskie;Miasteczko Krajeñskie;89-350;Marek Banaszek
+K02941;po³udniowy;ma³opolskie;Zielonki;32-087;Andrzej Kejs
+K01597;wschodni;podkarpackie;Wi¹zownica;37-522;Adam Kaczmarczyk
+K02457;pó³nocny;pomorskie;Stary Dzierzgoñ;82-450;Ewa Czapka
+K01600;centralny;mazowieckie;Borowie;08-412;Pawe³ Marsza³ek
+K00464;po³udniowo-zachodni;dolnoœl¹skie;Z³otoryja;59-500;El¿bieta Owsiñska
+K01837;wschodni;lubelskie;Krasnobród;22-440;Juliusz Adel
+K02673;wschodni;podkarpackie;Padew Narodowa;39-340;Andrzej Kondzio³ka
+K00737;centralny;mazowieckie;Karniewo;06-425;Mieczys³aw Stoltman
+K00728;po³udniowo-zachodni;opolskie;Ozimek;46-040;Teresa Kurowska
+K00486;po³udniowo-zachodni;opolskie;Otmuchów;48-385;Marek Matela
+K00655;wschodni;lubelskie;Siedliszcze;22-130;Zbigniew Kucharski
+K00751;wschodni;œwiêtokrzyskie;Sadowie;27-580;Bogus³aw Dzikowicz
+K02913;pó³nocno-zachodni;zachodniopomorskie;Lipiany;74-240;Marcin Paluch
+K01637;po³udniowy;œl¹skie;Wodzis³aw Œl¹ski;44-286;Marian Kalicki
+K02469;wschodni;podkarpackie;Ch³opice;37-561;Bogus³awa Walkowiak
+K00746;pó³nocny;pomorskie;Gdañsk;80-057;Jerzy Wawrzysz
+K03013;wschodni;podkarpackie;Ko³aczyce;38-213;Ewa Skiba
+K00045;wschodni;podkarpackie;Oleszyce;37-630;Karolina Hubert
+K02175;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Bo¿ena Aksiutin
+K02179;wschodni;lubelskie;Sitno;21-560;Zdzis³aw Kurta
+K00033;po³udniowy;ma³opolskie;Trzebinia;32-540;Magdalena Schulz
+K00149;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Marta So³ek
+K01886;centralny;mazowieckie;Paprotnia;08-107;Wies³aw Kêpa
+K01515;wschodni;lubelskie;K³oczew;08-550;Grzegorz Kulbicki
+K00307;centralny;³ódzkie;¯ytno;97-532;Gra¿yna Kata
+K02334;po³udniowo-zachodni;opolskie;Gorzów Œl¹ski;46-310;Grzegorz Stalmach
+K00167;po³udniowy;ma³opolskie;Polanka Wielka;32-607;Kazimierz Hoñko
+K03138;wschodni;lubelskie;£opiennik Górny;22-351;Adam Pryba
+K00831;po³udniowy;ma³opolskie;Pleœna;33-171;Marcin Karczewski
+K00937;pó³nocno-zachodni;wielkopolskie;Opalenica;64-330;Aneta Iwanicka
+K00808;wschodni;œwiêtokrzyskie;Kluczewsko;29-120;El¿bieta Nuszkiewicz
+K00391;pó³nocno-zachodni;wielkopolskie;Grzegorzew;62-640;Stanis³aw Buczek
+K01803;wschodni;podkarpackie;Rakszawa;37-111;Hubert Majewski
+K01466;centralny;mazowieckie;Klwów;26-414;Andrzej Rogowski
+K01689;centralny;mazowieckie;Rzekuñ;07-411;Edward Grunt
+K02945;wschodni;podlaskie;Ko³aki Koœcielne;18-300;Izabela Radyk
+K02767;wschodni;podkarpackie;Bojanów;37-433;Patrycja Kulon
+K03290;pó³nocno-zachodni;lubuskie;Gozdnica;68-130;Jerzy Kubicki
+K00908;wschodni;œwiêtokrzyskie;Skalbmierz;28-530;Sebastian Suchorab
+K02316;pó³nocno-zachodni;wielkopolskie;Powidz;62-430;Beata Mieczkowska
+K00889;wschodni;podlaskie;Zambrów;18-300;Józef Kiziuk
+K02823;pó³nocny;pomorskie;Wejherowo;84-200;Lech Pieczyñski
+K00093;wschodni;lubelskie;Obsza;23-413;Marek Piechnik
+K01142;pó³nocno-zachodni;lubuskie;¯agañ;68-100;Pawe³ Retecki
+K03064;pó³nocny;pomorskie;Jastarnia;84-140;Dariusz Mikulski
+K00681;pó³nocny;pomorskie;Rumia;84-230;Danuta Kêsek
+K01744;po³udniowy;ma³opolskie;Gorlice;38-300;El¿bieta Dwornicka
+K01221;wschodni;podlaskie;Przytu³y;18-420;Zbigniew Kupisz
+K01325;wschodni;podkarpackie;Rakszawa;37-111;Henryk £ubiñski
+K01333;wschodni;podkarpackie;Iwierzyce;39-124;Cezary Tumasz
+K01980;po³udniowo-zachodni;dolnoœl¹skie;Jelcz-Laskowice;55-220;Katarzyna £uczak
+K00995;wschodni;lubelskie;Siedliszcze;22-130;Anna Kulis
+K00087;pó³nocno-zachodni;zachodniopomorskie;Gryfice;72-300;Robert Rokaszewicz
+K03249;pó³nocno-zachodni;lubuskie;Cybinka;69-108;Grzegorz Tchórzewski
+K02608;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Robert Sagan
+K00638;po³udniowo-zachodni;dolnoœl¹skie;Podgórzyn;58-562;Zbigniew Gutowski
+K02124;wschodni;lubelskie;Werbkowice;22-550;Stanis³aw Turowski
+K00389;wschodni;podkarpackie;Stalowa Wola;37-450;Ewa Garbarczyk
+K01891;po³udniowy;ma³opolskie;Nowy Wiœnicz;32-720;Monika Kiper
+K02193;po³udniowy;œl¹skie;Ujso³y;34-371;Hanna Ob³awska
+K01587;centralny;³ódzkie;Kleszczów;97-410;Marian Wyszyñski
+K00784;po³udniowo-zachodni;dolnoœl¹skie;Jemielno;56-210;Jolanta Wilk
+K00792;po³udniowo-zachodni;dolnoœl¹skie;Borów;57-100;Katarzyna Krysztowczyk
+K03054;pó³nocny;kujawsko-pomorskie;Brzozie;87-313;Wies³awa Saran
+K03053;centralny;mazowieckie;Czerwin;07-407;Ryszard Szkudlarek
+K01990;pó³nocny;kujawsko-pomorskie;Drzycim;86-140;Halina Gnaciñska
+K01981;po³udniowy;ma³opolskie;Niepo³omice;32-005;Dominik Kaczorowski
+K03136;wschodni;lubelskie;Borzechów;24-224;Jan Bihun
+K00725;po³udniowy;ma³opolskie;Mucharz;34-106;Jan Kurowski
+K00740;pó³nocno-zachodni;wielkopolskie;Ko³aczkowo;62-306;Beata Mochort
+K01003;pó³nocny;kujawsko-pomorskie;Zbójno;87-645;Iwona Czechowska
+K02112;wschodni;œwiêtokrzyskie;Zawichost;27-630;Dariusz Sarnes
+K02171;po³udniowo-zachodni;dolnoœl¹skie;Radwanice;59-160;Bogus³awa Marchewka
+K02172;po³udniowo-zachodni;dolnoœl¹skie;Piechowice;58-573;Dorota Kwiatkowska
+K03006;centralny;³ódzkie;Sulejów;97-330;Monika Broker
+K02204;pó³nocno-zachodni;wielkopolskie;Kórnik;62-035;Ewa Sak
+K02570;po³udniowo-zachodni;dolnoœl¹skie;Œroda Œl¹ska;55-300;Henryka Biedrzycka
+K00686;pó³nocny;kujawsko-pomorskie;¯nin;88-400;Bogus³awa Wojdy³a
+K01654;wschodni;lubelskie;£uków;21-400;Eugeniusz Mroczkowski
+K02996;centralny;³ódzkie;Dzia³oszyn;98-355;£ukasz £asowski
+K00050;pó³nocny;kujawsko-pomorskie;Nowe;86-170;Andrzej Starkowski
+K00182;wschodni;podkarpackie;Rakszawa;37-111;Marta Gabryœ
+K02234;po³udniowo-zachodni;dolnoœl¹skie;Stoszowice;57-200;Bernadeta Tomczak
+K02233;po³udniowo-zachodni;dolnoœl¹skie;Niemcza;58-230;Ryszard Trojanowski
+K00395;wschodni;lubelskie;¯mudŸ;22-114;Gra¿yna Horbacz
+K00369;po³udniowy;ma³opolskie;Nowy S¹cz;33-300;Kazimierz Pawelec
+K01033;pó³nocny;warmiñsko-mazurskie;E³k;19-300;Janusz Przepiórka
+K01387;pó³nocny;pomorskie;Gdynia;81-406;Andrzej Partyka
+K02487;pó³nocny;kujawsko-pomorskie;Lisewo;86-230;Pawe³ Januszewski
+K00337;pó³nocno-zachodni;lubuskie;Gorzów Wielkopolski;66-400;Heronim Cierpisz
+K02562;wschodni;podlaskie;Soko³y;18-218;Miros³aw Terlecki
+K01783;pó³nocny;kujawsko-pomorskie;Bydgoszcz;85-448;Jaros³aw B¹czkowski
+K00905;pó³nocno-zachodni;wielkopolskie;Przykona;62-731;Lucyna Niespodziana
+K00103;pó³nocno-zachodni;lubuskie;Otyñ;67-100;Henryk WoŸniak
+K00104;pó³nocno-zachodni;wielkopolskie;Gostyñ;63-800;Beata Baczyñska
+K00105;po³udniowy;ma³opolskie;Bobowa;38-350;Agnieszka Michalska
+K00099;centralny;mazowieckie;Wyszków;07-200;Adelina Rajska
+K00110;centralny;³ódzkie;¯elechlinek;97-226;Remigiusz Werner
+K00422;po³udniowo-zachodni;opolskie;Kolonowskie;47-110;El¿bieta Kaciuba
+K00418;po³udniowo-zachodni;dolnoœl¹skie;Bogatynia;59-920;Ma³gorzata Mazur
+K00423;pó³nocny;warmiñsko-mazurskie;£ukta;14-105;Janina Pawluk
+K00107;wschodni;œwiêtokrzyskie;Mirzec;27-220;Jacek Wezgraj
+K01650;pó³nocno-zachodni;wielkopolskie;Chodów;62-652;Joanna Zacharska
+K01146;centralny;mazowieckie;Wodynie;08-117;Józef Berdzik
+K03104;centralny;³ódzkie;£êczyca;99-100;Agnieszka Fuda³a
+K02505;centralny;mazowieckie;Gostynin;09-500;Krzysztof Mazur
+K02414;wschodni;lubelskie;Batorz;23-320;Agata Sima Pietrzak
+K03284;wschodni;podkarpackie;Strzy¿ów;38-100;Joanna Owczarek
+K00805;wschodni;lubelskie;Koñskowola;24-130;Miros³aw Sitkiewicz
+K02087;wschodni;lubelskie;Janów Podlaski;21-505;Lilla Szewczyk
+K02090;pó³nocno-zachodni;wielkopolskie;Mosina;62-050;Leon Rybka
+K00019;pó³nocny;pomorskie;Czersk;89-650;Katarzyna Szymczewska
+K00492;centralny;mazowieckie;Gózd;05-340;Tadeusz Wêgrzynowski
+K00028;po³udniowo-zachodni;dolnoœl¹skie;Dzier¿oniów;58-200;Dominika Grunwald
+K02258;pó³nocno-zachodni;wielkopolskie;Krzy¿ Wielkopolski;64-761;Lucyna Parol
+K02081;wschodni;podlaskie;Dobrzyniewo Du¿e;16-002;Janina Okinczyc
+K02939;wschodni;lubelskie;Wyryki;22-205;Micha³ Kocór
+K02940;po³udniowo-zachodni;dolnoœl¹skie;Niechlów;56-200;Marian Kawczyñski
+K01569;wschodni;œwiêtokrzyskie;Koñskie;26-220;Leszek W³odkowski
+K01563;centralny;³ódzkie;£owicz;97-524;Krystyna Zio³a
+K00846;po³udniowo-zachodni;dolnoœl¹skie;Stara Kamienica;58-512;Jan KaŸmierczak
+K00841;po³udniowo-zachodni;dolnoœl¹skie;Jawor;59-400;Iwona K³os
+K00844;po³udniowy;ma³opolskie;£ukowica;34-606;Andrzej Pakulski
+K02776;pó³nocno-zachodni;zachodniopomorskie;Kamieñ Pomorski;72-400;Robert Kucharycz
+K03124;po³udniowo-zachodni;dolnoœl¹skie;Prochowice;59-230;Maria Kruk
+K00177;po³udniowy;œl¹skie;Siemianowice Œl¹skie;41-100;Robert Szczepañski
+K00840;centralny;mazowieckie;Obryte;07-215;Grzegorz Morzyc
+K01722;pó³nocno-zachodni;zachodniopomorskie;Œwinoujœcie;72-600;Marian Hermanowicz
+K00551;pó³nocno-zachodni;wielkopolskie;Poniec;64-125;Andrzej Szachów
+K00277;po³udniowy;ma³opolskie;Sêkowa;38-307;El¿bieta Oczachowska
+K02338;pó³nocny;kujawsko-pomorskie;Boniewo;87-851;Justyna Kosmala
+K00319;pó³nocno-zachodni;wielkopolskie;Kwilcz;64-410;Katarzyna Lewandowska
+K01642;centralny;³ódzkie;Nieborów;99-416;Anna Sawczuk
+K01640;po³udniowy;ma³opolskie;Koszyce;32-130;Kazimierz Mita
+K01473;po³udniowy;ma³opolskie;Rytro;33-343;Pawe³ Mirowski
+K03381;wschodni;podkarpackie;Przeworsk;37-200;Zbigniew Gotowa³a
+K03209;pó³nocny;kujawsko-pomorskie;Nieszawa;87-730;Pawe³ Lembas
+K02551;po³udniowy;œl¹skie;Szczekociny;42-445;Gra¿yna Pakos
+K02001;po³udniowy;œl¹skie;Jaworze;43-384;Wies³aw Lebioda
+K02298;centralny;mazowieckie;Dzierz¹¿nia;09-164;Krystyna Zachaczewska
+K00760;pó³nocno-zachodni;lubuskie;Nowe Miasteczko;67-124;Zdzis³aw Biela
+K00584;wschodni;œwiêtokrzyskie;W¹chock;27-215;Andrzej Kasiñski
+K00776;pó³nocny;pomorskie;Kwidzyn;82-500;Ireneusz Burak
+K02309;po³udniowo-zachodni;dolnoœl¹skie;Pieñsk;59-930;W³adys³awa Dumañska
+K03149;centralny;mazowieckie;Czerwiñsk nad Wis³¹;09-150;Roman Jakubowski
+K00212;po³udniowo-zachodni;opolskie;Leœnica;47-150;Tomasz Zaborski
+K00654;po³udniowo-zachodni;dolnoœl¹skie;Sobótka;55-050;Halina Rakowska
+K00852;pó³nocno-zachodni;wielkopolskie;Wolsztyn;64-200;Janusz Kilian
+K00856;centralny;mazowieckie;Podkowa Leœna;05-807;El¿bieta Bartkowska
+K02448;pó³nocny;kujawsko-pomorskie;£abiszyn;89-210;Marek Wojciechowski
+K01925;centralny;³ódzkie;Tomaszów Mazowiecki;97-200;Gabriela Rybarczyk
+K03187;po³udniowy;ma³opolskie;Zembrzyce;34-210;Stanis³aw Sza³agan
+K01715;centralny;mazowieckie;Jastrzêbia;05-640;Cezary Zarzycki
+K02174;po³udniowy;œl¹skie;¯ory;44-244;Edward Nawrocki
+K01352;centralny;³ódzkie;Pi¹tek;99-120;Andrzej Skiba
+K00829;po³udniowo-zachodni;opolskie;Murów;46-030;Henryk Nowak
+K02542;po³udniowy;ma³opolskie;Szczucin;33-230;Katarzyna Chabera
+K01245;pó³nocny;warmiñsko-mazurskie;Dubeninki;19-504;Patrycja Nocoñ
+K00097;pó³nocno-zachodni;wielkopolskie;Wieleñ;64-234;Arkadiusz Zalega
+K01289;wschodni;podkarpackie;Dynów;36-065;Grzegorz Nowicki
+K02145;pó³nocny;pomorskie;Sopot;81-741;Andrzej Æwikliñski
+K00664;pó³nocno-zachodni;wielkopolskie;Rychtal;63-630;Janusz M³odzianowski
+K02521;centralny;mazowieckie;Sypniewo;06-216;Katarzyna Wêgrzyn
+K02738;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Piotr Rzepka
+K00962;centralny;³ódzkie;£ódŸ;90-118;Kinga Kraszczuk
+K03244;pó³nocny;pomorskie;Linia;84-223;Maciej Michoñski
+K01082;pó³nocno-zachodni;wielkopolskie;Pobiedziska;62-010;Dariusz Kufel
+K03372;centralny;mazowieckie;Korytnica;07-120;Franciszek Hirsz
+K01419;pó³nocno-zachodni;zachodniopomorskie;Trzebiatów;72-320;Tomasz Ladziñski
+K00773;pó³nocno-zachodni;lubuskie;Babimost;66-110;Pawe³ Grandtke
+K00975;po³udniowy;œl¹skie;Rybnik;44-213;Ryszard Witkowski
+K00978;centralny;³ódzkie;Kodr¹b;97-512;Iwona Paku³a
+K00959;pó³nocno-zachodni;wielkopolskie;Miejska Górka;63-910;Adrian Zalewski
+K02476;wschodni;podkarpackie;Kury³ówka;37-303;Julian Rosiñski
+K01133;pó³nocny;pomorskie;Lichnowy;82-224;Iwona Ksel
+K02844;pó³nocno-zachodni;zachodniopomorskie;Chociwel;73-120;Magdalena Kowalska
+K00993;wschodni;podkarpackie;Dêbica;39-200;Artur Hubicki
+K02785;pó³nocno-zachodni;zachodniopomorskie;Bobolice;76-020;Wies³aw Mróz
+K01083;pó³nocno-zachodni;wielkopolskie;Œroda Wielkopolska;63-000;Jan Nowak
+K00241;wschodni;œwiêtokrzyskie;Opatów;27-500;Jolanta Jab³oñska
+K02021;centralny;mazowieckie;Ojrzeñ;06-456;Magdalena ¯uchowska
+K02251;wschodni;podkarpackie;Kroœcienko Wy¿ne;38-422;Katarzyna Matusik
+K00258;pó³nocny;kujawsko-pomorskie;D¹browa Biskupia;88-133;Dorota Cha³at
+K03142;wschodni;podkarpackie;£añcut;37-100;Tomasz Piskorz
+K02657;pó³nocno-zachodni;zachodniopomorskie;Ko³obrzeg;78-100;Ryszard Wieteska
+K02135;centralny;mazowieckie;Drobin;09-210;Monika Skrzypek
+K01365;centralny;³ódzkie;Lutomiersk;95-083;Piotr Piórkowski
+K01398;pó³nocny;kujawsko-pomorskie;Skrwilno;87-510;Marcin Michalak
+K03262;wschodni;podkarpackie;Soko³ów Ma³opolski;36-050;Roman Garguliñski
+K01186;centralny;³ódzkie;Sieradz;98-200;Krystyna Jab³oñska
+K02101;wschodni;lubelskie;Ryki;08-500;Lech Jasiñski
+K02835;wschodni;podlaskie;Micha³owo;16-050;Ewelina Doliñczyk
+K02310;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Stanis³awa Romaniuk
+K02311;wschodni;podkarpackie;Rakszawa;37-111;Marta Tolwaj
+K02312;centralny;³ódzkie;Poddêbice;99-200;Miros³awa Bartoszewska
+K02287;pó³nocny;kujawsko-pomorskie;Janowiec Wielkopolski;88-430;Barbara Grudzieñ
+K01412;wschodni;lubelskie;Janów Lubelski;23-300;Mieczys³aw £apko
+K01039;pó³nocny;kujawsko-pomorskie;Lubiewo;89-526;Ewa Zasada
+K02754;po³udniowy;œl¹skie;Ustroñ;43-450;Dawid Szyszlak
+K03046;centralny;³ódzkie;Dobroñ;95-082;Leszek Staszko
+K00300;wschodni;œwiêtokrzyskie;Mirzec;27-220;Jerzy Ulrich
+K01921;pó³nocny;pomorskie;Pruszcz Gdañski;83-000;Marek Brzostko
+K01923;pó³nocny;kujawsko-pomorskie;Topólka;87-875;Monika Ryhanycz
+K02481;centralny;³ódzkie;Wieluñ;98-300;Andrzej Staszak
+K00130;po³udniowy;ma³opolskie;Miechów;32-200;Beata Bezmian
+K01579;centralny;mazowieckie;Stare Babice;05-082;Lech Andrzejczak
+K00946;centralny;mazowieckie;Stare Babice;05-082;Dorota Huzar
+K01807;pó³nocno-zachodni;lubuskie;Tuplice;68-219;Dorota Kierkosz
+K01958;po³udniowy;ma³opolskie;Trzciana;32-733;Sebastian Niemczyk
+K00596;pó³nocno-zachodni;lubuskie;Lubsko;68-300;Pawe³ Kosmalski
+K02766;wschodni;œwiêtokrzyskie;Secemin;29-145;Krzysztof Grabowski
+K02759;po³udniowy;œl¹skie;Ciasna;42-793;Ireneusz Zarzycki
+K03403;po³udniowo-zachodni;opolskie;Paczków;48-370;Anna Popielarczyk
+K03101;wschodni;lubelskie;Susiec;22-672;Karolina £ukomska
+K00214;wschodni;podkarpackie;Krempna;38-232;Karolina Wogórka
+K00570;wschodni;podkarpackie;Przemyœl;37-700;Jadwiga Kancelarczyk
+K00283;centralny;³ódzkie;Tomaszów Mazowiecki;97-200;Aneta Lewandowska
+K00836;pó³nocno-zachodni;wielkopolskie;Pakos³aw;63-920;Tomasz Furman
+K03156;wschodni;podlaskie;Sejny;16-500;Bogdan £ukomski
+K01727;wschodni;podkarpackie;Tuszów Narodowy;39-332;Józef Oleszko
+K02773;po³udniowo-zachodni;dolnoœl¹skie;Jaworzyna Œl¹ska;58-140;Daniel Grajczak
+K02356;centralny;mazowieckie;Korczew;08-108;Krystyna WoŸniak
+K03368;centralny;mazowieckie;Zakroczym;05-170;Krystyna Grzyb
+K01374;po³udniowo-zachodni;dolnoœl¹skie;G³ogów;67-210;S³awomir Kajkowski
+K00742;centralny;mazowieckie;Paprotnia;08-107;Dariusz Posadowski
+K00739;wschodni;œwiêtokrzyskie;Secemin;29-145;Sylwia Walczak
+K00735;wschodni;lubelskie;£opiennik Górny;22-351;Barbara Bukwald
+K00734;po³udniowy;ma³opolskie;Borzêcin;32-825;Barbara Maraszek
+K00658;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Dariusz Bartosik
+K01919;pó³nocny;warmiñsko-mazurskie;Bia³a Piska;12-230;Józef Rutkowski
+K01265;pó³nocno-zachodni;wielkopolskie;Dominowo;63-000;Leszek Karpiñski
+K00006;po³udniowy;œl¹skie;Katowice;40-479;Piotr Sikorski
+K02266;wschodni;lubelskie;Potok Górny;23-423;Micha³ Szczeœniak
+K01248;pó³nocno-zachodni;wielkopolskie;Oborniki;64-600;Magdalena Gawrysiak
+K02620;po³udniowy;ma³opolskie;Dobczyce;32-410;Kazimierz Siebu³a
+K02374;pó³nocno-zachodni;wielkopolskie;Witkowo;62-230;Aleksandra Ligenza
+K01771;po³udniowy;œl¹skie;Jeleœnia;34-340;Jacek Kustrzycki
+K02547;pó³nocno-zachodni;wielkopolskie;Kalisz;62-800;Grzegorz Chudek
+K02314;pó³nocno-zachodni;wielkopolskie;Pakos³aw;63-920;Mariola Krawiec
+K02133;centralny;mazowieckie;P³oñsk;09-100;Marek Twardowski
+K01119;pó³nocno-zachodni;wielkopolskie;Przygodzice;63-421;Mateusz D¹browski
+K00332;pó³nocno-zachodni;lubuskie;Pszczew;66-330;Maria S³awska
+K00330;po³udniowy;ma³opolskie;£ukowica;34-606;Barbara Koœmiñska
+K01818;centralny;mazowieckie;Garwolin;08-400;Grzegorz Trafny
+K00986;wschodni;lubelskie;Niemce;21-025;Kazimierz Stêpieñ
+K01095;centralny;mazowieckie;Szelków;06-220;Justyna £yjak
+K01016;pó³nocny;kujawsko-pomorskie;Che³m¿a;87-140;Kamil Wochner
+K02063;wschodni;podkarpackie;Jaros³aw;37-500;Wojciech Adamczewski
+K01012;centralny;mazowieckie;Paprotnia;08-107;Marek Wolski
+K00694;centralny;³ódzkie;Aleksandrów £ódzki;95-070;Aurelia Rabêda
+K02073;pó³nocno-zachodni;wielkopolskie;Kramsk;62-511;Mariusz Prusinowski
+K01651;po³udniowy;ma³opolskie;Kamienica;32-075;Jan WoŸniak
+K00853;centralny;mazowieckie;£omianki;05-092;Stefan Wrzecionowski
+K01713;pó³nocno-zachodni;lubuskie;Lubniewice;69-210;Szymon Wasiak
+K00881;pó³nocny;warmiñsko-mazurskie;Miko³ajki;11-730;Dariusz Hofman
+K03137;pó³nocny;kujawsko-pomorskie;Koneck;87-702;El¿bieta Zió³kowska
+K00643;centralny;³ódzkie;Bia³a Rawska;96-230;Bogdan Bia³as
+K00947;pó³nocny;pomorskie;Prabuty;82-550;Tomasz Boruch
+K02669;pó³nocno-zachodni;lubuskie;Sk¹pe;66-213;Andrzej Butryn
+K02575;centralny;³ódzkie;Kutno;99-300;Rafa³ Pi¹tkowski
+K01047;po³udniowy;œl¹skie;Rybnik;44-270;Ma³gorzata ¯abska
+K00226;po³udniowy;ma³opolskie;Zakliczyn;32-840;Adam Kamiñski
+K00454;pó³nocny;kujawsko-pomorskie;Dobrzyñ nad Wis³¹;87-610;Kamila Cio³ek
+K00970;centralny;mazowieckie;Gózd;26-634;Rafa³ Stefanowicz
+K01268;pó³nocno-zachodni;wielkopolskie;Murowana Goœlina;62-095;Kinga Wrzyszcz
+K01459;wschodni;lubelskie;Dorohusk;22-175;Sandro Ladziñski
+K01105;centralny;³ódzkie;Ksawerów;95-054;Krzysztof Hornatkiewicz
+K01104;centralny;mazowieckie;Warszawa;00-236;Wojciech Jankowski
+K01174;po³udniowy;ma³opolskie;Koszyce;32-130;Grzegorz Paplicki
+K01017;pó³nocno-zachodni;wielkopolskie;Odolanów;63-430;Grzegorz Pieñkowski
+K02212;centralny;mazowieckie;Stara Kornica;08-205;Marek Plust
+K03376;pó³nocno-zachodni;wielkopolskie;Soœnie;63-435;Andrzej Wiœniewski
+K02866;pó³nocny;warmiñsko-mazurskie;I³awa;14-200;Maria Skowroñska
+K00238;centralny;³ódzkie;Wieruszów;98-400;Justyna ¯mudziñska
+K00783;po³udniowo-zachodni;dolnoœl¹skie;Sobótka;55-050;Bohdan Artymowycz
+K00106;po³udniowy;ma³opolskie;Laskowa;34-602;Halina Szaniawska
+K00113;wschodni;lubelskie;Horod³o;22-523;Mariusz Nastarowski
+K01406;po³udniowy;œl¹skie;Pilica;42-436;Jan Stêpniowski
+K00142;wschodni;lubelskie;Krzywda;21-470;Wies³aw Ho³ub
+K00147;centralny;mazowieckie;Dzierz¹¿nia;09-164;Halina Korczyc
+K00144;po³udniowy;ma³opolskie;Trzyci¹¿;32-353;Waldemar Kazimierak
+K02985;wschodni;lubelskie;Turobin;23-465;Halina Bui³ek
+K00288;centralny;mazowieckie;Siedlce;08-110;Andrzej Marciniewski
+K00281;wschodni;œwiêtokrzyskie;Mirzec;27-220;Bart³omiej Boguski
+K02213;pó³nocny;kujawsko-pomorskie;Ciechocin;87-408;Gra¿yna Szel¹g
+K02002;pó³nocno-zachodni;lubuskie;Zb¹szynek;66-210;Daniel Werner
+K01224;pó³nocno-zachodni;wielkopolskie;Zb¹szyñ;64-360;Ewa Po³czyñska
+K01219;centralny;³ódzkie;Poddêbice;99-200;Krzysztof Kurkowiak
+K00827;centralny;mazowieckie;¯yrardów;96-300;Grzegorz Plewa
+K00014;wschodni;lubelskie;Mi¹czyn;22-455;Grzegorz Niski
+K00145;wschodni;lubelskie;Wola Uhruska;22-230;Andrzej Sierant
+K02564;wschodni;podkarpackie;Cieszanów;37-611;Krystyna Kozielska
+K02580;pó³nocny;warmiñsko-mazurskie;Kisielice;14-220;Zbigniew Kosut
+K02938;pó³nocny;kujawsko-pomorskie;Jeziora Wielkie;88-324;Ma³gorzata Stachniuk
+K02932;wschodni;lubelskie;Szczebrzeszyn;22-460;Adam Zarzycki
+K00942;po³udniowy;œl¹skie;Miko³ów;43-190;Jan Myszkowski
+K00705;pó³nocno-zachodni;wielkopolskie;Œmigiel;64-030;Wojciech Marko
+K03003;centralny;³ódzkie;Goszczanów;98-215;Grzegorz Ratajczyk
+K00623;pó³nocny;kujawsko-pomorskie;Che³mno;86-200;Teresa Tunkiewicz
+K00624;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Zuzanna Klocek
+K00669;pó³nocno-zachodni;zachodniopomorskie;Mielno;76-032;Iwona Panada
+K01976;po³udniowy;œl¹skie;Ogrodzieniec;42-440;Roman Maœlanka
+K02361;wschodni;lubelskie;Wisznice;21-580;£ukasz Mielnikiewicz
+K02502;pó³nocny;kujawsko-pomorskie;Bukowiec;86-122;Katarzyna Pytloch
+K00195;pó³nocny;kujawsko-pomorskie;Piotrków Kujawski;88-230;Krystyna Michalczuk
+K01269;pó³nocno-zachodni;lubuskie;Nowogród Bobrzañski;66-010;Wies³aw Stefaniak
+K00976;pó³nocno-zachodni;lubuskie;Wymiarki;68-100;Marek Szczytkowski
+K00974;centralny;³ódzkie;Burzenin;98-260;Jerzy Poszepczyñski
+K02771;wschodni;podkarpackie;Sieniawa;37-530;Janusz Michalak
+K02556;po³udniowy;ma³opolskie;Nowe Brzesko;32-120;Pawe³ Szar³ata
+K00501;centralny;mazowieckie;Milanówek;05-822;Mateusz Mochort
+K02494;centralny;mazowieckie;Sanniki;09-540;Bernadeta Borkowska
+K02804;centralny;mazowieckie;Stare Babice;05-082;Adam Swat
+K02807;pó³nocny;pomorskie;Ustka;76-270;Miros³aw Kosmala
+K02808;pó³nocny;warmiñsko-mazurskie;Godkowo;14-407;Wojciech Czaplewski
+K01984;centralny;mazowieckie;Chorzele;06-330;Ryszard Socha
+K01697;wschodni;podlaskie;Suchowola;16-150;Katarzyna Oryszewska
+K01018;po³udniowy;œl¹skie;¯ywiec;34-300;W³adys³aw Bakun
+K01732;wschodni;podkarpackie;Dubiecko;37-750;Kazimierz Snoch
+K01222;centralny;mazowieckie;Jaktorów;96-313;Grzegorz Kowalski
+K01528;pó³nocny;pomorskie;Stary Targ;82-410;Zbigniew Kêdzior
+K00902;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Maciej Zarêba
+K00903;po³udniowy;ma³opolskie;Charsznica;32-250;Halina Czaban
+K00394;centralny;mazowieckie;¯elechów;05-650;Ma³gorzata Budzyñska
+K03214;po³udniowy;œl¹skie;Blachownia;42-290;Andrzej Augustynek
+K02935;po³udniowy;œl¹skie;Rybnik;44-200;Izabella Senda
+K02936;wschodni;podlaskie;Przeroœl;16-427;Kazimierz £ukasik
+K03157;wschodni;podkarpackie;Laszki;37-543;Ewa ¯ytko
+K01059;pó³nocny;kujawsko-pomorskie;Radzyñ Che³miñski;87-220;Mariusz Szymkowicz
+K01593;centralny;³ódzkie;Wolbórz;97-320;Joanna Krzy¿owska
+K01708;centralny;³ódzkie;Rz¹œnia;98-332;Mateusz Wyka
+K02594;po³udniowo-zachodni;dolnoœl¹skie;Legnica;59-220;Andrzej Miedziñski
+K01054;po³udniowo-zachodni;dolnoœl¹skie;Nowa Ruda;57-401;Mateusz Pawluk
+K02856;wschodni;podkarpackie;Kañczuga;37-220;Adam Paszko
+K02330;pó³nocno-zachodni;zachodniopomorskie;Drawno;73-220;Bo¿ena Ksi¹¿ek
+K00475;wschodni;lubelskie;Borzechów;24-224;Wies³aw Kielan
+K00382;po³udniowy;ma³opolskie;Krynica-Zdrój;33-380;Anna So³onyna
+K01741;pó³nocno-zachodni;zachodniopomorskie;Choszczno;73-200;Agnieszka £awrynowicz
+K00399;pó³nocny;warmiñsko-mazurskie;Frombork;14-530;Ewelina Biñczyk
+K02306;centralny;³ódzkie;Lubochnia;97-217;Kamil Kocoñ
+K00653;centralny;mazowieckie;Wo³omin;05-200;Katarzyna Biegañska
+K01872;po³udniowo-zachodni;dolnoœl¹skie;Lwówek Œl¹ski;59-600;Gra¿yna Soko³ów
+K01434;po³udniowy;ma³opolskie;Grybów;33-330;Ryszard Tokarczyk
+K01672;pó³nocno-zachodni;zachodniopomorskie;Barwice;78-460;Danuta Kwolik
+K03169;pó³nocno-zachodni;wielkopolskie;Buk;64-320;Lidia Bogus
+K01478;pó³nocny;warmiñsko-mazurskie;Korsze;11-430;Jolanta Gotfryd
+K00989;po³udniowo-zachodni;dolnoœl¹skie;Siechnice;55-011;Grzegorz £uszczyñski
+K02050;pó³nocny;warmiñsko-mazurskie;Pas³êk;14-400;Jadwiga Lachowicz
+K02749;pó³nocny;warmiñsko-mazurskie;Stawiguda;11-034;Kamil Barwinek
+K00020;wschodni;podlaskie;Choroszcz;16-070;Zbigniew Go³uchowski
+K00081;pó³nocny;warmiñsko-mazurskie;Piecki;11-710;Jadwiga Hardek
+K03134;pó³nocny;kujawsko-pomorskie;Strzelno;88-320;Bo¿ena Sawicka
+K01629;pó³nocno-zachodni;wielkopolskie;Z³otów;77-400;Maria Wudarska
+K02420;wschodni;lubelskie;Pu³awy;24-100;Boles³aw Stria
+K02869;pó³nocny;warmiñsko-mazurskie;Pisz;12-200;Anna Pastu³a
+K00990;po³udniowy;œl¹skie;Herby;42-284;Bogdan Skoczek
+K01991;centralny;³ódzkie;Bia³aczów;26-307;Miros³aw Rutkowski
+K00574;centralny;³ódzkie;Opoczno;26-300;Lech Ryder
+K01443;wschodni;podkarpackie;B³a¿owa;36-030;Artur Leszczak
+K02277;centralny;³ódzkie;Wróblew;98-285;Sylwester Specya³
+K02035;pó³nocno-zachodni;wielkopolskie;Nowe Skalmierzyce;63-460;Gra¿yna Skibiñska
+K01164;wschodni;œwiêtokrzyskie;Zagnañsk;26-050;Edward Barnik
+K01167;wschodni;œwiêtokrzyskie;Kije;28-404;Teresa Kordaczuk
+K02106;centralny;mazowieckie;Mszczonów;96-320;Andrzej Lipka
+K02095;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Alicja Jasiñska
+K01209;po³udniowy;œl¹skie;£êkawica;34-321;Jaros³aw Smyka
+K01876;centralny;³ódzkie;Kowiesy;96-111;Wieñczys³aw Bebich
+K01151;pó³nocno-zachodni;zachodniopomorskie;Widuchowa;74-120;Marzena Kluska
+K01870;po³udniowo-zachodni;opolskie;Opole;45-360;Piotr Surawski
+K00787;centralny;³ódzkie;Radomsko;97-500;Dorota Kriger
+K02388;pó³nocny;pomorskie;Nowy Dwór Gdañski;82-100;Wioletta Skowyra
+K03180;pó³nocny;warmiñsko-mazurskie;Nowe Miasto Lubawskie;13-300;Jadwiga Kaliczyñska
+K01554;centralny;mazowieckie;O¿arów Mazowiecki;05-850;Marcin Krzysiak
+K02928;pó³nocno-zachodni;zachodniopomorskie;Wa³cz;78-600;Irena Caban
+K00036;centralny;mazowieckie;Przasnysz;06-300;Robert Andrzejewski
+K00037;pó³nocno-zachodni;zachodniopomorskie;Tychowo;78-220;Andrzej Karaczun
+K01290;pó³nocno-zachodni;wielkopolskie;Rakoniewice;62-067;Tadeusz Stasiak
+K03067;centralny;³ódzkie;Kie³czyg³ów;98-358;Jan Jarczak
+K00346;pó³nocny;kujawsko-pomorskie;Che³mno;86-200;Katarzyna Jaworska
+K02705;centralny;mazowieckie;Soñsk;06-430;Piotr Zduñczyk
+K02788;pó³nocny;kujawsko-pomorskie;Bobrowo;87-327;Dariusz Maroñ
+K00515;centralny;mazowieckie;Dzierz¹¿nia;09-164;Andrzej Cerazy
+K00511;centralny;mazowieckie;Szelków;06-220;Roman Wiœniewski
+K00513;po³udniowo-zachodni;opolskie;Walce;47-344;Justyna Tuderek
+K03027;pó³nocno-zachodni;wielkopolskie;Koœcian;64-000;Danuta Andrejczuk
+K03348;po³udniowy;œl¹skie;Lyski;44-295;Wies³aw Runowicz
+K02399;pó³nocny;kujawsko-pomorskie;Stolno;86-212;Jakub Dobrowolski
+K01086;wschodni;lubelskie;Nowodwór;08-503;Mi³osz £uszczyk
+K01075;centralny;³ódzkie;Uniejów;99-210;Krystyna Wilman
+K03322;wschodni;podkarpackie;Radymno;37-550;£ukasz Górczyñski
+K00639;po³udniowy;œl¹skie;Pyskowice;44-120;Monika Górska
+K00589;wschodni;lubelskie;Tarnogród;23-420;Marlena Koñko
+K00581;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Miros³aw Wiercioch
+K00085;centralny;³ódzkie;Piotrków Trybunalski;97-300;Anetta Usidus
+K02658;pó³nocno-zachodni;zachodniopomorskie;Cedynia;74-520;Gra¿yna Ulikowska
+K00597;pó³nocno-zachodni;wielkopolskie;Okonek;64-965;Marek Pawlik
+K00890;pó³nocny;pomorskie;Nowy Staw;82-230;W³odzimierz Bezhubka
+K00137;centralny;mazowieckie;Mirów;06-300;Zuzanna Sugier
+K00029;pó³nocno-zachodni;wielkopolskie;Krzywiñ;64-010;Dorota Usidus
+K03324;pó³nocno-zachodni;zachodniopomorskie;Suchañ;73-132;Ewa Rybicka
+K00043;centralny;mazowieckie;Przysucha;26-400;Krystyna Miagka
+K00527;centralny;³ódzkie;Z³oczew;98-270;Adam Polowy
+K02353;po³udniowo-zachodni;dolnoœl¹skie;Kostom³oty;55-300;Marzanna Garbowska
+K01091;pó³nocno-zachodni;wielkopolskie;Wronki;64-510;Robert Ramel
+K02589;centralny;mazowieckie;P³ock;09-410;Halina Lewandowska
+K03125;pó³nocny;kujawsko-pomorskie;Radziejów;88-200;Jerzy £osiewicz
+K00722;wschodni;podkarpackie;Domaradz;36-230;Jadwiga Matysek
+K01681;centralny;³ódzkie;Warta;98-290;Zbigniew Grabowski
+K02958;centralny;mazowieckie;Izabelin;05-080;Danuta Zawadzka
+K03272;centralny;mazowieckie;Strachówka;05-282;Tadeusz Banachomski
+K02638;wschodni;lubelskie;Wojcieszków;21-411;Roman Waleriañczyk
+K02119;pó³nocny;pomorskie;Tr¹bki Wielkie;83-033;Zbigniew Choiñski
+K00063;wschodni;podkarpackie;Nowa Sarzyna;37-310;Izabela Piecuch
+K02870;pó³nocny;kujawsko-pomorskie;Rypin;87-500;Zbigniew Kmiecik
+K00154;pó³nocno-zachodni;lubuskie;Trzebiechów;66-614;Agata Beszczyñska
+K01476;pó³nocny;pomorskie;Choczewo;84-210;Zbigniew Trojanowski
+K00046;wschodni;œwiêtokrzyskie;Pierzchnica;26-015;Adrianna Sobczuk
+K01804;pó³nocny;kujawsko-pomorskie;Che³mno;86-200;Renata Majchrzak
+K00615;pó³nocny;kujawsko-pomorskie;Kcynia;89-240;W³adys³aw Naranowicz
+K02020;pó³nocno-zachodni;lubuskie;Trzebiel;68-212;Irena Wrzesiñska
+K01495;pó³nocny;warmiñsko-mazurskie;Pozezdrze;11-610;Mateusz Kryger
+K02952;po³udniowo-zachodni;opolskie;Prószków;46-060;Katarzyna Kreft
+K02934;wschodni;lubelskie;Borzechów;24-224;Alicja Kordylasiñska
+K01819;wschodni;œwiêtokrzyskie;St¹porków;26-220;Feliks Kostrzak
+K01190;pó³nocno-zachodni;zachodniopomorskie;Gryfino;74-100;Marzena Sobstyl
+K02295;wschodni;œwiêtokrzyskie;Staszów;28-200;Robert Lepa
+K00392;pó³nocno-zachodni;zachodniopomorskie;Stare Czarnowo;74-106;Arkadiusz Czerwiñski
+K00480;pó³nocny;kujawsko-pomorskie;Lniano;86-141;Stanis³aw Kujawa
+K00554;centralny;mazowieckie;Ciepielów;27-310;Janusz Myczek
+K03078;wschodni;lubelskie;Che³m;22-100;Marcin Kaliszan
+K00233;po³udniowo-zachodni;dolnoœl¹skie;¯migród;55-140;Wojciech Sobko
+K02917;centralny;³ódzkie;Tuszyn;98-330;Katarzyna Gers
+K02733;po³udniowo-zachodni;dolnoœl¹skie;Jaworzyna Œl¹ska;58-140;Cezary Kalinowski
+K01995;po³udniowo-zachodni;dolnoœl¹skie;Mi³kowice;59-222;Janina Kulon
+K01779;po³udniowy;œl¹skie;Miasteczko Œl¹skie;42-610;Kamil Jesionowski
+K02456;pó³nocno-zachodni;zachodniopomorskie;Szczecinek;78-400;Piotr W¹cior
+K01172;centralny;mazowieckie;Mrozy;05-320;Stanis³aw Stêpieñ
+K01626;wschodni;podkarpackie;Sko³yszyn;38-242;Franciszek Ciechanowicz
+K00100;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Krzysztof Rojek
+K00111;wschodni;lubelskie;Bychawa;23-100;Damian Zydel
+K01043;po³udniowo-zachodni;dolnoœl¹skie;Bolków;59-420;Krystyna Boczkowska
+K00505;pó³nocno-zachodni;wielkopolskie;Osiek Ma³y;62-613;Tadeusz £o¿ecki
+K01296;centralny;mazowieckie;Huszlew;08-206;Piotr Rybkowski
+K01968;pó³nocny;pomorskie;Sierakowice;83-340;Piotr K³obuch
+K03222;pó³nocno-zachodni;lubuskie;Nowa Sól;67-100;Jolanta B¹k
+K01764;wschodni;œwiêtokrzyskie;Bodzentyn;26-010;Rafa³ Wasilko
+K00465;centralny;³ódzkie;G³owno;95-015;Justyna Ptak
+K03339;po³udniowo-zachodni;opolskie;Dobrodzieñ;46-380;Piotr Humañski
+K02672;pó³nocno-zachodni;wielkopolskie;W³oszakowice;64-140;Krzysztof Pieróg
+K02708;po³udniowy;ma³opolskie;Zabierzów;32-080;Ma³gorzata Szczubkowska
+K02125;wschodni;podkarpackie;Wielopole Skrzyñskie;39-110;Andrzej Ja¿d¿yk
+K01320;pó³nocno-zachodni;lubuskie;Kostrzyn nad Odr¹;66-470;Jan Adamski
+K01220;pó³nocny;warmiñsko-mazurskie;Markusy;82-300;Andrzej Emanowicz
+K01225;po³udniowy;ma³opolskie;Bystra-Sidzina;34-235;Eugeniusz Turtoñ
+K01226;po³udniowo-zachodni;dolnoœl¹skie;Syców;56-500;Regina Wieczorkiewicz
+K01227;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Zbigniew Sadowski
+K02429;pó³nocny;pomorskie;Brusy;89-632;Adam Dzik
+K03259;centralny;mazowieckie;Zwoleñ;09-500;Dariusz Olejnik
+K01110;wschodni;lubelskie;Radzyñ Podlaski;21-300;Miko³aj Sroczyñski
+K02653;pó³nocno-zachodni;lubuskie;Stare Kurowo;66-540;Szymon GoŸdzialski
+K00322;wschodni;lubelskie;Ruda-Huta;22-110;Ewelina £uczyñska
+K00519;wschodni;lubelskie;U³ê¿;08-504;Justyna Ryder
+K01936;centralny;mazowieckie;Raci¹¿;09-140;Iwona Sobczyk
+K00419;wschodni;podkarpackie;Jaœliska;38-485;Dawid Adamski
+K01634;po³udniowy;ma³opolskie;Chrzanów;32-500;Beata Stankiewicz
+K00420;wschodni;œwiêtokrzyskie;Mirzec;27-220;Liliana Ligêza
+K00424;centralny;mazowieckie;Paprotnia;26-902;W³adys³aw Kamola
+K02439;wschodni;podkarpackie;Ulanów;37-410;Renata Mazur
+K03203;pó³nocno-zachodni;zachodniopomorskie;Wa³cz;78-600;£ukasz Sawicki
+K02585;wschodni;podlaskie;Jedwabne;18-420;Zygfryd Zygowski
+K01143;centralny;mazowieckie;M³odzieszyn;96-512;Monika Paku³a
+K00244;pó³nocny;pomorskie;Kaliska;83-260;Krzysztof S³awiñski
+K01566;po³udniowo-zachodni;opolskie;Lasowice Wielkie;46-282;Bogdan Podbereski
+K02700;wschodni;lubelskie;Biszcza;23-425;Bartosz Bieñkowski
+K02886;pó³nocno-zachodni;zachodniopomorskie;S³awno;76-100;Edward Jasiñski
+K00633;wschodni;lubelskie;Fajs³awice;21-060;Józef Karnia
+K01092;pó³nocno-zachodni;wielkopolskie;Pobiedziska;62-010;Henryk Sikorski
+K00714;wschodni;lubelskie;Wólka;21-413;Marek Kapecki
+K00711;centralny;³ódzkie;Daszyna;99-107;Ryszard Kwaœnica
+K02027;wschodni;œwiêtokrzyskie;Radoszyce;26-230;Zbigniew Seku³a
+K02599;centralny;mazowieckie;Szelków;06-220;Tomasz Czechowicz
+K02598;po³udniowo-zachodni;dolnoœl¹skie;Gryfów Œl¹ski;59-620;Krzysztof Makowski
+K02606;po³udniowo-zachodni;dolnoœl¹skie;Kudowa-Zdrój;57-350;Katarzyna Biñczyk
+K01914;centralny;³ódzkie;Nieborów;99-416;Monika Maziarz
+K03009;pó³nocno-zachodni;zachodniopomorskie;Recz;73-210;Arkadiusz Janowski
+K00136;po³udniowo-zachodni;dolnoœl¹skie;Pi³awa Górna;58-240;El¿bieta S³awiñska
+K01759;pó³nocny;kujawsko-pomorskie;Œwiekatowo;86-182;Arletta Przygoda
+K01757;po³udniowy;œl¹skie;Miko³ów;43-190;Bo¿ena Konczak
+K01541;pó³nocno-zachodni;wielkopolskie;Trzemeszno;62-240;El¿bieta Wójtowicz
+K03114;po³udniowy;œl¹skie;Mys³owice;41-406;Gra¿yna NiedŸwiecka
+K01491;po³udniowo-zachodni;dolnoœl¹skie;Strzelin;57-100;Sylwia Klimko
+K00355;pó³nocno-zachodni;wielkopolskie;Godziesze Wielkie;62-872;Pawe³ Gradus
+K02269;pó³nocno-zachodni;wielkopolskie;Kazimierz Biskupi;62-530;Kazimierz Bia³ek
+K03129;po³udniowy;ma³opolskie;Koœcielisko;34-511;Ewelina Nowak
+K00070;wschodni;lubelskie;Tarnogród;23-420;Barbara Grygorcewicz
+K02335;po³udniowy;œl¹skie;Imielin;41-407;Anna Ciarka
+K00835;wschodni;podkarpackie;Sêdziszów Ma³opolski;39-120;Malwina Kujawa
+K00549;wschodni;œwiêtokrzyskie;Chêciny;26-060;Stanis³aw Mamiñski
+K02464;pó³nocny;kujawsko-pomorskie;Sêpólno Krajeñskie;89-400;Zofia Majewska
+K01229;centralny;³ódzkie;Mas³owice;97-515;Jerzy Szczêsny
+K00444;pó³nocny;kujawsko-pomorskie;£asin;86-320;Wies³aw Graczykowski
+K01846;pó³nocno-zachodni;wielkopolskie;Luboñ;62-030;Józef Hryckowian
+K01845;wschodni;lubelskie;Su³ów;22-448;Kazimierz Kuligowski
+K02169;pó³nocny;pomorskie;Cz³uchów;77-300;Tomasz Demczur
+K02168;po³udniowy;ma³opolskie;Szaflary;34-424;Zbigniew Czapla
+K01578;wschodni;podlaskie;Augustów;16-300;Andrzej Swakowski
+K00098;pó³nocny;warmiñsko-mazurskie;Kêtrzyn;11-400;Gabriela Bluma
+K00916;pó³nocno-zachodni;wielkopolskie;Miejska Górka;63-910;£ukasz Stryjek
+K02348;po³udniowo-zachodni;dolnoœl¹skie;Œwieradów-Zdrój;59-850;Kamila Zaremba
+K01448;pó³nocno-zachodni;lubuskie;Bytom Odrzañski;67-115;Rafa³ Ladziñski
+K03181;po³udniowy;ma³opolskie;Czchów;32-860;Andrzej Mucek
+K00757;wschodni;podkarpackie;Stubno;37-723;Dorota Rogala
+K02493;wschodni;podkarpackie;Besko;38-524;Ewa Skrzypek
+K02492;po³udniowy;ma³opolskie;¯abno;33-240;Andrzej Pilarski
+K01805;po³udniowy;œl¹skie;Siewierz;42-470;Renata Kochanowska
+K02198;wschodni;podkarpackie;Majdan Królewski;36-110;Dariusz Bednarczyk
+K03015;wschodni;podkarpackie;Ko³aczyce;38-213;Miros³aw G³owacki
+K02970;po³udniowy;œl¹skie;Czêstochowa;42-280;Miros³aw Byzdra
+K03352;pó³nocno-zachodni;wielkopolskie;Budzyñ;64-840;Stanis³aw Cybula
+K00208;wschodni;œwiêtokrzyskie;Po³aniec;28-230;Jolanta Mazurek
+K00431;pó³nocno-zachodni;wielkopolskie;Gniezno;62-200;Damian Padziñski
+K02933;pó³nocno-zachodni;wielkopolskie;Jaraczewo;63-233;Gabriela Kotowicz
+K02937;po³udniowy;ma³opolskie;Proszowice;32-100;Tadeusz Kufel
+K01300;pó³nocno-zachodni;zachodniopomorskie;Wolin;72-510;Andrzej JóŸwiak
+K02701;wschodni;œwiêtokrzyskie;Obrazów;27-641;Aneta Cieœlicka
+K01843;pó³nocno-zachodni;wielkopolskie;Mikstat;63-510;Kazimiera Janowicz
+K01469;pó³nocno-zachodni;wielkopolskie;Olszówka;62-641;El¿bieta Wasikowska
+K00765;po³udniowo-zachodni;opolskie;Kêdzierzyn-KoŸle;47-200;Wojciech Krajnik
+K02862;centralny;mazowieckie;Naruszewo;09-152;Milena Dalinkiewicz
+K01684;wschodni;podkarpackie;Oleszyce;37-630;Janusz Kwiatkowski
+K01610;pó³nocno-zachodni;zachodniopomorskie;Police;72-010;W³adys³aw Wolski
+K01964;wschodni;lubelskie;Tereszpol;23-407;Katarzyna Mowczan
+K01396;wschodni;podlaskie;Klukowo;17-300;Katarzyna Grodkowska
+K01399;po³udniowy;ma³opolskie;Kamionka Wielka;33-334;Krzysztof Skornia
+K02830;centralny;mazowieckie;£osice;08-200;Konrad Górzewski
+K00476;wschodni;podlaskie;Nurzec-Stacja;17-330;El¿bieta Kusiak
+K02616;po³udniowo-zachodni;dolnoœl¹skie;Mieroszów;58-350;Anna Babiarczyk
+K01263;pó³nocny;kujawsko-pomorskie;Grudzi¹dz;86-302;Marcin Kuchta
+K01062;centralny;³ódzkie;Parady¿;26-333;S³awomir Makrzanowski
+K03364;po³udniowy;œl¹skie;Tychy;43-100;Jerzy ¯ó³towski
+K03369;pó³nocno-zachodni;wielkopolskie;K³ecko;62-270;Bartosz Kowalczyk
+K02261;pó³nocny;pomorskie;Bytów;77-100;Leszek Majchrzak
+K01512;wschodni;lubelskie;Józefów nad Wis³¹;24-340;Miros³aw Araszczuk
+K00924;centralny;mazowieckie;Karczew;05-480;Sylwia Prendecka
+K02871;centralny;mazowieckie;Mordy;08-140;Franciszek Kanasiuk
+K00057;po³udniowy;ma³opolskie;Biecz;38-340;Pawe³ Marchewka
+K00806;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-335;Leszek Janiak
+K00948;pó³nocny;kujawsko-pomorskie;Kowalewo Pomorskie;87-410;Marek Borowski
+K00175;po³udniowy;ma³opolskie;Che³miec;33-395;Ewa Szczuchniak
+K01369;pó³nocny;pomorskie;Skarszewy;83-250;Iwona Strzelczyk
+K03143;po³udniowy;œl¹skie;Szczyrk;43-370;Anna Wach
+K01120;wschodni;lubelskie;Frampol;23-440;Romuald Stadnicki
+K03170;wschodni;podkarpackie;Krzeszów;37-418;Zbigniew Dwornik
+K02473;wschodni;lubelskie;£ukowa;23-412;Stanis³aw Agatowski
+K01728;pó³nocny;kujawsko-pomorskie;Wiêcbork;89-410;Irena Oleksy
+K01673;centralny;mazowieckie;Legionowo;05-120;Marek Gil
+K00878;pó³nocno-zachodni;wielkopolskie;Brudzew;62-720;Adam Taczkowski
+K02706;pó³nocno-zachodni;wielkopolskie;Rychwa³;62-570;Rubina Kosmala
+K00708;pó³nocno-zachodni;lubuskie;Górzyca;69-113;Agnieszka Ostaszewska
+K00704;po³udniowo-zachodni;dolnoœl¹skie;Lubawka;58-420;Witold Rup
+K00706;pó³nocny;pomorskie;W³adys³awowo;84-120;Krystyna Marchwiak
+K02581;po³udniowy;œl¹skie;Radzionków;41-922;B³a¿ej Szafrañski
+K01790;wschodni;lubelskie;Tomaszów Lubelski;22-600;Zbigniew Malinowski
+K00242;wschodni;lubelskie;Dêblin;08-530;Magdalena Nowicka
+K01639;po³udniowy;œl¹skie;Lubliniec;42-700;Jolanta Szczepaniak
+K01641;pó³nocny;kujawsko-pomorskie;Kikó³;87-620;El¿bieta Potapiñska
+K01435;pó³nocno-zachodni;zachodniopomorskie;Trzebiatów;73-131;El¿bieta Krzemieñ
+K03215;wschodni;lubelskie;Rybczewice;21-065;Krzysztof Saniuk
+K01022;pó³nocny;warmiñsko-mazurskie;Orneta;11-130;Ewelina Tytoñ
+K01794;wschodni;podkarpackie;Rani¿ów;36-130;Renata Tomczak
+K00884;centralny;³ódzkie;Pi¹tek;99-120;Andrzej Subocz
+K03382;pó³nocno-zachodni;lubuskie;Rzepin;69-110;Jadwiga Micewska
+K02283;wschodni;podlaskie;Stawiski;18-520;Franciszek Adamiuk
+K02186;po³udniowo-zachodni;dolnoœl¹skie;¯arów;58-130;Zdzis³aw Czarnecki
+K02765;centralny;mazowieckie;Chlewiska;26-510;Krystyna Strzy¿ewska
+K02755;wschodni;podlaskie;Filipów;16-424;Wioleta Lebiecka
+K03391;pó³nocno-zachodni;zachodniopomorskie;Borne Sulinowo;78-449;Agata Krymowska
+K00311;centralny;mazowieckie;Rusinów;26-411;Marta Boryszewska
+K00512;pó³nocno-zachodni;lubuskie;Witnica;66-460;Janina Fischer
+K00516;pó³nocny;warmiñsko-mazurskie;Mi³ki;11-513;Ma³gorzata Januchowska
+K00264;po³udniowy;œl¹skie;Sosnowiec;41-200;Miros³aw Lubiniecki
+K00292;po³udniowy;ma³opolskie;S³omniki;32-090;Ryszard Krupa
+K01464;po³udniowo-zachodni;dolnoœl¹skie;Prusice;55-110;Robert Korobejko
+K01585;wschodni;podkarpackie;Osiek Jasielski;38-223;Halina Stañczak
+K02744;po³udniowo-zachodni;opolskie;Krapkowice;47-300;Robert ŒŒmigielski
+K01056;pó³nocny;warmiñsko-mazurskie;Mi³om³yn;14-140;Teresa Nowakowska
+K01057;pó³nocno-zachodni;wielkopolskie;Nowy Tomyœl;64-300;Katarzyna Jankowska
+K01102;centralny;³ódzkie;BrzeŸnio;98-275;£ukasz Michalski
+K03250;centralny;mazowieckie;Szczawin Koœcielny;09-550;Krystyna K³osowska
+K03399;po³udniowo-zachodni;opolskie;Niemodlin;49-100;Witold Kuwa³ek
+K01972;wschodni;podlaskie;Czy¿e;17-200;Lilla Lewandowska
+K02451;pó³nocno-zachodni;wielkopolskie;Pleszew;63-300;Anna Wiœniewska
+K01704;wschodni;lubelskie;Mi¹czyn;22-455;Miros³aw Gostomczyk
+K00675;centralny;mazowieckie;Radziejowice;96-325;Piotr Saryczew
+K01559;pó³nocny;pomorskie;Hel;84-150;Dorota Latuszek
+K01255;centralny;mazowieckie;Pra¿mów;05-505;Krzysztof Mrula
+K00260;centralny;mazowieckie;Konstancin-Jeziorna;05-510;Daniel Zmitkiewicz
+K00116;centralny;mazowieckie;Szyd³owiec;26-500;Marcin Sychowski
+K01735;po³udniowy;œl¹skie;Gliwice;44-152;Zbigniew Tomasz
+K02887;pó³nocno-zachodni;lubuskie;Trzciel;66-320;Lech Kopiecki
+K00161;wschodni;lubelskie;Kurów;24-170;Magdalena Stêpieñ
+K02683;centralny;mazowieckie;Nowy Duninów;09-505;Piotr Ró¿añski
+K00953;wschodni;lubelskie;Siedliszcze;22-130;Marta Korall
+K00016;centralny;mazowieckie;Grodzisk Mazowiecki;05-827;Joanna Szpanier
+K01305;centralny;mazowieckie;Marki;05-270;Krystyna Wiœniewska
+K02680;pó³nocno-zachodni;zachodniopomorskie;Ko³baskowo;72-001;Ma³gorzata Pe³echata
+K01638;po³udniowo-zachodni;opolskie;Zêbowice;46-048;Ryszard Stoparek
+K00775;centralny;³ódzkie;Widawa;98-170;Krzysztof Miko³ajczyk
+K02470;wschodni;podlaskie;Tykocin;16-080;Tomasz Rymaszewski
+K02819;po³udniowy;ma³opolskie;Kalwaria Zebrzydowska;34-130;Danuta Wilk
+K02621;pó³nocno-zachodni;zachodniopomorskie;Miros³awiec;78-600;Piotr Elzner
+K00987;pó³nocno-zachodni;lubuskie;Sulêcin;69-200;Natalia Siatkowska
+K00988;po³udniowo-zachodni;opolskie;Baborów;48-120;Wojciech Kubacki
+K00991;po³udniowy;ma³opolskie;Drwinia;32-708;Anna Kosno
+K00985;pó³nocny;kujawsko-pomorskie;Topólka;87-875;Maria Malkiewicz
+K00218;pó³nocno-zachodni;lubuskie;Jasieñ;68-320;Pawe³ Baranowski
+K02632;centralny;mazowieckie;Stromiec;26-804;Anastazja Kêdziora
+K02989;po³udniowy;ma³opolskie;Jab³onka;34-480;Emilia Mazur
+K00560;po³udniowo-zachodni;dolnoœl¹skie;Bardo;57-256;Bartosz Ozdoba
+K01422;wschodni;œwiêtokrzyskie;Wiœlica;28-160;El¿bieta JaŸwiñska
+K02694;wschodni;lubelskie;Tarnogród;23-420;Krystyna Staniszewska
+K02236;pó³nocno-zachodni;lubuskie;Pszczew;66-330;Sabina Bednarska
+K02235;po³udniowy;ma³opolskie;Bobowa;38-350;Katarzyna Formalewicz
+K01877;pó³nocny;pomorskie;Skórcz;83-220;Danuta Polechoñska
+K01393;wschodni;podlaskie;Bielsk Podlaski;17-100;Anna Stasiak
+K02901;wschodni;lubelskie;£aszczów;22-650;Ma³gorzata Czerkawska
+K02401;wschodni;lubelskie;Krasnystaw;22-300;Bogdan Mordarski
+K00703;wschodni;lubelskie;Spiczyn;21-077;Mariola Michorek
+K01128;pó³nocny;kujawsko-pomorskie;Golub-Dobrzyñ;87-400;Alicja Woliñska
+K01534;centralny;mazowieckie;Teresin;96-515;Krzysztof Jastrzêbski
+K01834;po³udniowo-zachodni;dolnoœl¹skie;Duszniki-Zdrój;57-340;Natalia Ga³êza
+K00873;wschodni;œwiêtokrzyskie;Gnojno;28-114;Anna Miedzianko
+K00676;centralny;mazowieckie;¯abia Wola;26-806;Beata Zalewska
+K03251;centralny;mazowieckie;Warszawa;00-227;Rafa³ Wasyluk
+K02548;po³udniowy;ma³opolskie;Kraków;31-144;Aleksandra Ruzik
+K00094;centralny;³ódzkie;£ódŸ;90-111;Krzysztof Drobiñski
+K01821;centralny;mazowieckie;Warszawa;00-659;Renata Czarkowska
+K00604;po³udniowy;ma³opolskie;Kraków;31-510;Katarzyna Zychal
+K01402;centralny;³ódzkie;£ódŸ;90-326;Jan Rybowski
+K01822;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-268;Marta Jaworska
+K02431;po³udniowy;ma³opolskie;Kraków;31-061;Wojciech Ró¿ycki
+K01340;centralny;mazowieckie;Warszawa;00-307;Ryszard Kulig
+K00667;wschodni;lubelskie;Lublin;20-834;Alicja Wdowiñska
+K02107;centralny;³ódzkie;£ódŸ;90-013;Damian Wawrzynkiewicz
+K02747;centralny;mazowieckie;Warszawa;00-565;Ryszard Szufel
+K02618;centralny;mazowieckie;Warszawa;00-235;Anna Matejak
+K01291;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-337;Lidia Popiel
+K00068;centralny;mazowieckie;Warszawa;00-280;Miros³aw Skórka
+K00198;wschodni;podkarpackie;Rzeszów;35-050;Miros³aw Nejman
+K01810;po³udniowy;ma³opolskie;Kraków;31-035;Ewelina Marut
+K01060;po³udniowo-zachodni;dolnoœl¹skie;Legnica;59-220;El¿bieta Gabruch
+K01481;po³udniowy;ma³opolskie;Kraków;31-476;Krzysztof Szmidt
+K03004;po³udniowy;ma³opolskie;Kraków;31-464;Anna Bugzel
+K01044;po³udniowy;ma³opolskie;Kraków;31-126;Pawe³ Falandysz
+K01773;centralny;mazowieckie;Warszawa;00-133;Kazimierz Nowak
+K01751;po³udniowy;ma³opolskie;Kraków;31-464;Stefan Wójcik
+K02460;centralny;mazowieckie;Warszawa;00-548;W³odzimierz Popio³ek
+K02565;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-814;Pawe³ Michalski
+K01176;centralny;mazowieckie;Warszawa;00-033;Micha³ WoŸnicki
+K00342;po³udniowy;œl¹skie;Jastrzêbie-Zdrój;44-330;Jan Mazuro
+K02878;pó³nocny;warmiñsko-mazurskie;Olsztyn;10-601;Andrzej Salwa
+K02756;wschodni;podkarpackie;Rzeszów;35-304;Artur Miko³ajek
+K02434;po³udniowy;œl¹skie;Ruda Œl¹ska;41-710;Iwona Obrocka
+K01246;centralny;mazowieckie;Warszawa;00-564;Robert Pacyna
+K01318;centralny;mazowieckie;Warszawa;00-697;Edyta Assmann
+K03106;po³udniowo-zachodni;dolnoœl¹skie;Wroc³aw;50-375;Wies³awa Skierczyñska
